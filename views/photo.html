@@ -1,0 +1,29 @@
+<!doctype html>
+
+<head>
+   
+   {% include 'common/meta.html' %}
+   {% include 'common/styles.html' %}
+   
+</head>
+<body class="page-photo">
+
+   {% include 'common/nav.html'%}
+
+	<div class="container-fluid">
+
+		<div class="row">
+				<div class="col-sm-12">
+					<div id="openseadragon"></div>
+				</div><!-- .col -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+
+	{% include 'common/zoom-footer.html' %}
+	{% include 'common/scripts.html' %}
+
+	{% include 'common/zoom.html' with {'folder': photo.folder, 'site': photo.site} %}
+
+</body>
+</html>
+

@@ -1,0 +1,54 @@
+<!doctype html>
+
+<head>
+
+{% include 'common/meta.html' %}
+{% include 'common/styles.html' %}
+
+
+
+</head>
+<body>
+
+	{% include 'common/nav.html' with {'foo': 'bar'} %}
+
+	<div class="container-fluid">
+
+		<div class="container">
+
+			<div class="row">
+				<div class="page-header">
+						<h1>Categories</h1>
+				</div>
+			</div><!-- .row -->
+
+			<div class="row-fluid">
+
+				{% for category in categories %}
+					<div class="col-sm-4">
+						<a href="category.php?category={{category.category}}">
+							<div class="card" style="background-image: url('{{category.folder}}/thumbnail.jpg')">
+								<div class="inner">
+									<h1>{{ category.category }}</h1>
+								</div>
+							</div><!-- .col -->
+						</a>
+					</div><!-- .col -->
+				{% endfor %}
+
+				<!--{{cards}}-->
+				{% if name is empty %}
+				{% set name = "test" %}
+				{% endif %}
+
+			</div><!-- .row -->
+		</div><!-- .container -->
+
+	</div><!-- .container -->
+
+	{% include 'common/footer.html' %}
+	{% include 'common/scripts.html' %}
+
+</body>
+</html>
+

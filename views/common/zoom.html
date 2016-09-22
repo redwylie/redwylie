@@ -1,0 +1,15 @@
+<script>
+  // This creates the actual viewer. 
+  var viewer = OpenSeadragon({
+    id: 'openseadragon',
+    {% if site == "redwylie" %}
+    prefixUrl: 'assets/scripts/openseadragon/images/',
+    tileSources: "{{folder}}/zoom.dzi",
+    {% else %}
+    prefixUrl: 'http://www/digitiler.com/assets/scripts/openseadragon/images/',
+    tileSources: "http://www/digitiler.com/{{folder}}/zoom.dzi",
+   	crossOriginPolicy: 'Anonymous'
+    ajaxWithCredentials: false
+    {% endif %}
+  });
+</script>
