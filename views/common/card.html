@@ -1,17 +1,41 @@
 <div class="col-sm-6 col-md-4">
-	<a href="photo.php?photo={{image._id}}" class="link">
+	
+	{% if view == 'photo' %}
+		<a href="photo.php?photo={{image._id}}" class="link">
+	{% else %}
+		<a href="category.php?category={{category.category}}"  class="link category-link">
+	{% endif %}
+
 		{% if image.site == 'redwylie' %}
-			<div class="card" data-content="{{image.title}}" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
+			{% if view == 'photo' %}
+				<div class="card" data-content="{{image.title}}" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
+			{% else %}
+				<div class="card" data-content="{{image.title}}" style="background-image: url('{{category.folder}}/thumbnail.jpg')">
+			{% endif %}
+			
 				<div class="inner">
-					<h1>{{ image.title }}</h1>
-					 <small>{{image.photographer}}</small>
+					{% if view == 'photo' %}
+						<h1>{{ image.title }}</h1>
+						<small>{{image.type}}</small>
+					{% else %}
+						<h1>{{ category.category }}</h1>
+					{% endif %}
 				</div>
 			</div><!-- .card -->
 		{% else %}
-			<div class="card" data-content="{{image.title}}" style="background-image: url('http://www.digitiler.com/{{image.folder}}/thumbnail.jpg')">
+			{% if view == 'photo' %}
+				<div class="card" data-content="{{image.title}}" style="background-image: url('http://www.digitiler.com/{{image.folder}}/thumbnail.jpg')">
+			{% else %}
+				<div class="card" data-content="{{image.title}}" style="background-image: url('http://www.digitiler.com/{{category.folder}}/thumbnail.jpg')">
+			{% endif %}
+			
 				<div class="inner">
-					<h1>{{ image.title }}</h1>
-					 <small>{{image.photographer}}</small>
+					{% if view == 'photo' %}
+						<h1>{{ image.title }}</h1>
+						<small>{{image.type}}</small>
+					{% else %}
+						<h1>{{ category.category }}</h1>
+					{% endif %}
 				</div>
 			</div><!-- .card -->
 		{% endif %}

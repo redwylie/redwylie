@@ -5,7 +5,7 @@
     , "title": "Farm Bouquet"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -17,7 +17,7 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -29,19 +29,31 @@
     , "title": "Peppercorns Macro"
     , "year": "2016"
     , "category": "Macro"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": true
     , "digitiler": true
     , "site": "digitiler"
   },
-    { "_id": "format_comparison"
+  { "_id": "simple_shell"
+    , "folder": "photos/2016/09-September/2016-09-28/shell"
+    , "externalURL": ""
+    , "title": "Simple Shell"
+    , "year": "2016"
+    , "category": "Seashells"
+    , "type": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+  { "_id": "format_comparison"
     , "folder": "zooms/2016/09-September/2016-09-21/beer"
     , "externalURL": ""
     , "title": "APSC vs Full Frame Digitiler vs APSC Digitiler"
     , "year": "2016"
     , "category": "Product Shots"
-    , "images": "99"
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": true
     , "digitiler": true
@@ -53,7 +65,7 @@
     , "title": "Sunflower Macro"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -65,9 +77,9 @@
     , "title": "Leaf"
     , "year": "2016"
     , "category": "Miscellaneous"
-    , "images": "48"
+    , "type": "High Resolution"
     , "viewOnHome": true
-    , "viewOnCategories": false
+    , "viewOnCategories": true
     , "digitiler": true
     , "site": "digitiler"
   },
@@ -76,8 +88,8 @@
     , "externalURL": ""
     , "title": "Seashell"
     , "year": "2016"
-    , "category": "Miscellaneous"
-    , "images": ""
+    , "category": "Seashells"
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": true
     , "digitiler": true
@@ -90,7 +102,7 @@
     , "title": "Bunny"
     , "year": "2016"
     , "category": "Miscellaneous"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -102,7 +114,7 @@
     , "title": "Sunflowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": true
     , "digitiler": true
@@ -114,8 +126,8 @@
     , "externalURL": ""
     , "title": "Seashell"
     , "year": "2016"
-    , "category": "Miscellaneous"
-    , "images": ""
+    , "category": "Seashells"
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -127,7 +139,7 @@
     , "title": "Seashell"
     , "year": "2016"
     , "category": "Seashells"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -139,7 +151,7 @@
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -151,19 +163,30 @@
     , "title": "Milky Top Oats"
     , "year": "2016"
     , "category": "Macro"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
-  
+    { "_id": "Blancpain_No_516_02"
+    , "folder": "zooms/2016/09-September/2016-09-25/watch"
+    , "externalURL": ""
+    , "title": "Blancpain No 516"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
   {"_id": "peppercorns_in_lid"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_2"
     , "externalURL": ""
     , "title": "Peppercorns"
     , "category": "Miscellaneous"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -175,7 +198,7 @@
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -187,7 +210,7 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -199,11 +222,23 @@
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
+  },
+  { "_id": "shell_6"
+    , "folder": "photos/2016/10-October/2016-10-01/shell"
+    , "externalURL": ""
+    , "title": "Shell"
+    , "year": "2016"
+    , "category": "Seashells"
+    , "type": "Stacked"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
     {"_id": "flowers_1"
     , "folder": "zooms/2016/09-September/2016-09-05/flower"
@@ -211,7 +246,7 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -223,7 +258,7 @@
     , "title": "Buddha Statue"
     , "year": "2016"
     , "category": "Miscellaneous"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -235,7 +270,7 @@
     , "title": "Tomatoes"
     , "year": "2016"
     , "category": "Miscellaneous"
-    , "images": ""
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -247,7 +282,7 @@
     , "title": "Razor"
     , "year": "2016"
     , "category": "Product Shots"
-    , "images": "49"
+    , "type": "High Resolution49"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -259,7 +294,7 @@
     , "title": "Razor"
     , "year": "2016"
     , "category": "Product Shots"
-    , "images": "16"
+    , "type": "High Resolution16"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -271,7 +306,7 @@
     , "title": "Razor"
     , "year": "2016"
     , "category": "Product Shots"
-    , "images": "49"
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -283,19 +318,7 @@
     , "title": "Tavannes"
     , "year": "2016"
     , "category": "Product Shots"
-    , "images": "25"
-    , "viewOnHome": true
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  { "_id": "Blancpain_No_516_02"
-    , "folder": "zooms/2016/09-September/2016-09-25/watch"
-    , "externalURL": ""
-    , "title": "Blancpain No 516"
-    , "year": "2016"
-    , "category": "Product Shots"
-    , "images": "49"
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -307,7 +330,7 @@
     , "title": "Blancpain No 516"
     , "year": "2016"
     , "category": "Product Shots"
-    , "images": "49"
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
@@ -318,11 +341,23 @@
     , "externalURL": ""
     , "title": "Seashell"
     , "year": "2016"
-    , "category": "Miscellaneous"
-    , "images": ""
+    , "category": "Seashells"
+    , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
+  },
+    { "_id": "Razor_Stack_1"
+    , "folder": "photos/2016/10-October/2016-10-03/razor_1"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "type": "Stacked"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   }
 ]}

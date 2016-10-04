@@ -13,7 +13,12 @@
 
 		<div class="row">
 				<div class="col-sm-12">
+					{% if image.digitiler %}
 					<div id="openseadragon"></div>
+					{% else %}
+						<br/>
+						<img src="{{photo.folder}}/photo.jpg" class="img-responsive" />
+					{% endif %}
 				</div><!-- .col -->
 		</div><!-- .row -->
 	</div><!-- .container -->

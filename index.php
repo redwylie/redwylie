@@ -25,4 +25,7 @@ echo $template->render(array(
     'images' => $images->{'images'}
 ));
 
+
+//include ("cards.php")
+
 ?>

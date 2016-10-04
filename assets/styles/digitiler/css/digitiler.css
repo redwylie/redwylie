@@ -5868,13 +5868,22 @@ a.link:hover {
     z-index: 1;
     position: relative; }
   .card small {
-    display: none;
     z-index: 1;
     position: relative; }
 
 .card .inner {
-  padding-top: 100px;
+  margin-top: 100px;
   display: none; }
+
+.category-link .card .inner {
+  height: 60px;
+  margin-top: 206px;
+  width: 100%;
+  display: block;
+  background: rgba(0, 0, 0, 0.5); }
+  .category-link .card .inner h1 {
+    position: relative;
+    top: 20px; }
 
 .card:hover {
   border: 2px solid #52bbdc; }

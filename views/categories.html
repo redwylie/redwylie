@@ -14,30 +14,14 @@
 
 			<div class="row">
 				<div class="page-header">
-						<h1>Categories</h1>
+					<h1>Categories</h1>
 				</div>
 			</div><!-- .row -->
 
 			<div class="row-fluid">
 
 				{% for category in categories %}
-					<div class="col-sm-6 col-md-4">
-						<a href="category.php?category={{category.category}}"  class="link">
-						{% if image.site == 'redwylie' %}
-							<div class="card" data-content="{{image.title}}" style="background-image: url('{{category.folder}}/thumbnail.jpg')">
-								<div class="inner">
-									<h1>{{ category.category }}</h1>
-								</div>
-							</div><!-- .card -->
-						{% else %}
-							<div class="card" data-content="{{image.title}}" style="background-image: url('http://www.digitiler.com/{{category.folder}}/thumbnail.jpg')">
-								<div class="inner">
-									<h1>{{ category.category }}</h1>
-								</div>
-							</div><!-- .card -->
-						{% endif %}
-						</a>
-					</div><!-- .col -->
+					{% include 'common/card.html' with {'view':'categories'} %}
 				{% endfor %}
 
 				<!--{{cards}}-->
