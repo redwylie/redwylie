@@ -1,0 +1,19 @@
+<div class="col-sm-6 col-md-4">
+	<a href="photo.php?photo={{image._id}}" class="link">
+		{% if image.site == 'redwylie' %}
+			<div class="card" data-content="{{image.title}}" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
+				<div class="inner">
+					<h1>{{ image.title }}</h1>
+					 <small>{{image.photographer}}</small>
+				</div>
+			</div><!-- .card -->
+		{% else %}
+			<div class="card" data-content="{{image.title}}" style="background-image: url('http://www.digitiler.com/{{image.folder}}/thumbnail.jpg')">
+				<div class="inner">
+					<h1>{{ image.title }}</h1>
+					 <small>{{image.photographer}}</small>
+				</div>
+			</div><!-- .card -->
+		{% endif %}
+	</a>
+</div><!-- .col -->
