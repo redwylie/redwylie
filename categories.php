@@ -31,10 +31,8 @@ foreach ($images->{'images'} as &$image) {
 
 $template = $twig->loadTemplate('categories.html');
 echo $template->render(array(
-		'name' => 'Max',
-		'title' => 'Digitiler - High Resolution Digital Photography',
-     'categories' => $categories
-	));
+    'categories' => $categories
+));
 
 
 //include ("cards.php")

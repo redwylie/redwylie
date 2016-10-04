@@ -35,7 +35,6 @@ foreach ($obj->{'images'} as &$image) {
 
 $template = $twig->loadTemplate('photo.html');
 echo $template->render(array(
-		'title' => 'Digitiler - High Resolution Digital Photography',
 		'photo' => $photo,
 		'id' => $id
 	));

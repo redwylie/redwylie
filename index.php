@@ -22,10 +22,8 @@ $images = json_decode($json);
 
 $template = $twig->loadTemplate('index.html');
 echo $template->render(array(
-		'name' => 'Max',
-		'title' => 'Digitiler - High Resolution Digital Photography',
-     'images' => $images->{'images'}
-	));
+    'images' => $images->{'images'}
+));
 
 
 //include ("cards.php")

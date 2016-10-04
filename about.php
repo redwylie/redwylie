@@ -12,7 +12,7 @@ $twig = new Twig_Environment($loader, array(
 
 $template = $twig->loadTemplate('about.html');
 echo $template->render(array( 
-		'title' => 'Digitiler - High Resolution Digital Photography'
+		'title' => 'The Photography of Mark Wylie'
 	));
 
 ?>

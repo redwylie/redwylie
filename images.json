@@ -1,7 +1,7 @@
 {"images": [
-  {"_id": 10
+  {"_id": "farm_bouquet"
     , "folder": "zooms/2016/09-September/2016-09-03/bouquet"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Farm Bouquet"
     , "photographer": "Mark Wylie"
     , "lens": "180mm Nikkor"
@@ -16,9 +16,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 13
+  {"_id": "three_flowers"
     , "folder": "zooms/2016/09-September/2016-09-07/three_flowers"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Flowers"
     , "photographer": "Mark Wylie"
     , "lens": "210mm Cambo"
@@ -33,9 +33,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 7
+  {"_id": "peppercorns_macro"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_1"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Peppercorns Macro"
     , "photographer": "Mark Wylie"
     , "lens": "56mm"
@@ -50,9 +50,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-    { "_id": 21
+    { "_id": "format_comparison"
     , "folder": "zooms/2016/09-September/2016-09-21/beer"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "APSC vs Full Frame Digitiler vs APSC Digitiler"
     , "photographer": "Mark Wylie"
     , "lens": "210mm Cambo"
@@ -67,9 +67,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  { "_id": 0
+  { "_id": "sunflower_1"
     , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Sunflower Macro"
     , "photographer": "Mark Wylie"
     , "lens": "56mm"
@@ -84,9 +84,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  { "_id": 17
+  { "_id": "fall_leaf"
     , "folder": "zooms/2016/09-September/2016-09-18/leaf"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Leaf"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -101,9 +101,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  { "_id": 1
+  { "_id": "seashell_1"
     , "folder": "zooms/2016/09-September/2016-09-10/seashell_1"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Seashell"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -119,9 +119,9 @@
     , "site": "digitiler"
   },
 
-    {"_id": 19
+    {"_id": "rabbit_ring_holder"
     , "folder": "zooms/2016/09-September/2016-09-19/bunny"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Bunny"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -136,9 +136,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 2
+  {"_id": "sunflower_2"
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_1"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Sunflowers"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -154,9 +154,9 @@
     , "site": "digitiler"
   },
   
-  {"_id": 16
+  {"_id": "seashell_2"
     , "folder": "zooms/2016/09-September/2016-09-15/seashell_2"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Seashell"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -171,9 +171,26 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 5
+  { "_id": "seashell_3"
+    , "folder": "zooms/2016/10-October/2016-10-01/shell"
+    , "externalURL": ""
+    , "title": "Seashell"
+    , "photographer": "Mark Wylie"
+    , "lens": "Nikon 120mm Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony A7r"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Seashells"
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  {"_id": "sunflower_4"
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_4"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Sunflower"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -188,9 +205,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 6
+  {"_id": "milky_top_oats"
     , "folder": "zooms/2016/08-August/2016-08-24/milky_top_oats"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Milky Top Oats"
     , "photographer": "Mark Wylie"
     , "lens": "56mm"
@@ -206,9 +223,9 @@
     , "site": "digitiler"
   },
   
-  {"_id": 8
+  {"_id": "peppercorns_in_lid"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_2"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Peppercorns"
     , "photographer": "Mark Wylie"
     , "lens": "56mm"
@@ -223,9 +240,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 4
+  {"_id": "sunflower_3"
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_3"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Sunflower"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -240,9 +257,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 14
+  {"_id": "two_flowers"
     , "folder": "zooms/2016/09-September/2016-09-07/two_flowers"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Flowers"
     , "photographer": "Mark Wylie"
     , "lens": "210mm Cambo"
@@ -257,9 +274,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 3
+  {"_id": "sunflower_5"
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_2"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Sunflower"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -274,9 +291,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-    {"_id": 12
+    {"_id": "flowers_1"
     , "folder": "zooms/2016/09-September/2016-09-05/flower"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Flowers"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
@@ -291,9 +308,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 9
+  {"_id": "buddha_statue_1"
     , "folder": "zooms/2016/08-August/2016-08-28/buddha"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Buddha Statue"
     , "photographer": "Mark Wylie"
     , "lens": "56mm"
@@ -308,9 +325,9 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 11
+  {"_id": "tomatoes"
     , "folder": "zooms/2016/09-September/2016-09-01/tomatoes"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Tomatoes"
     , "photographer": "Mark Wylie"
     , "lens": "56mm"
@@ -325,9 +342,111 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": 15
+  { "_id": "Razor"
+    , "folder": "zooms/2016/10-October/2016-10-02/razer"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  { "_id": "Razor_1"
+    , "folder": "zooms/2016/10-October/2016-10-03/razor_1"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "16"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  { "_id": "Razor_2"
+    , "folder": "zooms/2016/10-October/2016-10-03/razor_2"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  { "_id": "Tavannes"
+    , "folder": "zooms/2016/09-September/2016-09-28/watch"
+    , "externalURL": ""
+    , "title": "Tavannes"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "25"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  { "_id": "Blancpain_No_516_02"
+    , "folder": "zooms/2016/09-September/2016-09-25/watch"
+    , "externalURL": ""
+    , "title": "Blancpain No 516"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": "48"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  { "_id": "Blancpain_No_516"
+    , "folder": "zooms/2016/09-September/2016-09-23/watch"
+    , "externalURL": "https://flic.kr/p/MvxEKf"
+    , "title": "Blancpain No 516"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": "48"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  {"_id": "seashell_3"
     , "folder": "zooms/2016/09-September/2016-09-15/seashell_1"
-    , "flickr": ""
+    , "externalURL": ""
     , "title": "Seashell"
     , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"

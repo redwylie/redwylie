@@ -5868,6 +5868,7 @@ a.link:hover {
     z-index: 1;
     position: relative; }
   .card small {
+    display: none;
     z-index: 1;
     position: relative; }
 
