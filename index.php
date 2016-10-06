@@ -19,7 +19,6 @@ $json = $file;
 
 $images = json_decode($json);
 
-
 $template = $twig->loadTemplate('index.html');
 echo $template->render(array(
     'images' => $images->{'images'}

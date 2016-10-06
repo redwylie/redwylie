@@ -11,18 +11,19 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": "three_flowers"
-    , "folder": "zooms/2016/09-September/2016-09-07/three_flowers"
+    { "_id": "sunflower_6"
+    , "folder": "photos/2016/09-September/2016-09-11/sunflower_1"
     , "externalURL": ""
-    , "title": "Flowers"
+    , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
-    , "type": "High Resolution"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
+    , "digitiler": false
+    , "site": "redwylie"
   },
+  
   {"_id": "peppercorns_macro"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_1"
     , "externalURL": ""
@@ -41,23 +42,11 @@
     , "title": "Simple Shell"
     , "year": "2016"
     , "category": "Seashells"
-    , "type": ""
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
-  },
-  { "_id": "format_comparison"
-    , "folder": "zooms/2016/09-September/2016-09-21/beer"
-    , "externalURL": ""
-    , "title": "APSC vs Full Frame Digitiler vs APSC Digitiler"
-    , "year": "2016"
-    , "category": "Product Shots"
-    , "type": "High Resolution"
-    , "viewOnHome": true
-    , "viewOnCategories": true
-    , "digitiler": true
-    , "site": "digitiler"
   },
   { "_id": "sunflower_1"
     , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
@@ -83,6 +72,18 @@
     , "digitiler": true
     , "site": "digitiler"
   },
+   { "_id": "Jamaica_Pond"
+    , "folder": "photos/2016/08-August/2016-08-08/pond"
+    , "externalURL": ""
+    , "title": "Jamaica Pond"
+    , "year": "2016"
+    , "category": "Boston"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
+  },
   { "_id": "seashell_1"
     , "folder": "zooms/2016/09-September/2016-09-10/seashell_1"
     , "externalURL": ""
@@ -95,7 +96,18 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-
+{ "_id": "sunflower_7"
+    , "folder": "photos/2016/09-September/2016-09-11/sunflower_2"
+    , "externalURL": ""
+    , "title": "Sunflower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
     {"_id": "rabbit_ring_holder"
     , "folder": "zooms/2016/09-September/2016-09-19/bunny"
     , "externalURL": ""
@@ -107,6 +119,30 @@
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
+  },
+ { "_id": "eye"
+    , "folder": "photos/2016/08-August/2016-08-29/eye"
+    , "externalURL": ""
+    , "title": "Sarah's Eye"
+    , "year": "2016"
+    , "category": "Macro"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+  { "_id": "Razor_Stack_1"
+    , "folder": "photos/2016/10-October/2016-10-05/watch"
+    , "externalURL": ""
+    , "title": "Tavannes Watch"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "type": "Stacked"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
   {"_id": "sunflower_2"
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_1"
@@ -120,7 +156,18 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  
+  {"_id": "three_flowers"
+    , "folder": "zooms/2016/09-September/2016-09-07/three_flowers"
+    , "externalURL": ""
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
   {"_id": "seashell_2"
     , "folder": "zooms/2016/09-September/2016-09-15/seashell_2"
     , "externalURL": ""
@@ -163,6 +210,18 @@
     , "title": "Milky Top Oats"
     , "year": "2016"
     , "category": "Macro"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+    {"_id": "seashell_4"
+    , "folder": "zooms/2016/10-October/2016-10-01/shell_2"
+    , "externalURL": ""
+    , "title": "Seashell"
+    , "year": "2016"
+    , "category": "Seashells"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -271,7 +330,7 @@
     , "year": "2016"
     , "category": "Miscellaneous"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -282,8 +341,8 @@
     , "title": "Razor"
     , "year": "2016"
     , "category": "Product Shots"
-    , "type": "High Resolution49"
-    , "viewOnHome": true
+    , "type": "High Resolution"
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -294,8 +353,8 @@
     , "title": "Razor"
     , "year": "2016"
     , "category": "Product Shots"
-    , "type": "High Resolution16"
-    , "viewOnHome": true
+    , "type": "High Resolution"
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -307,19 +366,43 @@
     , "year": "2016"
     , "category": "Product Shots"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
-  { "_id": "Tavannes"
+  { "_id": "format_comparison"
+    , "folder": "zooms/2016/09-September/2016-09-21/beer"
+    , "externalURL": ""
+    , "title": "APSC vs Full Frame Digitiler vs APSC Digitiler"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  { "_id": "Tavannes_1"
     , "folder": "zooms/2016/09-September/2016-09-28/watch"
     , "externalURL": ""
     , "title": "Tavannes"
     , "year": "2016"
     , "category": "Product Shots"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  { "_id": "Razor_3"
+    , "folder": "zooms/2016/10-October/2016-10-04/razor"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "type": "High Resolution"
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"

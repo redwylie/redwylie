@@ -6,7 +6,7 @@
 		<a href="category.php?category={{category.category}}"  class="link category-link">
 	{% endif %}
 
-		{% if image.site == 'redwylie' %}
+		{% if image.site == 'redwylie' or category.site == 'redwylie'  %}
 			{% if view == 'photo' %}
 				<div class="card" data-content="{{image.title}}" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
 			{% else %}
