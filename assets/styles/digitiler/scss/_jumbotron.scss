@@ -1,6 +1,7 @@
 .jumbotron {
     height: 500px;
-    background-image: url('../../../../assets/images/jumbotron/sunflower.jpg');
+    //background-image: url('../../../../assets/images/jumbotron/sunflower.jpg');
+    background-image: url('../../../../photos/2016/09-September/2016-09-11/sunflower_2/photo.jpg');
     background-size: cover;
     background-position: right;
     background-color: #222;
@@ -11,11 +12,7 @@
         color: $white;
         font-size: 107px;
     }
-
-  
 }
-
-
 
 @media (max-width: $screen-xs-max) {
    .jumbotron {
