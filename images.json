@@ -48,6 +48,18 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+  { "_id": "pencils"
+    , "folder": "photos/2016/10-October/2016-10-07/pencils"
+    , "externalURL": ""
+    , "title": "Pencils"
+    , "year": "2016"
+    , "category": "Miscellaneous"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
   { "_id": "sunflower_1"
     , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
     , "externalURL": ""
