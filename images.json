@@ -120,6 +120,18 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+  { "_id": "chill_flower_1"
+    , "folder": "photos/2016/10-October/2016-10-09/flower_1"
+    , "externalURL": ""
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
     {"_id": "rabbit_ring_holder"
     , "folder": "zooms/2016/09-September/2016-09-19/bunny"
     , "externalURL": ""
@@ -192,6 +204,18 @@
     , "digitiler": true
     , "site": "digitiler"
   },
+  { "_id": "chill_flower_2"
+    , "folder": "photos/2016/10-October/2016-10-09/flower_2"
+    , "externalURL": ""
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
   { "_id": "seashell_3"
     , "folder": "zooms/2016/10-October/2016-10-01/shell"
     , "externalURL": ""
@@ -203,6 +227,18 @@
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
+  },
+  { "_id": "pencils_2"
+    , "folder": "photos/2016/10-October/2016-10-08/pencils"
+    , "externalURL": ""
+    , "title": "Pencils"
+    , "year": "2016"
+    , "category": "Miscellaneous"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
   {"_id": "sunflower_4"
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_4"
