@@ -1,5 +1,6 @@
 {"images": [
 
+
     {"_id": "wave_1"
     , "folder": "photos/2016/11-November/2016-11-01/wave_1"
     , "externalURL": ""
@@ -25,6 +26,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
 
       {"_id": "flower_4"
     , "folder": "photos/2016/10-October/2016-10-22/flower_2"
@@ -113,6 +115,7 @@
     , "site": "redwylie"
   },
 
+
     { "_id": "lily_1"
     , "folder": "photos/2016/10-October/2016-10-29/lily_1"
     , "externalURL": ""
@@ -125,6 +128,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
 
   { "_id": "sunflower_1"
     , "folder": "zooms/2016/10-October/2016-10-12/ross"
@@ -174,6 +178,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
   { "_id": "fall_leaf"
     , "folder": "zooms/2016/09-September/2016-09-18/leaf"
     , "externalURL": ""
