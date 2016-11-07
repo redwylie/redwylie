@@ -1,8 +1,48 @@
 {"images": [
+
+    {"_id": "wave_1"
+    , "folder": "photos/2016/11-November/2016-11-01/wave_1"
+    , "externalURL": ""
+    , "title": "Wave"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "macro_1"
+    , "folder": "photos/2016/11-November/2016-11-01/macro_1"
+    , "externalURL": ""
+    , "title": "Close"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+      {"_id": "flower_4"
+    , "folder": "photos/2016/10-October/2016-10-22/flower_2"
+    , "externalURL": ""
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+   
 {"_id": "orchids"
     , "folder": "zooms/2016/10-October/2016-10-15/flowers-1"
     , "externalURL": ""
-    , "title": "Orchds"
+    , "title": "Orchids"
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
@@ -35,7 +75,6 @@
     , "digitiler": false
     , "site": "redwylie"
   },
-  
   {"_id": "peppercorns_macro"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_1"
     , "externalURL": ""
@@ -60,6 +99,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
   { "_id": "pencils"
     , "folder": "photos/2016/10-October/2016-10-07/pencils"
     , "externalURL": ""
@@ -72,6 +112,20 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
+    { "_id": "lily_1"
+    , "folder": "photos/2016/10-October/2016-10-29/lily_1"
+    , "externalURL": ""
+    , "title": "Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
   { "_id": "sunflower_1"
     , "folder": "zooms/2016/10-October/2016-10-12/ross"
     , "externalURL": ""
@@ -95,6 +149,30 @@
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
+  },
+   {"_id": "flower_3"
+    , "folder": "photos/2016/10-October/2016-10-22/flower_1"
+    , "externalURL": ""
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+    {"_id": "macro_2"
+    , "folder": "photos/2016/11-November/2016-11-01/macro_2"
+    , "externalURL": ""
+    , "title": "Closer"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
   { "_id": "fall_leaf"
     , "folder": "zooms/2016/09-September/2016-09-18/leaf"
@@ -144,6 +222,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
   { "_id": "chill_flower_1"
     , "folder": "photos/2016/10-October/2016-10-09/flower_1"
     , "externalURL": ""
@@ -156,6 +235,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
     {"_id": "rabbit_ring_holder"
     , "folder": "zooms/2016/09-September/2016-09-19/bunny"
     , "externalURL": ""
@@ -174,6 +254,19 @@
     , "title": "Sarah's Eye"
     , "year": "2016"
     , "category": "Macro"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+   {"_id": "rose_1"
+    , "folder": "photos/2016/11-November/2016-11-03/rose_1"
+    , "externalURL": ""
+    , "title": "Rose"
+    , "year": "2016"
+    , "category": "Flowers"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -200,7 +293,7 @@
     , "category": "Flowers"
     , "type": "High Resolution"
     , "viewOnHome": true
-    , "viewOnCategories": true
+    , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
@@ -275,6 +368,18 @@
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
+  },
+    {"_id": "delicate_1"
+    , "folder": "photos/2016/11-November/2016-11-02/flower_1"
+    , "externalURL": ""
+    , "title": "Delicate"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
   {"_id": "milky_top_oats"
     , "folder": "zooms/2016/08-August/2016-08-24/milky_top_oats"
