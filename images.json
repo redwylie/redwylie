@@ -1,6 +1,127 @@
 {"images": [
-      {"_id": "flower_4"
-    , "folder": "photos/2016/10-October/2016-10-22/flower_2"
+
+
+{"_id": "jenny-1"
+    , "folder": "photos/2017/01-January/2017-01-02/jenny-1"
+    , "externalURL": ""
+    , "title": "Jenny"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+{"_id": "jenny-2"
+    , "folder": "photos/2017/01-January/2017-01-02/jenny-2"
+    , "externalURL": ""
+    , "title": "Jenny"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+{"_id": "steven-1"
+    , "folder": "photos/2017/01-January/2017-01-06/steven-1"
+    , "externalURL": ""
+    , "title": "Steven"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "steven-2"
+    , "folder": "photos/2017/01-January/2017-01-06/steven-2"
+    , "externalURL": ""
+    , "title": "Steven"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+ {"_id": "david-1"
+    , "folder": "photos/2016/12-December/2016-12-31/david-1"
+    , "externalURL": ""
+    , "title": "David"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "pauline-1"
+    , "folder": "photos/2016/12-December/2016-12-26/pauline-1"
+    , "externalURL": ""
+    , "title": "Pauline"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "pauline-2"
+    , "folder": "photos/2016/12-December/2016-12-26/pauline-2"
+    , "externalURL": ""
+    , "title": "Pauline"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+ {"_id": "emma-1"
+    , "folder": "photos/2016/12-December/2016-12-25/emma-1"
+    , "externalURL": ""
+    , "title": "Emma"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+   {"_id": "alice-1"
+    , "folder": "photos/2016/12-December/2016-12-25/alice-1"
+    , "externalURL": ""
+    , "title": "Alice"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+
+{"_id": "flower_3"
+    , "folder": "photos/2016/10-October/2016-10-22/flower_1"
     , "externalURL": ""
     , "title": "Flowers"
     , "year": "2016"
@@ -11,11 +132,176 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
+
+  {"_id": "wave_1"
+    , "folder": "photos/2016/11-November/2016-11-01/wave_1"
+    , "externalURL": ""
+    , "title": "Wave"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+
+  {"_id": "macro_1"
+    , "folder": "photos/2016/11-November/2016-11-01/macro_1"
+    , "externalURL": ""
+    , "title": "Close"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+   {"_id": "daisy_1"
+    , "folder": "photos/2016/11-November/2016-11-16/daisy_1"
+    , "externalURL": ""
+    , "title": "Daisy"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+   {"_id": "hope"
+    , "folder": "photos/2016/12-December/2016-12-05/flower"
+    , "externalURL": ""
+    , "title": "Hope"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+   {"_id": "change"
+    , "folder": "photos/2016/12-December/2016-12-04/flower"
+    , "externalURL": ""
+    , "title": "Change"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+    {"_id": "purple_flower_1"
+    , "folder": "photos/2016/11-November/2016-11-26/purple_flower_1"
+    , "externalURL": ""
+    , "title": "Flower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Full Frame Digital"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+     {"_id": "purple_flower_2"
+    , "folder": "photos/2016/11-November/2016-11-26/purple_flower_2"
+    , "externalURL": ""
+    , "title": "Flower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Full Frame Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+   {"_id": "purple_flower_3"
+    , "folder": "photos/2016/11-November/2016-11-26/purple_flower_3"
+    , "externalURL": ""
+    , "title": "Flower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Full Frame Digital"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+    {"_id": "bob-1"
+    , "folder": "zooms/2016/11-November/2016-11-09/bob-1"
+    , "externalURL": ""
+    , "title": "Bob"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+
+
+ {"_id": "kinney"
+    , "folder": "photos/2016/11-November/2016-11-21/kinney"
+    , "externalURL": ""
+    , "title": "Kinney"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+ {"_id": "self"
+    , "folder": "photos/2017/01-January/2017-01-02/mark"
+    , "externalURL": ""
+    , "title": "Self Portrait No. 1"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+      {"_id": "flower_4"
+    , "folder": "photos/2016/10-October/2016-10-22/flower_2"
+    , "externalURL": ""
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
    
 {"_id": "orchids"
     , "folder": "zooms/2016/10-October/2016-10-15/flowers-1"
     , "externalURL": ""
-    , "title": "Orchds"
+    , "title": "Orchids"
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
@@ -86,7 +372,22 @@
     , "site": "redwylie"
   },
 
-  { "_id": "sunflower_1"
+
+    { "_id": "lily_1"
+    , "folder": "photos/2016/10-October/2016-10-29/lily_1"
+    , "externalURL": ""
+    , "title": "Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+  { "_id": "ross"
     , "folder": "zooms/2016/10-October/2016-10-12/ross"
     , "externalURL": ""
     , "title": "Ross"
@@ -94,7 +395,7 @@
     , "category": "Portraits"
     , "type": "High Resolution"
     , "viewOnHome": true
-    , "viewOnCategories": true
+    , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
@@ -105,15 +406,30 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
-   {"_id": "flower_3"
-    , "folder": "photos/2016/10-October/2016-10-22/flower_1"
+
+  {"_id": "yellow_flowers"
+    , "folder": "photos/2016/10-October/2016-10-15/flower"
     , "externalURL": ""
     , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+  {"_id": "blue_orchid"
+    , "folder": "photos/2016/10-October/2016-10-16/flower"
+    , "externalURL": ""
+    , "title": "Orchid"
     , "year": "2016"
     , "category": "Flowers"
     , "type": "Apsc Digital"
@@ -122,6 +438,63 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
+
+  {"_id": "red_lily"
+    , "folder": "photos/2016/10-October/2016-10-31/flower_1"
+    , "externalURL": ""
+    , "title": "Red Calla Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+  {"_id": "yellow_lily"
+    , "folder": "photos/2016/10-October/2016-10-31/flower_2"
+    , "externalURL": ""
+    , "title": "Yellow Calla Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+  {"_id": "yellow_lily_2"
+    , "folder": "photos/2016/11-November/2016-11-04/flower"
+    , "externalURL": ""
+    , "title": "Yellow Calla Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+   
+    {"_id": "macro_2"
+    , "folder": "photos/2016/11-November/2016-11-01/macro_2"
+    , "externalURL": ""
+    , "title": "Closer"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
   { "_id": "fall_leaf"
     , "folder": "zooms/2016/09-September/2016-09-18/leaf"
     , "externalURL": ""
@@ -129,7 +502,7 @@
     , "year": "2016"
     , "category": "Miscellaneous"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": true
     , "digitiler": true
     , "site": "digitiler"
@@ -153,7 +526,7 @@
     , "year": "2016"
     , "category": "Seashells"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": true
     , "digitiler": true
     , "site": "digitiler"
@@ -165,7 +538,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "Apsc Digital"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
@@ -183,6 +556,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
     {"_id": "rabbit_ring_holder"
     , "folder": "zooms/2016/09-September/2016-09-19/bunny"
     , "externalURL": ""
@@ -195,6 +569,21 @@
     , "digitiler": true
     , "site": "digitiler"
   },
+
+   {"_id": "relaxed"
+    , "folder": "photos/2016/12-December/2016-12-12/flower"
+    , "externalURL": ""
+    , "title": "Relaxed"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  
  { "_id": "eye"
     , "folder": "photos/2016/08-August/2016-08-29/eye"
     , "externalURL": ""
@@ -207,14 +596,27 @@
     , "digitiler": false
     , "site": "redwylie"
   },
+
+   {"_id": "rose_1"
+    , "folder": "photos/2016/11-November/2016-11-03/rose_1"
+    , "externalURL": ""
+    , "title": "Rose"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
   { "_id": "Tavannes_2"
     , "folder": "photos/2016/10-October/2016-10-05/watch"
     , "externalURL": ""
     , "title": "Tavannes Watch"
     , "year": "2016"
-    , "category": "Product Shots"
+    , "category": "Miscellaneous"
     , "type": "Stacked"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
@@ -226,7 +628,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -238,7 +640,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -274,7 +676,7 @@
     , "year": "2016"
     , "category": "Seashells"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -298,10 +700,22 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
+  },
+    {"_id": "delicate_1"
+    , "folder": "photos/2016/11-November/2016-11-02/flower_1"
+    , "externalURL": ""
+    , "title": "Delicate"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
   {"_id": "milky_top_oats"
     , "folder": "zooms/2016/08-August/2016-08-24/milky_top_oats"
@@ -310,7 +724,7 @@
     , "year": "2016"
     , "category": "Macro"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -322,7 +736,7 @@
     , "year": "2016"
     , "category": "Seashells"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -332,13 +746,32 @@
     , "externalURL": ""
     , "title": "Blancpain No 516"
     , "year": "2016"
-    , "category": "Product Shots"
+    , "category": "Miscellaneous"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
+
+
+
+
+     {"_id": "flower_lamp"
+    , "folder": "photos/2016/11-November/2016-11-27/flower"
+    , "externalURL": ""
+    , "title": "SunLight"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+
   {"_id": "peppercorns_in_lid"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_2"
     , "externalURL": ""
@@ -357,7 +790,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -369,7 +802,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -381,7 +814,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -393,7 +826,7 @@
     , "year": "2016"
     , "category": "Seashells"
     , "type": "Stacked"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
@@ -405,23 +838,12 @@
     , "year": "2016"
     , "category": "Flowers"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": "buddha_statue_1"
-    , "folder": "zooms/2016/08-August/2016-08-28/buddha"
-    , "externalURL": ""
-    , "title": "Buddha Statue"
-    , "year": "2016"
-    , "category": "Miscellaneous"
-    , "type": "High Resolution"
-    , "viewOnHome": true
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
+  
   {"_id": "tomatoes"
     , "folder": "zooms/2016/09-September/2016-09-01/tomatoes"
     , "externalURL": ""
@@ -434,72 +856,26 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  { "_id": "Razor"
-    , "folder": "zooms/2016/10-October/2016-10-02/razer"
-    , "externalURL": ""
-    , "title": "Razor"
-    , "year": "2016"
-    , "category": "Product Shots"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  { "_id": "Razor_1"
-    , "folder": "zooms/2016/10-October/2016-10-03/razor_1"
-    , "externalURL": ""
-    , "title": "Razor"
-    , "year": "2016"
-    , "category": "Product Shots"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  { "_id": "Razor_2"
-    , "folder": "zooms/2016/10-October/2016-10-03/razor_2"
-    , "externalURL": ""
-    , "title": "Razor"
-    , "year": "2016"
-    , "category": "Product Shots"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
+
   { "_id": "format_comparison"
     , "folder": "zooms/2016/09-September/2016-09-21/beer"
     , "externalURL": ""
     , "title": "APSC vs Full Frame Digitiler vs APSC Digitiler"
     , "year": "2016"
-    , "category": "Product Shots"
-    , "type": "High Resolution"
-    , "viewOnHome": true
-    , "viewOnCategories": true
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  { "_id": "Tavannes_1"
-    , "folder": "zooms/2016/09-September/2016-09-28/watch"
-    , "externalURL": ""
-    , "title": "Tavannes"
-    , "year": "2016"
-    , "category": "Product Shots"
+    , "category": "Miscellaneous"
     , "type": "High Resolution"
     , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
+
   { "_id": "Razor_3"
     , "folder": "zooms/2016/10-October/2016-10-04/razor"
     , "externalURL": ""
     , "title": "Razor"
     , "year": "2016"
-    , "category": "Product Shots"
+    , "category": "Miscellaneous"
     , "type": "High Resolution"
     , "viewOnHome": false
     , "viewOnCategories": false
@@ -511,9 +887,9 @@
     , "externalURL": "https://flic.kr/p/MvxEKf"
     , "title": "Blancpain No 516"
     , "year": "2016"
-    , "category": "Product Shots"
+    , "category": "Miscellaneous"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -525,7 +901,7 @@
     , "year": "2016"
     , "category": "Seashells"
     , "type": "High Resolution"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
@@ -535,9 +911,9 @@
     , "externalURL": ""
     , "title": "Razor"
     , "year": "2016"
-    , "category": "Product Shots"
+    , "category": "Miscellaneous"
     , "type": "Stacked"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
