@@ -147,7 +147,57 @@
     , "site": "redwylie"
   },
 
+    {"_id": "everything"
+    , "folder": "photos/2017/01-January/2017-01-07/flower"
+    , "externalURL": ""
+    , "title": "Everything"
+    , "year": "2017"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
 
+      {"_id": "seven"
+    , "folder": "photos/2017/01-January/2017-01-05/flower"
+    , "externalURL": ""
+    , "title": "Seven"
+    , "year": "2017"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+      {"_id": "boldly"
+    , "folder": "photos/2017/01-January/2017-01-12/flower"
+    , "externalURL": ""
+    , "title": "Live Boldly, With Fire"
+    , "year": "2017"
+    , "category": "Flowers"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+   { "_id": "Jamaica_Pond"
+    , "folder": "photos/2016/08-August/2016-08-08/pond"
+    , "externalURL": ""
+    , "title": "Jamaica Pond"
+    , "year": "2016"
+    , "category": "Boston"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
+  },
 
   {"_id": "macro_1"
     , "folder": "photos/2016/11-November/2016-11-01/macro_1"
@@ -339,10 +389,10 @@
     , "externalURL": ""
     , "title": "Peppercorns Macro"
     , "year": "2016"
-    , "category": "Macro"
+    , "category": "Miscellaneous"
     , "type": "High Resolution"
     , "viewOnHome": true
-    , "viewOnCategories": true
+    , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
@@ -351,10 +401,10 @@
     , "externalURL": ""
     , "title": "Simple Shell"
     , "year": "2016"
-    , "category": "Seashells"
+    , "category": "Miscellaneous"
     , "type": "Apsc Digital"
     , "viewOnHome": true
-    , "viewOnCategories": false
+    , "viewOnCategories": true
     , "digitiler": false
     , "site": "redwylie"
   },
@@ -503,34 +553,52 @@
     , "category": "Miscellaneous"
     , "type": "High Resolution"
     , "viewOnHome": false
-    , "viewOnCategories": true
+    , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
-   { "_id": "Jamaica_Pond"
-    , "folder": "photos/2016/08-August/2016-08-08/pond"
+
+
+{ "_id": "Boat_House"
+    , "folder": "photos/2016/08-August/2016-08-08/boathouse"
     , "externalURL": ""
-    , "title": "Jamaica Pond"
+    , "title": "Jamaica Pond Boat House"
     , "year": "2016"
     , "category": "Boston"
     , "type": "Apsc Digital"
     , "viewOnHome": true
-    , "viewOnCategories": true
+    , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
   },
-  { "_id": "seashell_1"
-    , "folder": "zooms/2016/09-September/2016-09-10/seashell_1"
+
+  { "_id": "bus"
+    , "folder": "photos/2016/08-August/2016-08-08/bus"
     , "externalURL": ""
-    , "title": "Seashell"
+    , "title": "Bus Stop"
     , "year": "2016"
-    , "category": "Seashells"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": true
-    , "digitiler": true
-    , "site": "digitiler"
+    , "category": "Boston"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
+
+
+   { "_id": "lantern"
+    , "folder": "photos/2009/2009-07-16/lantern-1"
+    , "externalURL": ""
+    , "title": "Lantern Festival"
+    , "year": "2016"
+    , "category": "Boston"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
 { "_id": "sunflower_7"
     , "folder": "photos/2016/09-September/2016-09-11/sunflower_2"
     , "externalURL": ""
@@ -589,7 +657,7 @@
     , "externalURL": ""
     , "title": "Sarah's Eye"
     , "year": "2016"
-    , "category": "Macro"
+    , "category": "Miscellaneous"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -621,36 +689,13 @@
     , "digitiler": false
     , "site": "redwylie"
   },
-  {"_id": "sunflower_2"
-    , "folder": "zooms/2016/09-September/2016-09-10/sunflower_1"
-    , "externalURL": ""
-    , "title": "Sunflowers"
-    , "year": "2016"
-    , "category": "Flowers"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  {"_id": "three_flowers"
-    , "folder": "zooms/2016/09-September/2016-09-07/three_flowers"
-    , "externalURL": ""
-    , "title": "Flowers"
-    , "year": "2016"
-    , "category": "Flowers"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
+
   {"_id": "seashell_2"
     , "folder": "zooms/2016/09-September/2016-09-15/seashell_2"
     , "externalURL": ""
     , "title": "Seashell"
     , "year": "2016"
-    , "category": "Seashells"
+    , "category": "Miscellaneous"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -669,18 +714,7 @@
     , "digitiler": false
     , "site": "redwylie"
   },
-  { "_id": "seashell_3"
-    , "folder": "zooms/2016/10-October/2016-10-01/shell"
-    , "externalURL": ""
-    , "title": "Seashell"
-    , "year": "2016"
-    , "category": "Seashells"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
+
   { "_id": "pencils_2"
     , "folder": "photos/2016/10-October/2016-10-08/pencils"
     , "externalURL": ""
@@ -722,25 +756,14 @@
     , "externalURL": ""
     , "title": "Milky Top Oats"
     , "year": "2016"
-    , "category": "Macro"
+    , "category": "Miscellaneous"
     , "type": "High Resolution"
     , "viewOnHome": false
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
   },
-    {"_id": "seashell_4"
-    , "folder": "zooms/2016/10-October/2016-10-01/shell_2"
-    , "externalURL": ""
-    , "title": "Seashell"
-    , "year": "2016"
-    , "category": "Seashells"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
+
     { "_id": "Blancpain_No_516_02"
     , "folder": "zooms/2016/09-September/2016-09-25/watch"
     , "externalURL": ""
@@ -757,7 +780,7 @@
 
 
 
-     {"_id": "flower_lamp"
+  {"_id": "flower_lamp"
     , "folder": "photos/2016/11-November/2016-11-27/flower"
     , "externalURL": ""
     , "title": "SunLight"
@@ -783,18 +806,7 @@
     , "digitiler": true
     , "site": "digitiler"
   },
-  {"_id": "sunflower_3"
-    , "folder": "zooms/2016/09-September/2016-09-10/sunflower_3"
-    , "externalURL": ""
-    , "title": "Sunflower"
-    , "year": "2016"
-    , "category": "Flowers"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
+
   {"_id": "two_flowers"
     , "folder": "zooms/2016/09-September/2016-09-07/two_flowers"
     , "externalURL": ""
@@ -806,116 +818,5 @@
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
-  },
-  {"_id": "sunflower_5"
-    , "folder": "zooms/2016/09-September/2016-09-10/sunflower_2"
-    , "externalURL": ""
-    , "title": "Sunflower"
-    , "year": "2016"
-    , "category": "Flowers"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  { "_id": "shell_6"
-    , "folder": "photos/2016/10-October/2016-10-01/shell"
-    , "externalURL": ""
-    , "title": "Shell"
-    , "year": "2016"
-    , "category": "Seashells"
-    , "type": "Stacked"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": false
-    , "site": "redwylie"
-  },
-    {"_id": "flowers_1"
-    , "folder": "zooms/2016/09-September/2016-09-05/flower"
-    , "externalURL": ""
-    , "title": "Flowers"
-    , "year": "2016"
-    , "category": "Flowers"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  
-  {"_id": "tomatoes"
-    , "folder": "zooms/2016/09-September/2016-09-01/tomatoes"
-    , "externalURL": ""
-    , "title": "Tomatoes"
-    , "year": "2016"
-    , "category": "Miscellaneous"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-
-  { "_id": "format_comparison"
-    , "folder": "zooms/2016/09-September/2016-09-21/beer"
-    , "externalURL": ""
-    , "title": "APSC vs Full Frame Digitiler vs APSC Digitiler"
-    , "year": "2016"
-    , "category": "Miscellaneous"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-
-  { "_id": "Razor_3"
-    , "folder": "zooms/2016/10-October/2016-10-04/razor"
-    , "externalURL": ""
-    , "title": "Razor"
-    , "year": "2016"
-    , "category": "Miscellaneous"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  { "_id": "Blancpain_No_516"
-    , "folder": "zooms/2016/09-September/2016-09-23/watch"
-    , "externalURL": "https://flic.kr/p/MvxEKf"
-    , "title": "Blancpain No 516"
-    , "year": "2016"
-    , "category": "Miscellaneous"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-  {"_id": "seashell_3"
-    , "folder": "zooms/2016/09-September/2016-09-15/seashell_1"
-    , "externalURL": ""
-    , "title": "Seashell"
-    , "year": "2016"
-    , "category": "Seashells"
-    , "type": "High Resolution"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
-    { "_id": "Razor_Stack_1"
-    , "folder": "photos/2016/10-October/2016-10-03/razor_1"
-    , "externalURL": ""
-    , "title": "Razor"
-    , "year": "2016"
-    , "category": "Miscellaneous"
-    , "type": "Stacked"
-    , "viewOnHome": false
-    , "viewOnCategories": false
-    , "digitiler": false
-    , "site": "redwylie"
   }
 ]}

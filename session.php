@@ -12,7 +12,7 @@ $twig = new Twig_Environment($loader, array(
 
 $template = $twig->loadTemplate('session.html');
 echo $template->render(array( 
-		'title' => 'The Photography of Mark Wylie'
+		'title' => 'Preparing for your portrait session'
 	));
 
 ?>
