@@ -1,25 +1,92 @@
 {"images": [
 
 
-{"_id": "jenny-1"
-    , "folder": "photos/2017/01-January/2017-01-02/jenny-1"
+{"_id": "jacy-1"
+    , "folder": "photos/2017/01-January/2017-01-22/jacy-1"
     , "externalURL": ""
-    , "title": "Jenny"
+    , "title": "Jacy"
     , "year": "2017"
-    , "category": "Portraits"
-    , "type": "Apsc Digital"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "jacy-2"
+    , "folder": "photos/2017/01-January/2017-01-22/jacy-2"
+    , "externalURL": ""
+    , "title": "Jacy"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
   },
 
+
+{"_id": "sharon-1"
+    , "folder": "photos/2017/02-February/2017-02-04/sharon-1"
+    , "externalURL": ""
+    , "title": "Sharon"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "sharon-2"
+    , "folder": "photos/2017/02-February/2017-02-04/sharon-2"
+    , "externalURL": ""
+    , "title": "Sharon"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+    {"_id": "dorothy-1"
+    , "folder": "photos/2017/01-January/2017-01-29/dorothy-1"
+    , "externalURL": ""
+    , "title": "Dorothy"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "mel-1"
+    , "folder": "photos/2017/01-January/2017-01-30/mel-1"
+    , "externalURL": ""
+    , "title": "Melanie"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
 {"_id": "jenny-2"
     , "folder": "photos/2017/01-January/2017-01-02/jenny-2"
     , "externalURL": ""
     , "title": "Jenny"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Headshots"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -32,10 +99,10 @@
     , "externalURL": ""
     , "title": "Steven"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Headshots"
     , "type": "Apsc Digital"
     , "viewOnHome": true
-    , "viewOnCategories": true
+    , "viewOnCategories": false
     , "digitiler": false
     , "site": "redwylie"
   },
@@ -45,6 +112,32 @@
     , "externalURL": ""
     , "title": "Steven"
     , "year": "2017"
+    , "category": "Headshots"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+    {"_id": "steven-3"
+    , "folder": "photos/2017/01-January/2017-01-06/steven-3"
+    , "externalURL": ""
+    , "title": "Steven"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "dan-1"
+    , "folder": "photos/2017/01-January/2017-01-14/dan-1"
+    , "externalURL": ""
+    , "title": "Dan"
+    , "year": "2017"
     , "category": "Portraits"
     , "type": "Apsc Digital"
     , "viewOnHome": true
@@ -53,12 +146,13 @@
     , "site": "redwylie"
   },
 
+
  {"_id": "david-1"
     , "folder": "photos/2016/12-December/2016-12-31/david-1"
     , "externalURL": ""
     , "title": "David"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "Headshots"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -71,7 +165,7 @@
     , "externalURL": ""
     , "title": "Pauline"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "Headshots"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -97,7 +191,7 @@
     , "externalURL": ""
     , "title": "Emma"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "Headshots"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -110,7 +204,7 @@
     , "externalURL": ""
     , "title": "Alice"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "Headshots"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -389,7 +483,7 @@
     , "externalURL": ""
     , "title": "Peppercorns Macro"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -401,7 +495,7 @@
     , "externalURL": ""
     , "title": "Simple Shell"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": true
@@ -414,7 +508,7 @@
     , "externalURL": ""
     , "title": "Pencils"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -550,7 +644,7 @@
     , "externalURL": ""
     , "title": "Leaf"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "High Resolution"
     , "viewOnHome": false
     , "viewOnCategories": false
@@ -630,7 +724,7 @@
     , "externalURL": ""
     , "title": "Bunny"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -657,7 +751,7 @@
     , "externalURL": ""
     , "title": "Sarah's Eye"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -682,7 +776,7 @@
     , "externalURL": ""
     , "title": "Tavannes Watch"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "Stacked"
     , "viewOnHome": false
     , "viewOnCategories": false
@@ -695,7 +789,7 @@
     , "externalURL": ""
     , "title": "Seashell"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -720,7 +814,7 @@
     , "externalURL": ""
     , "title": "Pencils"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -756,7 +850,7 @@
     , "externalURL": ""
     , "title": "Milky Top Oats"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "High Resolution"
     , "viewOnHome": false
     , "viewOnCategories": false
@@ -769,7 +863,7 @@
     , "externalURL": ""
     , "title": "Blancpain No 516"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -799,7 +893,7 @@
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_2"
     , "externalURL": ""
     , "title": "Peppercorns"
-    , "category": "Miscellaneous"
+    , "category": "Objects"
     , "type": "High Resolution"
     , "viewOnHome": true
     , "viewOnCategories": false
