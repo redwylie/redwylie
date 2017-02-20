@@ -1,5 +1,5 @@
 .jumbotron {
-    height: 350px;
+    height: 500px;
     //background-image: url('../../../../assets/images/jumbotron/sunflower.jpg');
     background-image: url('../../../../photos/2016/11-November/2016-11-01/wave_1/photo.jpg');
     background-size: cover;
@@ -16,7 +16,7 @@
 
 @media (max-width: $screen-xs-max) {
    .jumbotron {
-        height: 200px;
+        height: 300px;
 
         h1 {
             font-size: 40px;
@@ -26,7 +26,7 @@
 
 @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
     .jumbotron {
-        height: 300px;
+        height: 450px;
 
         h1 {
             font-size: 75px;
