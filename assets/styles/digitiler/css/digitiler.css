@@ -1050,7 +1050,7 @@ html {
   -webkit-tap-highlight-color: transparent; }
 
 body {
-  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
@@ -3651,7 +3651,7 @@ tbody.collapse.in {
 
 .navbar {
   position: relative;
-  min-height: 50px;
+  min-height: 150px;
   margin-bottom: 0px;
   border: 1px solid transparent; }
   .navbar:before, .navbar:after {
@@ -3760,7 +3760,7 @@ tbody.collapse.in {
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
-  height: 50px; }
+  height: 150px; }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
   .navbar-brand > img {
@@ -3775,8 +3775,8 @@ tbody.collapse.in {
   float: right;
   margin-right: 15px;
   padding: 9px 10px;
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 58px;
+  margin-bottom: 58px;
   background-color: transparent;
   background-image: none;
   border: 1px solid transparent;
@@ -3834,8 +3834,8 @@ tbody.collapse.in {
   border-bottom: 1px solid transparent;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
-  margin-top: 8px;
-  margin-bottom: 8px; }
+  margin-top: 58px;
+  margin-bottom: 58px; }
   @media (min-width: 768px) {
     .navbar-form .form-group {
       display: inline-block;
@@ -3903,18 +3903,18 @@ tbody.collapse.in {
   border-bottom-left-radius: 0; }
 
 .navbar-btn {
-  margin-top: 8px;
-  margin-bottom: 8px; }
+  margin-top: 58px;
+  margin-bottom: 58px; }
   .navbar-btn.btn-sm, .btn-group-sm > .navbar-btn.btn {
-    margin-top: 10px;
-    margin-bottom: 10px; }
+    margin-top: 60px;
+    margin-bottom: 60px; }
   .navbar-btn.btn-xs, .btn-group-xs > .navbar-btn.btn {
-    margin-top: 14px;
-    margin-bottom: 14px; }
+    margin-top: 64px;
+    margin-bottom: 64px; }
 
 .navbar-text {
-  margin-top: 15px;
-  margin-bottom: 15px; }
+  margin-top: 65px;
+  margin-bottom: 65px; }
   @media (min-width: 768px) {
     .navbar-text {
       float: left;
@@ -5182,7 +5182,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5295,7 +5295,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5841,6 +5841,8 @@ footer {
   line-height: .5em; }
   .zoom-footer .row {
     margin-top: 10px; }
+  .zoom-footer a.show-info {
+    color: #777777; }
   .zoom-footer .hidden-info {
     line-height: .9em; }
 
@@ -5925,7 +5927,7 @@ a.link:hover {
       margin-top: 184px; } }
 
 .jumbotron {
-  height: 350px;
+  height: 500px;
   background-image: url("../../../../photos/2016/11-November/2016-11-01/wave_1/photo.jpg");
   background-size: cover;
   background-position: top;
@@ -5937,13 +5939,11 @@ a.link:hover {
 
 @media (max-width: 767px) {
   .jumbotron {
-    height: 200px; }
-    .jumbotron h1 {
-      font-size: 40px; } }
+    display: none; } }
 
 @media (min-width: 768px) and (max-width: 991px) {
   .jumbotron {
-    height: 300px; }
+    height: 450px; }
     .jumbotron h1 {
       font-size: 75px; } }
 
@@ -5952,29 +5952,21 @@ a.link:hover {
     font-size: 90px; } }
 
 .navbar-brand img {
-  max-height: 25px; }
+  max-height: 105px; }
 
 @media (max-width: 767px) {
-  .container-fluid {
-    padding-left: 0px;
-    padding-right: 0px; } }
+  .navbar {
+    min-height: 75px; }
+  .navbar-brand {
+    height: 75px;
+    padding-top: 5px;
+    padding-bottom: 0px; }
+  .navbar-brand img {
+    max-height: 65px; }
+  .navbar-toggle {
+    margin-top: 20px;
+    margin-bottom: 20px; } }
 
-@media (min-width: 768px) and (max-width: 991px) {
-  .container-fluid {
-    padding-left: 5px;
-    padding-right: 5px; } }
-
-.session h2 {
-  margin-top: 30px; }
-
-.session p {
-  font-size: 16px; }
-
-.full-image {
-  max-width: 80%;
-  max-height: 80%;
-  height: auto;
-  width: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto; }
+@media (min-width: 768px) {
+  .navbar-nav {
+    padding-top: 45px; } }

@@ -8,25 +8,24 @@
 	<?php include_once("analyticstracking.php") ?>
 	{% include 'common/nav.html' with {'foo': 'bar'} %}
 
-	<div class="container-fluid">
+	<div class="container">
 
-		<div class="container">
-
-			<div class="row">
+		<div class="row">
+			<div class="col-sm-12">
 				<div class="page-header">
 					<h1>{{categoryTitle}}</h1>
 				</div>
-			</div><!-- .row -->
+			</div><!-- .col -->
+			
+		</div><!-- .row -->
 
-			<div class="row-fluid">
+		<div class="row">
 
-				{% for image in images %}
-					{% include 'common/card.html' with {'view':'photo'} %}
-				{% endfor %}
+			{% for image in images %}
+				{% include 'common/card.html' with {'view':'photo'} %}
+			{% endfor %}
 
-			</div><!-- .row -->
-		</div><!-- .container -->
-
+		</div><!-- .row -->
 	</div><!-- .container -->
 
 	{% include 'common/footer.html' %}

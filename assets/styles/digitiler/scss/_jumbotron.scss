@@ -16,11 +16,7 @@
 
 @media (max-width: $screen-xs-max) {
    .jumbotron {
-        height: 300px;
-
-        h1 {
-            font-size: 40px;
-        }
+        display: none;
     }
 }
 
