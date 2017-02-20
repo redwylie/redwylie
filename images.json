@@ -134,23 +134,7 @@
     , "site": "redwylie"
   },
 
-      {"_id": "sarah-2"
-    , "folder": "photos/2017/02-February/2017-02-02/sarah-2"
-    , "externalURL": ""
-    , "title": "Sarah"
-    , "year": "2017"
-    , "category": "Headshots"
-    , "type": "35mm"
-    , "viewOnHome": true
-    , "viewOnCategories": false
-    , "digitiler": false
-    , "site": "redwylie"
-  },
-
-
-
-
-    {"_id": "dorothy-1"
+  {"_id": "dorothy-1"
     , "folder": "photos/2017/01-January/2017-01-29/dorothy-1"
     , "externalURL": ""
     , "title": "Dorothy"

@@ -29,7 +29,9 @@ foreach ($images->{'images'} as &$image) {
 
 $template = $twig->loadTemplate('categories.html');
 echo $template->render(array(
-    'categories' => $categories
+    'categories' => $categories,
+    'title' => 'Red Wylie - Photography Portfolio',
+	'description' => 'Headshots, Portraits, Flowers'
 ));
 
 // $template = $twig->loadTemplate('index.html');
