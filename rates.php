@@ -12,7 +12,8 @@ $twig = new Twig_Environment($loader, array(
 
 $template = $twig->loadTemplate('rates.html');
 echo $template->render(array( 
-		'title' => 'The Photography of Mark Wylie'
+		'title' => 'Photo session rates',
+		'description' => 'What to expect and how to prepare for your headshot or portrait session'
 	));
 
 ?>

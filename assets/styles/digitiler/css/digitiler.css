@@ -5927,7 +5927,7 @@ a.link:hover {
       margin-top: 184px; } }
 
 .jumbotron {
-  height: 500px;
+  height: 400px;
   background-image: url("../../../../photos/2016/11-November/2016-11-01/wave_1/photo.jpg");
   background-size: cover;
   background-position: top;
@@ -5935,7 +5935,7 @@ a.link:hover {
   margin-bottom: 25px; }
   .jumbotron h1 {
     color: #ffffff;
-    font-size: 107px; }
+    font-size: 90px; }
 
 @media (max-width: 767px) {
   .jumbotron {
@@ -5943,7 +5943,7 @@ a.link:hover {
 
 @media (min-width: 768px) and (max-width: 991px) {
   .jumbotron {
-    height: 450px; }
+    height: 320px; }
     .jumbotron h1 {
       font-size: 75px; } }
 
@@ -5970,3 +5970,18 @@ a.link:hover {
 @media (min-width: 768px) {
   .navbar-nav {
     padding-top: 45px; } }
+
+footer .btn {
+  color: #777; }
+
+@media (max-width: 767px) {
+  footer {
+    font-size: 10px; }
+    footer .btn {
+      font-size: 10px;
+      padding: 0px 0px; } }
+
+@media (max-width: 767px) {
+  .col-card {
+    padding-left: 1px;
+    padding-right: 1px; } }
