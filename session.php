@@ -12,7 +12,8 @@ $twig = new Twig_Environment($loader, array(
 
 $template = $twig->loadTemplate('session.html');
 echo $template->render(array( 
-		'title' => 'Preparing for your portrait session'
+		'title' => 'Preparing for your portrait session',
+		'description' => 'What to expect and how to prepare for your headshot or portrait session'
 	));
 
 ?>

@@ -39,7 +39,9 @@ echo $template->render(array(
 		'categoryTitle' => $category,
 		'images' => $categoryImages,
 		'id' => $id,
-		'view' => 'Full'
+		'view' => 'Full',
+		'title' => 'Red Wylie Photography - '.$category,
+		'description' => 'Headshots, Portraits, Flowers'
 	));
 
 ?>

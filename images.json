@@ -1,6 +1,46 @@
 {"images": [
 
 
+{"_id": "stephanie-1"
+    , "folder": "photos/2017/02-February/2017-02-11/stephanie-1"
+    , "externalURL": ""
+    , "title": "Stephanie"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "stephanie-2"
+    , "folder": "photos/2017/02-February/2017-02-11/stephanie-2"
+    , "externalURL": ""
+    , "title": "Stephanie"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "stephanie-3"
+    , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
+    , "externalURL": ""
+    , "title": "Stephanie"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
 {"_id": "jacy-1"
     , "folder": "photos/2017/01-January/2017-01-22/jacy-1"
     , "externalURL": ""
@@ -19,7 +59,7 @@
     , "externalURL": ""
     , "title": "Jacy"
     , "year": "2017"
-    , "category": "Headshots"
+    , "category": "Portraits"
     , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -27,6 +67,20 @@
     , "site": "redwylie"
   },
 
+
+
+{"_id": "max-1"
+    , "folder": "photos/2017/02-February/2017-02-18/max-1"
+    , "externalURL": ""
+    , "title": "Max"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
 
 {"_id": "sharon-1"
     , "folder": "photos/2017/02-February/2017-02-04/sharon-1"
@@ -54,7 +108,33 @@
     , "site": "redwylie"
   },
 
-    {"_id": "dorothy-1"
+  {"_id": "john-1"
+    , "folder": "photos/2017/02-February/2017-02-11/john-1"
+    , "externalURL": ""
+    , "title": "John"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+    {"_id": "sarah-1"
+    , "folder": "photos/2017/02-February/2017-02-02/sarah-1"
+    , "externalURL": ""
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "type": "35mm"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+  {"_id": "dorothy-1"
     , "folder": "photos/2017/01-January/2017-01-29/dorothy-1"
     , "externalURL": ""
     , "title": "Dorothy"
@@ -415,21 +495,7 @@
   },
 
 
- {"_id": "self"
-    , "folder": "photos/2017/01-January/2017-01-02/mark"
-    , "externalURL": ""
-    , "title": "Self Portrait No. 1"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "type": "Apsc Digital"
-    , "viewOnHome": true
-    , "viewOnCategories": false
-    , "digitiler": false
-    , "site": "redwylie"
-  },
-
-
-      {"_id": "flower_4"
+  {"_id": "flower_4"
     , "folder": "photos/2016/10-October/2016-10-22/flower_2"
     , "externalURL": ""
     , "title": "Flowers"
@@ -531,18 +597,6 @@
   },
 
 
-  { "_id": "ross"
-    , "folder": "zooms/2016/10-October/2016-10-12/ross"
-    , "externalURL": ""
-    , "title": "Ross"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "type": "High Resolution"
-    , "viewOnHome": true
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
   { "_id": "sunflower_1"
     , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
     , "externalURL": ""
@@ -871,7 +925,18 @@
     , "site": "digitiler"
   },
 
-
+  {"_id": "kevin-1"
+    , "folder": "photos/2016/12-December/2016-12-21/kevin-1"
+    , "externalURL": ""
+    , "title": "Kevin"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "Apsc Digital"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
 
 
   {"_id": "flower_lamp"
