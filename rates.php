@@ -10,9 +10,9 @@ $twig = new Twig_Environment($loader, array(
   'auto_reload' => true,
 ));
 
-$template = $twig->loadTemplate('session.html');
+$template = $twig->loadTemplate('rates.html');
 echo $template->render(array( 
-		'title' => 'Preparing for your portrait session'
+		'title' => 'The Photography of Mark Wylie'
 	));
 
 ?>
