@@ -19,10 +19,23 @@ $json = $file;
 
 $images = json_decode($json);
 
-$template = $twig->loadTemplate('index.html');
+$categories = array();
+
+foreach ($images->{'images'} as &$image) {
+    if ($image->viewOnCategories) {
+        array_push($categories, $image);
+    };
+}
+
+$template = $twig->loadTemplate('categories.html');
 echo $template->render(array(
-    'images' => $images->{'images'}
+    'categories' => $categories
 ));
+
+// $template = $twig->loadTemplate('index.html');
+// echo $template->render(array(
+//     'images' => $images->{'images'}
+// ));
 
 
 //include ("cards.php")
