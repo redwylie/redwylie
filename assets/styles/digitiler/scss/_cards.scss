@@ -3,7 +3,7 @@ a.link:hover {
 }
 
 .card {
-	height: 270px;
+	height: 288px;
 	width: 100%;
 	background-size: cover;
 	cursor: pointer;
@@ -96,6 +96,10 @@ a.link:hover {
 
 @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
     
+    .card {
+        height: 276px;
+    }
+
     .category-link {
 
         .card {
@@ -113,7 +117,9 @@ a.link:hover {
 }
 
 @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
-
+    .card {
+        height: 234px;
+    }
 }
 
 @media (min-width: $screen-lg-min) {
