@@ -5886,10 +5886,10 @@ a.link:hover {
   display: none; }
 
 .category-link .card {
-  height: 400px; }
+  height: 364px; }
   .category-link .card .inner {
     height: 80px;
-    margin-top: 316px;
+    margin-top: 280px;
     width: 100%;
     display: block;
     background: rgba(0, 0, 0, 0.5); }
@@ -5931,6 +5931,12 @@ a.link:hover {
 @media (min-width: 992px) and (max-width: 1199px) {
   .card {
     height: 234px; } }
+
+@media (min-width: 1200px) {
+  .category-link .card {
+    height: 444px; }
+    .category-link .card .inner {
+      margin-top: 360px; } }
 
 .jumbotron {
   height: 400px;
