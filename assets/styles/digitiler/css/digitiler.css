@@ -5919,9 +5919,19 @@ a.link:hover {
 .card:hover:after {
   opacity: 1; }
 
+@media (max-width: 767px) {
+  .card-portrait {
+    height: 400px; }
+  .card-portrait .inner {
+    margin-top: 200px; } }
+
 @media (min-width: 768px) and (max-width: 991px) {
   .card {
+    height: 176px; }
+  .card-portrait {
     height: 276px; }
+  .card-portrait .inner {
+    margin-top: 120px; }
   .category-link .card {
     height: 268px; }
     .category-link .card .inner {
@@ -5930,13 +5940,21 @@ a.link:hover {
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .card {
-    height: 234px; } }
+    height: 234px; }
+  .card-portrait {
+    height: 376px; }
+  .card-portrait .inner {
+    margin-top: 180px; } }
 
 @media (min-width: 1200px) {
   .category-link .card {
     height: 444px; }
     .category-link .card .inner {
-      margin-top: 360px; } }
+      margin-top: 360px; }
+  .card-portrait {
+    height: 460px; }
+  .card-portrait .inner {
+    margin-top: 220px; } }
 
 .jumbotron {
   height: 400px;

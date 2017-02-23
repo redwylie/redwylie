@@ -467,18 +467,7 @@
     , "site": "redwylie"
   },
 
-    {"_id": "bob-1"
-    , "folder": "zooms/2016/11-November/2016-11-09/bob-1"
-    , "externalURL": ""
-    , "title": "Bob"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "type": "High Resolution"
-    , "viewOnHome": true
-    , "viewOnCategories": false
-    , "digitiler": true
-    , "site": "digitiler"
-  },
+
 
 
  {"_id": "kinney"
@@ -974,6 +963,19 @@
     , "category": "Flowers"
     , "type": "High Resolution"
     , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+
+      {"_id": "bob-1"
+    , "folder": "zooms/2016/11-November/2016-11-09/bob-1"
+    , "externalURL": ""
+    , "title": "Bob"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "High Resolution"
+    , "viewOnHome": true
     , "viewOnCategories": false
     , "digitiler": true
     , "site": "digitiler"
