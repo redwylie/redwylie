@@ -7,8 +7,11 @@
     , "title": "Stephanie"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "stephanie-2"
@@ -17,8 +20,11 @@
     , "title": "Stephanie"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "stephanie-3"
@@ -27,8 +33,11 @@
     , "title": "Stephanie"
     , "year": "2017"
     , "category": "Portraits"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -38,8 +47,11 @@
     , "title": "Jacy"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "jacy-2"
@@ -48,8 +60,11 @@
     , "title": "Jacy"
     , "year": "2017"
     , "category": "Portraits"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -60,8 +75,11 @@
     , "title": "Max"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 {"_id": "sharon-1"
@@ -70,8 +88,11 @@
     , "title": "Sharon"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "sharon-2"
@@ -80,8 +101,11 @@
     , "title": "Sharon"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "john-1"
@@ -90,8 +114,11 @@
     , "title": "John"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
     {"_id": "sarah-1"
@@ -100,8 +127,11 @@
     , "title": "Sarah"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "dorothy-1"
@@ -110,8 +140,11 @@
     , "title": "Dorothy"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "mel-1"
@@ -120,8 +153,11 @@
     , "title": "Melanie"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "35mm"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -131,8 +167,11 @@
     , "title": "Jenny"
     , "year": "2017"
     , "category": "Headshots"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 {"_id": "steven-1"
@@ -141,8 +180,11 @@
     , "title": "Steven"
     , "year": "2017"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "steven-2"
@@ -151,8 +193,11 @@
     , "title": "Steven"
     , "year": "2017"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
     {"_id": "steven-3"
@@ -161,8 +206,11 @@
     , "title": "Steven"
     , "year": "2017"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "dan-1"
@@ -171,8 +219,11 @@
     , "title": "Dan"
     , "year": "2017"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -182,8 +233,11 @@
     , "title": "David"
     , "year": "2016"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "pauline-1"
@@ -192,8 +246,11 @@
     , "title": "Pauline"
     , "year": "2016"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "pauline-2"
@@ -202,8 +259,11 @@
     , "title": "Pauline"
     , "year": "2016"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
  {"_id": "emma-1"
@@ -212,8 +272,11 @@
     , "title": "Emma"
     , "year": "2016"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
    {"_id": "alice-1"
@@ -222,8 +285,11 @@
     , "title": "Alice"
     , "year": "2016"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -234,8 +300,11 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -245,8 +314,11 @@
     , "title": "Wave"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
     {"_id": "everything"
@@ -255,8 +327,11 @@
     , "title": "Everything"
     , "year": "2017"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
       {"_id": "seven"
@@ -265,8 +340,11 @@
     , "title": "Seven"
     , "year": "2017"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
       {"_id": "boldly"
@@ -275,8 +353,11 @@
     , "title": "Live Boldly, With Fire"
     , "year": "2017"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
    { "_id": "Jamaica_Pond"
@@ -285,8 +366,11 @@
     , "title": "Jamaica Pond"
     , "year": "2016"
     , "category": "Boston"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   {"_id": "macro_1"
@@ -295,8 +379,11 @@
     , "title": "Close"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -306,8 +393,11 @@
     , "title": "Daisy"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
    {"_id": "hope"
@@ -316,8 +406,11 @@
     , "title": "Hope"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
    {"_id": "change"
@@ -326,8 +419,11 @@
     , "title": "Change"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -340,6 +436,8 @@
     , "type": "Full Frame Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -352,6 +450,8 @@
     , "type": "Full Frame Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
    {"_id": "purple_flower_3"
@@ -363,6 +463,8 @@
     , "type": "Full Frame Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -374,8 +476,11 @@
     , "title": "Kinney"
     , "year": "2016"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -385,30 +490,72 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
    
-
-
+{"_id": "orchids"
+    , "folder": "zooms/2016/10-October/2016-10-15/flowers-1"
+    , "externalURL": ""
+    , "title": "Orchids"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+  {"_id": "farm_bouquet"
+    , "folder": "zooms/2016/09-September/2016-09-03/bouquet"
+    , "externalURL": ""
+    , "title": "Farm Bouquet"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
     { "_id": "sunflower_6"
     , "folder": "photos/2016/09-September/2016-09-11/sunflower_1"
     , "externalURL": ""
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
-
+  {"_id": "peppercorns_macro"
+    , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_1"
+    , "externalURL": ""
+    , "title": "Peppercorns Macro"
+    , "year": "2016"
+    , "category": "Objects"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
   { "_id": "simple_shell"
     , "folder": "photos/2016/09-September/2016-09-28/shell"
     , "externalURL": ""
     , "title": "Simple Shell"
     , "year": "2016"
     , "category": "Objects"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": true
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   { "_id": "pencils"
@@ -417,8 +564,11 @@
     , "title": "Pencils"
     , "year": "2016"
     , "category": "Objects"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -428,12 +578,26 @@
     , "title": "Lily"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
-
+  { "_id": "sunflower_1"
+    , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
+    , "externalURL": ""
+    , "title": "Sunflower Macro"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "High Resolution"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
 
   {"_id": "yellow_flowers"
     , "folder": "photos/2016/10-October/2016-10-15/flower"
@@ -441,8 +605,11 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -452,8 +619,11 @@
     , "title": "Orchid"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -463,8 +633,11 @@
     , "title": "Red Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -474,8 +647,11 @@
     , "title": "Yellow Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -485,8 +661,11 @@
     , "title": "Yellow Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
    
@@ -496,11 +675,25 @@
     , "title": "Closer"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
-
+  { "_id": "fall_leaf"
+    , "folder": "zooms/2016/09-September/2016-09-18/leaf"
+    , "externalURL": ""
+    , "title": "Leaf"
+    , "year": "2016"
+    , "category": "Objects"
+    , "type": "High Resolution"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
 
 
 { "_id": "Boat_House"
@@ -509,8 +702,11 @@
     , "title": "Jamaica Pond Boat House"
     , "year": "2016"
     , "category": "Boston"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   { "_id": "bus"
@@ -519,8 +715,11 @@
     , "title": "Bus Stop"
     , "year": "2016"
     , "category": "Boston"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -530,8 +729,11 @@
     , "title": "Lantern Festival"
     , "year": "2016"
     , "category": "Boston"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 { "_id": "sunflower_7"
@@ -540,8 +742,11 @@
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   { "_id": "chill_flower_1"
@@ -550,11 +755,25 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
-
+    {"_id": "rabbit_ring_holder"
+    , "folder": "zooms/2016/09-September/2016-09-19/bunny"
+    , "externalURL": ""
+    , "title": "Bunny"
+    , "year": "2016"
+    , "category": "Objects"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
 
    {"_id": "relaxed"
     , "folder": "photos/2016/12-December/2016-12-12/flower"
@@ -562,8 +781,11 @@
     , "title": "Relaxed"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   
@@ -573,8 +795,11 @@
     , "title": "Sarah's Eye"
     , "year": "2016"
     , "category": "Objects"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
    {"_id": "rose_1"
@@ -583,8 +808,11 @@
     , "title": "Rose"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
   { "_id": "Tavannes_2"
     , "folder": "photos/2016/10-October/2016-10-05/watch"
@@ -595,17 +823,33 @@
     , "type": "Stacked"
     , "viewOnHome": false
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
-
+  {"_id": "seashell_2"
+    , "folder": "zooms/2016/09-September/2016-09-15/seashell_2"
+    , "externalURL": ""
+    , "title": "Seashell"
+    , "year": "2016"
+    , "category": "Objects"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
   { "_id": "chill_flower_2"
     , "folder": "photos/2016/10-October/2016-10-09/flower_2"
     , "externalURL": ""
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
   { "_id": "pencils_2"
@@ -614,20 +858,61 @@
     , "title": "Pencils"
     , "year": "2016"
     , "category": "Objects"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
-
+  {"_id": "sunflower_4"
+    , "folder": "zooms/2016/09-September/2016-09-10/sunflower_4"
+    , "externalURL": ""
+    , "title": "Sunflower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "High Resolution"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
     {"_id": "delicate_1"
     , "folder": "photos/2016/11-November/2016-11-02/flower_1"
     , "externalURL": ""
     , "title": "Delicate"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+  {"_id": "milky_top_oats"
+    , "folder": "zooms/2016/08-August/2016-08-24/milky_top_oats"
+    , "externalURL": ""
+    , "title": "Milky Top Oats"
+    , "year": "2016"
+    , "category": "Objects"
+    , "type": "High Resolution"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
   },
 
+    { "_id": "Blancpain_No_516_02"
+    , "folder": "zooms/2016/09-September/2016-09-25/watch"
+    , "externalURL": ""
+    , "title": "Blancpain No 516"
+    , "year": "2016"
+    , "category": "Objects"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
 
   {"_id": "kevin-1"
     , "folder": "photos/2016/12-December/2016-12-21/kevin-1"
@@ -635,8 +920,11 @@
     , "title": "Kevin"
     , "year": "2016"
     , "category": "Portraits"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
   },
 
 
@@ -646,7 +934,50 @@
     , "title": "SunLight"
     , "year": "2016"
     , "category": "Flowers"
+    , "type": "Apsc Digital"
     , "viewOnHome": true
     , "viewOnCategories": false
+    , "digitiler": false
+    , "site": "redwylie"
+  },
+
+
+
+  {"_id": "peppercorns_in_lid"
+    , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_2"
+    , "externalURL": ""
+    , "title": "Peppercorns"
+    , "category": "Objects"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+
+  {"_id": "two_flowers"
+    , "folder": "zooms/2016/09-September/2016-09-07/two_flowers"
+    , "externalURL": ""
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "type": "High Resolution"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
+  },
+
+      {"_id": "bob-1"
+    , "folder": "zooms/2016/11-November/2016-11-09/bob-1"
+    , "externalURL": ""
+    , "title": "Bob"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "type": "High Resolution"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+    , "digitiler": true
+    , "site": "digitiler"
   }
 ]}

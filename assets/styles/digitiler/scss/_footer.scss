@@ -4,6 +4,12 @@ footer {
     }
 }
 
+.zoom-footer {
+    p {
+        margin-top: 15px;
+    }
+}
+
 @media (max-width: $screen-xs-max) {
     footer {
         font-size: 10px;

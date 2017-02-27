@@ -2,19 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-6">
-				<p class="text-muted">
-					{% if photo.externalURL %}
-						<a href="{{photo.externalURL}}" target="_blank"> 
-							{{photo.title}} 
-						</a>
-					{% else %}
-						{{photo.title}}
-					{% endif %}
-					{% if image.digitiler %}
-					&bull; 
-					<span id="photoMegapixels"></span>	
-					{% endif %}
-				</p>
+				<p class="text-muted">{{photo.title}}</p>
 			</div><!-- .col -->
 			<div class="col-xs-6 text-right">
 				<p class="text-muted">&copy; <span id="year">2017</span> Mark Wylie</p>

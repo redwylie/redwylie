@@ -7,14 +7,12 @@
 {% if categoryTitle == 'Headshots' %}
 {% endif %}
 
-
 	{% if view == 'photo' %}
 		<a href="photo.php?photo={{image._id}}" class="link">
 	{% else %}
 		<a href="category.php?category={{category.category}}"  class="link category-link">
 	{% endif %}
 
-		{% if image.site == 'redwylie' or category.site == 'redwylie'  %}
 			{% if view == 'photo' %}
 				<div class="card {% if categoryTitle == 'Portraits' %}card-portrait{% endif %}" data-content="{{image.title}}" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
 			{% else %}
@@ -30,22 +28,5 @@
 					{% endif %}
 				</div>
 			</div><!-- .card -->
-		{% else %}
-			{% if view == 'photo' %}
-				<div class="card" data-content="{{image.title}}" style="background-image: url('http://www.digitiler.com/{{image.folder}}/thumbnail.jpg')">
-			{% else %}
-				<div class="card" data-content="{{image.title}}" style="background-image: url('http://www.digitiler.com/{{category.folder}}/thumbnail.jpg')">
-			{% endif %}
-			
-				<div class="inner">
-					{% if view == 'photo' %}
-						<h1>{{ image.title }}</h1>
-						<!-- <small>{{image.type}}</small> -->
-					{% else %}
-						<h1>{{ category.category }}</h1>
-					{% endif %}
-				</div>
-			</div><!-- .card -->
-		{% endif %}
-	</a>
+		</a>
 </div><!-- .col -->

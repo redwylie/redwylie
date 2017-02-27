@@ -1,6 +1,8 @@
 .navbar-brand img {
-  max-height: 105px;
+    max-height: 105px;
 }
+
+
 
 @media (max-width: $screen-xs-max) {
    	.navbar {
@@ -33,5 +35,21 @@
   .navbar-nav {
     padding-top: 45px;
   }
+    
+.page-photo {
+    .navbar-brand img {
+        max-height: 45px;
+    }
+
+    .navbar {
+        height: 75px;
+        min-height: 75px;
+
+        .navbar-nav {
+            padding-top: 15px;
+        }
+    }
+
+}
     
 }
