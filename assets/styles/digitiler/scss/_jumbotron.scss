@@ -22,7 +22,7 @@
 
 @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
     .jumbotron {
-        height: 320px;
+        height: 220px;
 
         h1 {
             font-size: 75px;
@@ -32,6 +32,8 @@
 
 @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
     .jumbotron {
+
+        height: 230px;
 
         h1 {
             font-size: 90px;
