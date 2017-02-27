@@ -3,650 +3,535 @@
 
 {"_id": "stephanie-1"
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-1"
-    , "externalURL": ""
     , "title": "Stephanie"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "stephanie-2"
+{"_id": "stephanie-2"
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-2"
-    , "externalURL": ""
     , "title": "Stephanie"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "stephanie-3"
+{"_id": "stephanie-3"
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
-    , "externalURL": ""
     , "title": "Stephanie"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
+{"_id": "zoe-1"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "zoe-2"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-2"
+    , "title": "Zoe"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "julie-1"
+    , "folder": "photos/2017/02-February/2017-02-20/julie-1"
+    , "title": "Julie"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
 
 {"_id": "jacy-1"
     , "folder": "photos/2017/01-January/2017-01-22/jacy-1"
-    , "externalURL": ""
     , "title": "Jacy"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": true
-  },
+},
 
-  {"_id": "jacy-2"
+{"_id": "jacy-2"
     , "folder": "photos/2017/01-January/2017-01-22/jacy-2"
-    , "externalURL": ""
     , "title": "Jacy"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
+{"_id": "saskia-1"
+    , "folder": "photos/2017/02-February/2017-02-23/saskia-1"
+    , "title": "Saskia"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
 
 {"_id": "max-1"
     , "folder": "photos/2017/02-February/2017-02-18/max-1"
-    , "externalURL": ""
     , "title": "Max"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
 {"_id": "sharon-1"
     , "folder": "photos/2017/02-February/2017-02-04/sharon-1"
-    , "externalURL": ""
     , "title": "Sharon"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "sharon-2"
+{"_id": "sharon-2"
     , "folder": "photos/2017/02-February/2017-02-04/sharon-2"
-    , "externalURL": ""
     , "title": "Sharon"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "john-1"
+{"_id": "john-1"
     , "folder": "photos/2017/02-February/2017-02-11/john-1"
-    , "externalURL": ""
     , "title": "John"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-    {"_id": "sarah-1"
+{"_id": "sarah-1"
     , "folder": "photos/2017/02-February/2017-02-02/sarah-1"
-    , "externalURL": ""
     , "title": "Sarah"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "dorothy-1"
+{"_id": "dorothy-1"
     , "folder": "photos/2017/01-January/2017-01-29/dorothy-1"
-    , "externalURL": ""
     , "title": "Dorothy"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "mel-1"
+{"_id": "mel-1"
     , "folder": "photos/2017/01-January/2017-01-30/mel-1"
-    , "externalURL": ""
     , "title": "Melanie"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
-
+},
 
 {"_id": "jenny-2"
     , "folder": "photos/2017/01-January/2017-01-02/jenny-2"
-    , "externalURL": ""
     , "title": "Jenny"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
 {"_id": "steven-1"
     , "folder": "photos/2017/01-January/2017-01-06/steven-1"
-    , "externalURL": ""
     , "title": "Steven"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "steven-2"
+{"_id": "steven-2"
     , "folder": "photos/2017/01-January/2017-01-06/steven-2"
-    , "externalURL": ""
     , "title": "Steven"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-    {"_id": "steven-3"
+{"_id": "steven-3"
     , "folder": "photos/2017/01-January/2017-01-06/steven-3"
-    , "externalURL": ""
     , "title": "Steven"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": true
-  },
+},
 
-  {"_id": "dan-1"
+{"_id": "dan-1"
     , "folder": "photos/2017/01-January/2017-01-14/dan-1"
-    , "externalURL": ""
     , "title": "Dan"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
 
- {"_id": "david-1"
+{"_id": "david-1"
     , "folder": "photos/2016/12-December/2016-12-31/david-1"
-    , "externalURL": ""
     , "title": "David"
     , "year": "2016"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
   {"_id": "pauline-1"
     , "folder": "photos/2016/12-December/2016-12-26/pauline-1"
-    , "externalURL": ""
     , "title": "Pauline"
     , "year": "2016"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  {"_id": "pauline-2"
+{"_id": "pauline-2"
     , "folder": "photos/2016/12-December/2016-12-26/pauline-2"
-    , "externalURL": ""
     , "title": "Pauline"
     , "year": "2016"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
- {"_id": "emma-1"
+{"_id": "emma-1"
     , "folder": "photos/2016/12-December/2016-12-25/emma-1"
-    , "externalURL": ""
     , "title": "Emma"
     , "year": "2016"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-   {"_id": "alice-1"
+{"_id": "alice-1"
     , "folder": "photos/2016/12-December/2016-12-25/alice-1"
-    , "externalURL": ""
     , "title": "Alice"
     , "year": "2016"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
-
-
+},
 
 {"_id": "flower_3"
     , "folder": "photos/2016/10-October/2016-10-22/flower_1"
-    , "externalURL": ""
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": true
-  },
+},
 
-
-  {"_id": "wave_1"
+{"_id": "wave_1"
     , "folder": "photos/2016/11-November/2016-11-01/wave_1"
-    , "externalURL": ""
     , "title": "Wave"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-    {"_id": "everything"
+{"_id": "everything"
     , "folder": "photos/2017/01-January/2017-01-07/flower"
-    , "externalURL": ""
     , "title": "Everything"
     , "year": "2017"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-      {"_id": "seven"
+{"_id": "seven"
     , "folder": "photos/2017/01-January/2017-01-05/flower"
-    , "externalURL": ""
     , "title": "Seven"
     , "year": "2017"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-      {"_id": "boldly"
+{"_id": "boldly"
     , "folder": "photos/2017/01-January/2017-01-12/flower"
-    , "externalURL": ""
     , "title": "Live Boldly, With Fire"
     , "year": "2017"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-   { "_id": "Jamaica_Pond"
+{ "_id": "Jamaica_Pond"
     , "folder": "photos/2016/08-August/2016-08-08/pond"
-    , "externalURL": ""
     , "title": "Jamaica Pond"
     , "year": "2016"
     , "category": "Boston"
-    , "viewOnHome": true
     , "viewOnCategories": true
-  },
+},
 
-  {"_id": "macro_1"
+{"_id": "macro_1"
     , "folder": "photos/2016/11-November/2016-11-01/macro_1"
-    , "externalURL": ""
     , "title": "Close"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-   {"_id": "daisy_1"
+{"_id": "daisy_1"
     , "folder": "photos/2016/11-November/2016-11-16/daisy_1"
-    , "externalURL": ""
     , "title": "Daisy"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-   {"_id": "hope"
+{"_id": "hope"
     , "folder": "photos/2016/12-December/2016-12-05/flower"
-    , "externalURL": ""
     , "title": "Hope"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-   {"_id": "change"
+{"_id": "change"
     , "folder": "photos/2016/12-December/2016-12-04/flower"
-    , "externalURL": ""
     , "title": "Change"
     , "year": "2016"
     , "category": "Flowers"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
-
-    {"_id": "purple_flower_1"
+{"_id": "purple_flower_1"
     , "folder": "photos/2016/11-November/2016-11-26/purple_flower_1"
-    , "externalURL": ""
     , "title": "Flower"
     , "year": "2016"
     , "category": "Flowers"
     , "type": "Full Frame Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
-
-     {"_id": "purple_flower_2"
+{"_id": "purple_flower_2"
     , "folder": "photos/2016/11-November/2016-11-26/purple_flower_2"
-    , "externalURL": ""
     , "title": "Flower"
     , "year": "2016"
     , "category": "Flowers"
     , "type": "Full Frame Digital"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-   {"_id": "purple_flower_3"
+{"_id": "purple_flower_3"
     , "folder": "photos/2016/11-November/2016-11-26/purple_flower_3"
-    , "externalURL": ""
     , "title": "Flower"
     , "year": "2016"
     , "category": "Flowers"
     , "type": "Full Frame Digital"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
-
-
-
- {"_id": "kinney"
+{"_id": "kinney"
     , "folder": "photos/2016/11-November/2016-11-21/kinney"
-    , "externalURL": ""
     , "title": "Kinney"
     , "year": "2016"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-  {"_id": "flower_4"
+{"_id": "flower_4"
     , "folder": "photos/2016/10-October/2016-10-22/flower_2"
-    , "externalURL": ""
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
    
-
-
-    { "_id": "sunflower_6"
+{ "_id": "sunflower_6"
     , "folder": "photos/2016/09-September/2016-09-11/sunflower_1"
-    , "externalURL": ""
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  { "_id": "simple_shell"
+{ "_id": "simple_shell"
     , "folder": "photos/2016/09-September/2016-09-28/shell"
-    , "externalURL": ""
     , "title": "Simple Shell"
     , "year": "2016"
     , "category": "Objects"
-    , "viewOnHome": true
     , "viewOnCategories": true
-  },
+},
 
-  { "_id": "pencils"
+{ "_id": "pencils"
     , "folder": "photos/2016/10-October/2016-10-07/pencils"
-    , "externalURL": ""
     , "title": "Pencils"
     , "year": "2016"
     , "category": "Objects"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-    { "_id": "lily_1"
+{ "_id": "lily_1"
     , "folder": "photos/2016/10-October/2016-10-29/lily_1"
-    , "externalURL": ""
     , "title": "Lily"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-
-
-  {"_id": "yellow_flowers"
+{"_id": "yellow_flowers"
     , "folder": "photos/2016/10-October/2016-10-15/flower"
-    , "externalURL": ""
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
-
-  {"_id": "blue_orchid"
+{"_id": "blue_orchid"
     , "folder": "photos/2016/10-October/2016-10-16/flower"
-    , "externalURL": ""
     , "title": "Orchid"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-  {"_id": "red_lily"
+{"_id": "red_lily"
     , "folder": "photos/2016/10-October/2016-10-31/flower_1"
-    , "externalURL": ""
     , "title": "Red Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
-
-  {"_id": "yellow_lily"
+{"_id": "yellow_lily"
     , "folder": "photos/2016/10-October/2016-10-31/flower_2"
-    , "externalURL": ""
     , "title": "Yellow Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
 
-  {"_id": "yellow_lily_2"
+{"_id": "yellow_lily_2"
     , "folder": "photos/2016/11-November/2016-11-04/flower"
-    , "externalURL": ""
     , "title": "Yellow Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-   
-    {"_id": "macro_2"
+ {"_id": "macro_2"
     , "folder": "photos/2016/11-November/2016-11-01/macro_2"
-    , "externalURL": ""
     , "title": "Closer"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
-
-
-
+},
 
 { "_id": "Boat_House"
     , "folder": "photos/2016/08-August/2016-08-08/boathouse"
-    , "externalURL": ""
     , "title": "Jamaica Pond Boat House"
     , "year": "2016"
     , "category": "Boston"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  { "_id": "bus"
+{ "_id": "bus"
     , "folder": "photos/2016/08-August/2016-08-08/bus"
-    , "externalURL": ""
     , "title": "Bus Stop"
     , "year": "2016"
     , "category": "Boston"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-   { "_id": "lantern"
+{ "_id": "lantern"
     , "folder": "photos/2009/2009-07-16/lantern-1"
-    , "externalURL": ""
     , "title": "Lantern Festival"
     , "year": "2016"
     , "category": "Boston"
-    , "viewOnHome": true
     , "viewOnCategories": false
   },
 
 { "_id": "sunflower_7"
     , "folder": "photos/2016/09-September/2016-09-11/sunflower_2"
-    , "externalURL": ""
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
-  { "_id": "chill_flower_1"
+{ "_id": "chill_flower_1"
     , "folder": "photos/2016/10-October/2016-10-09/flower_1"
-    , "externalURL": ""
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-
-   {"_id": "relaxed"
+{"_id": "relaxed"
     , "folder": "photos/2016/12-December/2016-12-12/flower"
-    , "externalURL": ""
     , "title": "Relaxed"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  
- { "_id": "eye"
+{ "_id": "eye"
     , "folder": "photos/2016/08-August/2016-08-29/eye"
-    , "externalURL": ""
     , "title": "Sarah's Eye"
     , "year": "2016"
     , "category": "Objects"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-   {"_id": "rose_1"
+{"_id": "rose_1"
     , "folder": "photos/2016/11-November/2016-11-03/rose_1"
-    , "externalURL": ""
     , "title": "Rose"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
-  { "_id": "Tavannes_2"
+},
+
+{ "_id": "Tavannes_2"
     , "folder": "photos/2016/10-October/2016-10-05/watch"
-    , "externalURL": ""
     , "title": "Tavannes Watch"
     , "year": "2016"
     , "category": "Objects"
     , "type": "Stacked"
     , "viewOnHome": false
     , "viewOnCategories": false
-  },
+},
 
-
-  { "_id": "chill_flower_2"
+{ "_id": "chill_flower_2"
     , "folder": "photos/2016/10-October/2016-10-09/flower_2"
-    , "externalURL": ""
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-  { "_id": "pencils_2"
+{ "_id": "pencils_2"
     , "folder": "photos/2016/10-October/2016-10-08/pencils"
-    , "externalURL": ""
     , "title": "Pencils"
     , "year": "2016"
     , "category": "Objects"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-    {"_id": "delicate_1"
+{"_id": "delicate_1"
     , "folder": "photos/2016/11-November/2016-11-02/flower_1"
-    , "externalURL": ""
     , "title": "Delicate"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-  {"_id": "kevin-1"
+{"_id": "kevin-1"
     , "folder": "photos/2016/12-December/2016-12-21/kevin-1"
-    , "externalURL": ""
     , "title": "Kevin"
     , "year": "2016"
     , "category": "Portraits"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  },
+},
 
-
-  {"_id": "flower_lamp"
+{"_id": "flower_lamp"
     , "folder": "photos/2016/11-November/2016-11-27/flower"
-    , "externalURL": ""
     , "title": "SunLight"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": true
     , "viewOnCategories": false
-  }
+}
 ]}
