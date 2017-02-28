@@ -1071,7 +1071,6 @@ a {
     color: #23527c;
     text-decoration: underline; }
   a:focus {
-    outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px; }
 
@@ -2287,7 +2286,6 @@ select[size] {
 input[type="file"]:focus,
 input[type="radio"]:focus,
 input[type="checkbox"]:focus {
-  outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px; }
 
@@ -2801,7 +2799,6 @@ select[multiple].input-lg,
   -ms-user-select: none;
   user-select: none; }
   .btn:focus, .btn.focus, .btn:active:focus, .btn:active.focus, .btn.active:focus, .btn.active.focus {
-    outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px; }
   .btn:hover, .btn:focus, .btn.focus {
@@ -6049,16 +6046,12 @@ footer p {
   justify-content: center; }
 
 .full-image {
-  max-width: 90%;
-  max-height: 100%;
-  max-height: calc(100% - 1px);
+  max-width: 100%;
+  max-height: 70%;
+  max-height: calc(100% - 75px);
   height: auto;
-  width: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto; }
+  width: auto; }
 
-.col-back .btn-nav,
-.col-forward .btn-nav {
+.btn-nav {
   font-size: 30px;
   color: #333; }

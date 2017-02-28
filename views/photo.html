@@ -9,17 +9,17 @@
    <?php include_once("analyticstracking.php") ?>
    {% include 'common/nav.html'%}
 
-	<div class="container-fluid container-photo">
-		<div class="row-photo">
-				<div class="col-back hidden-xs">
-					<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
-				</div><!-- .col -->
-				<div class="col-photo align-center">
-					<img src="{{photo.folder}}/photo.jpg" class="img-responsive full-image" />
-				</div><!-- .col -->
-				<div class="col-forward hidden-xs">
-					<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-				</div><!-- .col -->
+	<div class="container-fluid">
+		<div class="row row-photo">
+			<div class="col-xs-1 hidden-xs">
+				<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
+			</div><!-- .col -->
+			<div class="col-xs-12 col-sm-10 text-center">
+				<img src="{{photo.folder}}/photo.jpg" class="full-image" />
+			</div><!-- .col -->
+			<div class="col-xs-1 hidden-xs">
+				<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+			</div><!-- .col -->
 		</div><!-- .row -->
 	</div><!-- .container -->
 
