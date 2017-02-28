@@ -10,7 +10,7 @@ body {
 }
 
 body.page-photo {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 body > .container,
@@ -29,19 +29,4 @@ footer {
   p {
     padding-top: 10px;
   }
-
-}
-
-.zoom-footer {
-  background-color: #000;
-  line-height: .5em;
-
-  a.show-info {
-    color: $gray-light;
-  }
-
-  .hidden-info {
-    line-height: .9em;
-  }
-
 }

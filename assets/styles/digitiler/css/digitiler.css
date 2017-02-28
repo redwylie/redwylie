@@ -5823,7 +5823,7 @@ body {
   margin-bottom: 40px; }
 
 body.page-photo {
-  margin-bottom: 40px; }
+  margin-bottom: 0px; }
 
 footer {
   position: absolute;
@@ -5834,14 +5834,6 @@ footer {
   background-color: #f5f5f5; }
   footer p {
     padding-top: 10px; }
-
-.zoom-footer {
-  background-color: #000;
-  line-height: .5em; }
-  .zoom-footer a.show-info {
-    color: #777777; }
-  .zoom-footer .hidden-info {
-    line-height: .9em; }
 
 .required-field-indicator {
   color: #ca424e; }
@@ -6014,12 +6006,18 @@ a.link:hover {
   .page-photo .navbar-brand {
     height: 75px; } }
 
+footer .contact-info {
+  font-weight: 200;
+  color: #aaa; }
+
 footer .btn {
-  color: #777; }
+  color: #aaa;
+  font-weight: 200; }
 
 footer .text-muted {
-  color: #ccc;
-  font-size: 11px; }
+  color: #aaa;
+  font-size: 11px;
+  font-weight: 200; }
 
 footer p {
   margin-bottom: 0px; }
@@ -6052,7 +6050,8 @@ footer p {
 
 .full-image {
   max-width: 95%;
-  max-height: 77%;
+  max-height: 87%;
+  max-height: calc(100% - 75px);
   height: auto;
   width: auto;
   display: block;

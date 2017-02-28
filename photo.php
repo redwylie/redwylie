@@ -11,6 +11,7 @@ $twig = new Twig_Environment($loader, array(
 ));
 
 $photo = null;
+$photoTitle = null;
 $photoId = $_GET['photo'];
 
 $file = file_get_contents('./images.json', true);
@@ -27,6 +28,7 @@ $obj = json_decode($json);
 foreach ($obj->{'images'} as &$image) {
     if ($image->_id == $photoId) {
         $photo = $image;
+        $photoTitle = $image->title;
         break;
     };
 }
@@ -37,7 +39,7 @@ $template = $twig->loadTemplate('photo.html');
 echo $template->render(array(
 		'photo' => $photo,
 		'id' => $id,
-		'title' => 'Red Wylie Photography - ' .$photoId,
+		'title' => 'Red Wylie Photography - ' .$photoTitle,
 	));
 
 ?>
