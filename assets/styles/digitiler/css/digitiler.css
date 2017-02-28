@@ -5891,42 +5891,40 @@ a.link:hover {
   .card small {
     z-index: 1;
     position: relative; }
+  .card .inner {
+    margin-top: 120px;
+    display: none; }
 
-.card .inner {
-  margin-top: 120px;
-  display: none; }
-
-.category-link .card {
-  height: 364px; }
-  .category-link .card .inner {
-    height: 50px;
-    margin-top: 310px;
-    width: 100%;
-    display: block;
-    background: rgba(0, 0, 0, 0.3); }
-    .category-link .card .inner h1 {
-      position: relative;
-      top: 15px;
-      font-weight: 200; }
+.category-link .card .inner {
+  height: 50px;
+  margin-top: 180px;
+  width: 100%;
+  display: block;
+  background: rgba(0, 0, 0, 0.3); }
+  .category-link .card .inner h1 {
+    position: relative;
+    top: 15px;
+    font-weight: 200; }
 
 @media (max-width: 767px) {
   .card-portrait {
     height: 400px; }
   .card-portrait .inner {
-    margin-top: 200px; } }
+    margin-top: 200px; }
+  .category-link .card .inner {
+    margin-top: 235px; } }
 
 @media (min-width: 768px) and (max-width: 991px) {
   .card {
     height: 176px; }
+    .card .inner {
+      margin-top: 80px; }
   .card-portrait {
     height: 276px; }
   .card-portrait .inner {
     margin-top: 120px; }
-  .category-link .card {
-    height: 268px; }
-    .category-link .card .inner {
-      height: 50px;
-      margin-top: 214px; } }
+  .category-link .card .inner {
+    margin-top: 122px; } }
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .card {
@@ -5937,14 +5935,12 @@ a.link:hover {
     margin-top: 180px; } }
 
 @media (min-width: 1200px) {
-  .category-link .card {
-    height: 344px; }
-    .category-link .card .inner {
-      margin-top: 290px; }
   .card-portrait {
     height: 460px; }
   .card-portrait .inner {
-    margin-top: 220px; } }
+    margin-top: 220px; }
+  .category-link .card .inner {
+    margin-top: 235px; } }
 
 .jumbotron {
   height: 400px;
@@ -6047,12 +6043,22 @@ footer p {
     padding-left: 1px;
     padding-right: 1px; } }
 
+.row-photo {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
 .full-image {
-  max-width: 95%;
-  max-height: 87%;
-  max-height: calc(100% - 75px);
+  max-width: 90%;
+  max-height: 100%;
+  max-height: calc(100% - 1px);
   height: auto;
   width: auto;
   display: block;
   margin-left: auto;
   margin-right: auto; }
+
+.col-back .btn-nav,
+.col-forward .btn-nav {
+  font-size: 30px;
+  color: #333; }

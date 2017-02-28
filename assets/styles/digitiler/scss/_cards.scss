@@ -3,7 +3,7 @@ a.link:hover {
 }
 
 
-// This keeps the hover display hidden from mobile devices
+// THIS KEEPS THE HOVER DISPLAY HIDDEN FROM MOBILE DEVICES
 @media (min-width: $screen-sm-min) {
     
     .card:hover {
@@ -35,7 +35,6 @@ a.link:hover {
     }
         
 }
-// .This keeps the hover display hidden from mobile devices
 
 .card {
 	height: 288px;
@@ -65,22 +64,22 @@ a.link:hover {
         position: relative;
     }
 
+    .inner {
+        margin-top: 120px;
+        display: none;
+    }
+
 }
 
-.card .inner {
-	margin-top: 120px;
-    display: none;
-}
 
+//CARD HEIGHTS ON THE HOME PAGE
 .category-link {
 
     .card {
 
-        height: 364px;
-
         .inner {
             height: 50px;
-            margin-top: 310px;
+            margin-top: 180px;
             width: 100%;
             display: block;
             background: rgba(0,0,0,.3);
@@ -94,7 +93,6 @@ a.link:hover {
     }
 }
 
-
 @media (max-width: $screen-xs-max) {
    
     .card-portrait {
@@ -105,12 +103,22 @@ a.link:hover {
         margin-top: 200px;
     }
 
+    .category-link {
+        .card .inner {
+            margin-top: 235px;
+        }
+    }
+
 }
 
 @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
     
     .card {
         height: 176px;
+
+        .inner {
+            margin-top: 80px;
+        }
     }
 
     .card-portrait {
@@ -122,19 +130,10 @@ a.link:hover {
     }
 
     .category-link {
-
-        .card {
-
-            height: 268px;
-
-            .inner {
-                height: 50px;
-                margin-top: 214px;
-
-            }
+        .card .inner {
+            margin-top: 122px;
         }
     }
-
 }
 
 @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
@@ -153,16 +152,6 @@ a.link:hover {
 }
 
 @media (min-width: $screen-lg-min) {
-    .category-link {
-
-        .card {
-            height: 344px;
-
-            .inner {
-                margin-top: 290px;
-            }
-        }
-    }
 
     .card-portrait {
         height: 460px;
@@ -172,8 +161,10 @@ a.link:hover {
         margin-top: 220px;
     }
 
+    .category-link {
+        .card .inner {
+            margin-top: 235px;
+        }
+    }
+
 }
-
-
-
-
