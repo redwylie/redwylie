@@ -2,11 +2,23 @@ footer {
     .btn {
         color: #777
     }
+
+    .text-muted {
+        color: #ccc;
+        font-size: 11px;
+    }
+
+    p {
+        margin-bottom: 0px;
+    }
+
 }
 
 .zoom-footer {
     height: 30px;
 }
+
+
 
 @media (max-width: $screen-xs-max) {
     footer {

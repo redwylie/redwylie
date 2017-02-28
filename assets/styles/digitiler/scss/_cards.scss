@@ -22,6 +22,7 @@ a.link:hover {
         line-height: 18px;
         z-index: 1;
         position: relative;
+        font-weight: 200;
 	}
 
     small {
@@ -43,15 +44,16 @@ a.link:hover {
         height: 364px;
 
         .inner {
-            height: 80px;
-            margin-top: 280px;
+            height: 50px;
+            margin-top: 310px;
             width: 100%;
             display: block;
-            background: rgba(0,0,0,.5);
+            background: rgba(0,0,0,.3);
 
             h1 {
                 position: relative;
-                top: 30px;
+                top: 15px;
+                font-weight: 200;
             }
         }
     }
@@ -118,8 +120,8 @@ a.link:hover {
             height: 268px;
 
             .inner {
-                height: 80px;
-                margin-top: 184px;
+                height: 50px;
+                margin-top: 214px;
 
             }
         }
@@ -149,7 +151,7 @@ a.link:hover {
             height: 344px;
 
             .inner {
-                margin-top: 260px;
+                margin-top: 290px;
             }
         }
     }

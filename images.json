@@ -6,7 +6,7 @@
     , "title": "Stephanie"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnCategories": false
+    , "viewOnCategories": true
 },
 
 {"_id": "stephanie-2"
@@ -38,7 +38,7 @@
     , "title": "Zoe"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnCategories": false
+    , "viewOnCategories": true
 },
 
 {"_id": "julie-1"
@@ -54,7 +54,7 @@
     , "title": "Jacy"
     , "year": "2017"
     , "category": "Headshots"
-    , "viewOnCategories": true
+    , "viewOnCategories": false
 },
 
 {"_id": "jacy-2"
@@ -89,14 +89,6 @@
     , "viewOnCategories": false
 },
 
-{"_id": "sharon-2"
-    , "folder": "photos/2017/02-February/2017-02-04/sharon-2"
-    , "title": "Sharon"
-    , "year": "2017"
-    , "category": "Headshots"
-    , "viewOnCategories": false
-},
-
 {"_id": "john-1"
     , "folder": "photos/2017/02-February/2017-02-11/john-1"
     , "title": "John"
@@ -105,9 +97,33 @@
     , "viewOnCategories": false
 },
 
+{"_id": "annesophia-1"
+    , "folder": "photos/2017/02-February/2017-02-11/annesophia-1"
+    , "title": "Anne-Sophia"
+    , "year": "2017"
+    , "category": "Family"
+    , "viewOnCategories": false
+},
+
+{"_id": "micah-1"
+    , "folder": "photos/2017/02-February/2017-02-11/micah-1"
+    , "title": "Micah"
+    , "year": "2017"
+    , "category": "Family"
+    , "viewOnCategories": true
+},
+
 {"_id": "sarah-1"
     , "folder": "photos/2017/02-February/2017-02-02/sarah-1"
     , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "deb"
+    , "folder": "photos/2017/02-February/2017-02-21/deb"
+    , "title": "Deb"
     , "year": "2017"
     , "category": "Headshots"
     , "viewOnCategories": false
@@ -158,7 +174,7 @@
     , "title": "Steven"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnCategories": true
+    , "viewOnCategories": false
 },
 
 {"_id": "dan-1"
@@ -215,7 +231,7 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnCategories": true
+    , "viewOnCategories": false
 },
 
 {"_id": "wave_1"
@@ -231,7 +247,7 @@
     , "title": "Everything"
     , "year": "2017"
     , "category": "Flowers"
-    , "viewOnCategories": false
+    , "viewOnCategories": true
 },
 
 {"_id": "seven"
