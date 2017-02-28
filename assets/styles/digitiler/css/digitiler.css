@@ -5847,6 +5847,27 @@ footer {
 a.link:hover {
   text-decoration: none; }
 
+@media (min-width: 768px) {
+  .card:hover {
+    border: 2px solid #52bbdc; }
+    .card:hover .inner {
+      display: block; }
+  .card:after {
+    content: "";
+    display: block;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.5);
+    -moz-transition: all .4s;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+    top: 0;
+    left: 0;
+    position: absolute; }
+  .card:hover:after {
+    opacity: 1; } }
+
 .card {
   height: 288px;
   width: 100%;
@@ -5887,28 +5908,6 @@ a.link:hover {
       position: relative;
       top: 15px;
       font-weight: 200; }
-
-.card:hover {
-  border: 2px solid #52bbdc; }
-  .card:hover .inner {
-    display: block; }
-
-.card:after {
-  content: "";
-  display: block;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  background: rgba(0, 0, 0, 0.5);
-  -moz-transition: all .4s;
-  -webkit-transition: all .4s;
-  transition: all .4s;
-  top: 0;
-  left: 0;
-  position: absolute; }
-
-.card:hover:after {
-  opacity: 1; }
 
 @media (max-width: 767px) {
   .card-portrait {

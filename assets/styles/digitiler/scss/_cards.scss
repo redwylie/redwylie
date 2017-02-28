@@ -2,6 +2,41 @@ a.link:hover {
     text-decoration: none;
 }
 
+
+// This keeps the hover display hidden from mobile devices
+@media (min-width: $screen-sm-min) {
+    
+    .card:hover {
+        border: 2px solid $blue-one-highlight;
+
+        .inner {
+            display: block;
+        }
+
+    }
+
+    .card:after {
+        content: "";
+        display: block;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        background: rgba(0,0,0,.5);
+        -moz-transition: all .4s;
+        -webkit-transition: all .4s;
+        transition: all .4s;
+        top: 0;
+        left: 0;
+        position: absolute;
+    }
+
+    .card:hover:after {
+        opacity:1;
+    }
+        
+}
+// .This keeps the hover display hidden from mobile devices
+
 .card {
 	height: 288px;
 	width: 100%;
@@ -59,33 +94,6 @@ a.link:hover {
     }
 }
 
-.card:hover {
-	border: 2px solid $blue-one-highlight;
-
-    .inner {
-        display: block;
-    }
-
-}
-
-.card:after {
-    content: "";
-    display: block;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    background: rgba(0,0,0,.5);
-    -moz-transition: all .4s;
-    -webkit-transition: all .4s;
-    transition: all .4s;
-    top: 0;
-    left: 0;
-    position: absolute;
-}
-
-.card:hover:after {
-    opacity:1;
-}
 
 @media (max-width: $screen-xs-max) {
    
@@ -165,3 +173,7 @@ a.link:hover {
     }
 
 }
+
+
+
+
