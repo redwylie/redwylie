@@ -11,15 +11,22 @@
 
 	<div class="container-fluid">
 		<div class="row row-photo">
-			<div class="col-xs-1 hidden-xs">
-				<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
-			</div><!-- .col -->
-			<div class="col-xs-12 col-sm-10 col-photo">
-				<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:100%; height:auto;" />
-			</div><!-- .col -->
-			<div class="col-xs-1 hidden-xs">
-				<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-			</div><!-- .col -->
+
+			{% if photo.digitiler %}
+				<div class="col-xs-12">
+					<div id="openseadragon"></div>
+				</div><!-- .col -->
+			{% else %}
+				<div class="col-xs-1 hidden-xs">
+					<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
+				</div><!-- .col -->
+				<div class="col-xs-12 col-sm-10 col-photo">
+					<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:100%; height:auto;" />
+				</div><!-- .col -->
+				<div class="col-xs-1 hidden-xs">
+					<a class="btn btn-link btn-nav" onclick="goBack()"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+				</div><!-- .col -->
+			{% endif %}
 		</div><!-- .row -->
 	</div><!-- .container -->
 
@@ -36,6 +43,11 @@
 
 	{% include 'common/scripts.html' %}
 	{% include 'common/tracking.html' %}
+
+	{% if photo.digitiler %}
+		{% include 'common/zoom-footer.html' %}
+		{% include 'common/zoom.html' with {'folder': photo.folder}  %}
+	{% endif %}
 	
 </body>
 </html>

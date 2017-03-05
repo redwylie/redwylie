@@ -41,6 +41,33 @@
     , "viewOnCategories": true
 },
 
+{ "_id": "fiona-large-format-1"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-1"
+    , "title": "Fiona"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "fiona-large-format-2"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-2"
+    , "title": "Fiona"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "fiona-large-format-3"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-3"
+    , "title": "Fiona"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
 {"_id": "julie-1"
     , "folder": "photos/2017/02-February/2017-02-20/julie-1"
     , "title": "Julie"
@@ -303,7 +330,7 @@
     , "title": "Change"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": false
+
     , "viewOnCategories": false
 },
 
@@ -312,8 +339,6 @@
     , "title": "Flower"
     , "year": "2016"
     , "category": "Flowers"
-    , "type": "Full Frame Digital"
-    , "viewOnHome": false
     , "viewOnCategories": false
 },
 
@@ -322,7 +347,6 @@
     , "title": "Flower"
     , "year": "2016"
     , "category": "Flowers"
-    , "type": "Full Frame Digital"
     , "viewOnCategories": false
 },
 
@@ -331,8 +355,6 @@
     , "title": "Flower"
     , "year": "2016"
     , "category": "Flowers"
-    , "type": "Full Frame Digital"
-    , "viewOnHome": false
     , "viewOnCategories": false
 },
 
@@ -376,6 +398,15 @@
     , "viewOnCategories": false
 },
 
+{ "_id": "farm-bouquet"
+    , "folder": "photos/2016/09-September/2016-09-03/bouquet"
+    , "title": "Bouquet"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
 { "_id": "lily_1"
     , "folder": "photos/2016/10-October/2016-10-29/lily_1"
     , "title": "Lily"
@@ -389,7 +420,6 @@
     , "title": "Flowers"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": false
     , "viewOnCategories": false
 },
 
@@ -406,7 +436,6 @@
     , "title": "Red Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": false
     , "viewOnCategories": false
 },
 
@@ -415,10 +444,8 @@
     , "title": "Yellow Calla Lily"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": false
     , "viewOnCategories": false
 },
-
 
 {"_id": "yellow_lily_2"
     , "folder": "photos/2016/11-November/2016-11-04/flower"
@@ -465,7 +492,6 @@
     , "title": "Sunflower"
     , "year": "2016"
     , "category": "Flowers"
-    , "viewOnHome": false
     , "viewOnCategories": false
 },
 
@@ -507,7 +533,7 @@
     , "year": "2016"
     , "category": "Objects"
     , "type": "Stacked"
-    , "viewOnHome": false
+
     , "viewOnCategories": false
 },
 
