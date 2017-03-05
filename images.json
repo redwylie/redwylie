@@ -398,15 +398,6 @@
     , "viewOnCategories": false
 },
 
-{ "_id": "farm-bouquet"
-    , "folder": "photos/2016/09-September/2016-09-03/bouquet"
-    , "title": "Bouquet"
-    , "year": "2016"
-    , "category": "Flowers"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
 { "_id": "lily_1"
     , "folder": "photos/2016/10-October/2016-10-29/lily_1"
     , "title": "Lily"
