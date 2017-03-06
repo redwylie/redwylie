@@ -16,6 +16,13 @@
 					<h1>{{categoryTitle}}</h1>
 				</div>
 			</div><!-- .col -->
+
+			{% if categoryTitle == 'Large Format' %}
+			<div class="col-sm-8">
+				<p>These large format high resolution photos are taken with a Cambo 4x5 view camera with a custom made back in development by <a href="http://www.maxotics.com" target="_blank">Maxotics</a>. The digitiler back allows the capture of up to 49 images (a 7x7 grid across the film plane) with a full frame 35mm digital sensor. The 49 images are stitched together resulting in photographs with a native resoultion of 150-700 megapixels.  A 400 megapixel image could be printed at 90 inches by 50 inches at 300 DPI. The current challenges of this method include: The need for your subject to be still for 60 seconds, sensor dust, raw file sizes in the gigabytes, retouching these large files, and the web zoom viewer creation process modifying the colors somewhat. </p>
+				<br/>
+			</div><!-- .col -->
+			{% endif %}
 			
 		</div><!-- .row -->
 

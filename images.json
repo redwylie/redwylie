@@ -41,33 +41,6 @@
     , "viewOnCategories": true
 },
 
-{ "_id": "fiona-large-format-1"
-    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-1"
-    , "title": "Fiona"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
-{ "_id": "fiona-large-format-2"
-    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-2"
-    , "title": "Fiona"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
-{ "_id": "fiona-large-format-3"
-    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-3"
-    , "title": "Fiona"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
 {"_id": "julie-1"
     , "folder": "photos/2017/02-February/2017-02-20/julie-1"
     , "title": "Julie"
@@ -293,12 +266,111 @@
     , "viewOnCategories": false
 },
 
+{ "_id": "fiona-large-format-1"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-1"
+    , "title": "Fiona - 375 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": true
+},
+
+{ "_id": "fiona-large-format-2"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-2"
+    , "title": "Fiona - 540 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "fiona-large-format-3"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-3"
+    , "title": "Fiona - 580 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "sneakers-large-format-1"
+    , "folder": "photos/2017/02-February/2017-02-26/sneakers-1"
+    , "title": "Asics GT-2000 - 300 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "sneakers-large-format-2"
+    , "folder": "photos/2017/02-February/2017-02-26/sneakers-2"
+    , "title": "Asics GT-2000 - 370 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "sneakers-large-format-3"
+    , "folder": "photos/2017/02-February/2017-02-26/sneakers-3"
+    , "title": "Mizuno Wave Rider - 400 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "bob-large-format-1"
+    , "folder": "photos/2016/11-November/2016-11-09/bob-1"
+    , "title": "Bob - 300 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "peppercorns-large-format-1"
+    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-1"
+    , "title": "Peppercorns - 600 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "peppercorns-large-format-2"
+    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-2"
+    , "title": "Peppercorns - 180 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "bouquet-large-format-1"
+    , "folder": "photos/2016/09-September/2016-09-03/bouquet"
+    , "title": "Farm Bouquet - 330 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "watch-large-format-1"
+    , "folder": "photos/2016/09-September/2016-09-23/watch"
+    , "title": "Blancpain No 516 - 530 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
 { "_id": "Jamaica_Pond"
     , "folder": "photos/2016/08-August/2016-08-08/pond"
     , "title": "Jamaica Pond"
     , "year": "2016"
-    , "category": "Boston"
-    , "viewOnCategories": true
+    , "category": "Assorted"
+    , "viewOnCategories": false
 },
 
 {"_id": "macro_1"
@@ -386,7 +458,7 @@
     , "folder": "photos/2016/09-September/2016-09-28/shell"
     , "title": "Simple Shell"
     , "year": "2016"
-    , "category": "Objects"
+    , "category": "Assorted"
     , "viewOnCategories": true
 },
 
@@ -394,7 +466,7 @@
     , "folder": "photos/2016/10-October/2016-10-07/pencils"
     , "title": "Pencils"
     , "year": "2016"
-    , "category": "Objects"
+    , "category": "Assorted"
     , "viewOnCategories": false
 },
 
@@ -458,7 +530,7 @@
     , "folder": "photos/2016/08-August/2016-08-08/boathouse"
     , "title": "Jamaica Pond Boat House"
     , "year": "2016"
-    , "category": "Boston"
+    , "category": "Assorted"
     , "viewOnCategories": false
 },
 
@@ -466,7 +538,7 @@
     , "folder": "photos/2016/08-August/2016-08-08/bus"
     , "title": "Bus Stop"
     , "year": "2016"
-    , "category": "Boston"
+    , "category": "Assorted"
     , "viewOnCategories": false
 },
 
@@ -474,7 +546,7 @@
     , "folder": "photos/2009/2009-07-16/lantern-1"
     , "title": "Lantern Festival"
     , "year": "2016"
-    , "category": "Boston"
+    , "category": "Assorted"
     , "viewOnCategories": false
   },
 
@@ -506,7 +578,7 @@
     , "folder": "photos/2016/08-August/2016-08-29/eye"
     , "title": "Sarah's Eye"
     , "year": "2016"
-    , "category": "Objects"
+    , "category": "Assorted"
     , "viewOnCategories": false
 },
 
@@ -522,7 +594,7 @@
     , "folder": "photos/2016/10-October/2016-10-05/watch"
     , "title": "Tavannes Watch"
     , "year": "2016"
-    , "category": "Objects"
+    , "category": "Assorted"
     , "type": "Stacked"
 
     , "viewOnCategories": false
@@ -540,7 +612,7 @@
     , "folder": "photos/2016/10-October/2016-10-08/pencils"
     , "title": "Pencils"
     , "year": "2016"
-    , "category": "Objects"
+    , "category": "Assorted"
     , "viewOnCategories": false
 },
 
