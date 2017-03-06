@@ -33,6 +33,23 @@
     , "viewOnCategories": false
 },
 
+{"_id": "fiona-1"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-1"
+    , "title": "Fiona"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "fiona-2"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-2"
+    , "title": "Fiona"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+
 {"_id": "zoe-2"
     , "folder": "photos/2017/02-February/2017-02-22/zoe-2"
     , "title": "Zoe"
