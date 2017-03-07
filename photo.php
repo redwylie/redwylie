@@ -25,12 +25,34 @@ $obj = json_decode($json);
 
 //print $obj->{'images'};
 
+$photoIdPrevious = null;
+$photoIdNext = null;
+$category = null;
+
 foreach ($obj->{'images'} as &$image) {
+    if ($image->_id == $photoId) {
+        $category = $image->category;
+        break;
+    };
+}
+
+$urlPrevious = '/category.php?category=' . $category;
+$urlNext = '/category.php?category=' . $category;
+
+foreach ($obj->{'images'} as &$image) {
+    if (!is_null($photo) && is_null($photoIdNext) && $category == $image->category) {
+        $photoIdNext = $image->_id;
+        $urlNext = '/photo.php?photo=' . $photoIdNext;
+        break;
+    }
     if ($image->_id == $photoId) {
         $photo = $image;
         $photoTitle = $image->title;
-        break;
     };
+    if (is_null($photo) && $image->category == $category) {
+        $photoIdPrevious = $image->_id;
+        $urlPrevious = '/photo.php?photo=' . $photoIdPrevious;
+    }
 }
 
 //var_dump($photo);
@@ -40,6 +62,11 @@ echo $template->render(array(
 		'photo' => $photo,
 		'id' => $id,
 		'title' => 'Red Wylie Photography - ' .$photoTitle,
+        'photoIdPrevious' => $photoIdPrevious,
+        'photoIdNext' => $photoIdNext,
+        'urlPrevious' => $urlPrevious,
+        'urlNext' => $urlNext,
+        'category' => $category,
 	));
 
 ?>
