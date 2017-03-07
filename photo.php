@@ -36,13 +36,13 @@ foreach ($obj->{'images'} as &$image) {
     };
 }
 
-$urlPrevious = '/category.php?category=' . $category;
-$urlNext = '/category.php?category=' . $category;
+$urlPrevious = 'category.php?category=' . $category;
+$urlNext = 'category.php?category=' . $category;
 
 foreach ($obj->{'images'} as &$image) {
     if (!is_null($photo) && is_null($photoIdNext) && $category == $image->category) {
         $photoIdNext = $image->_id;
-        $urlNext = '/photo.php?photo=' . $photoIdNext;
+        $urlNext = 'photo.php?photo=' . $photoIdNext;
         break;
     }
     if ($image->_id == $photoId) {
@@ -51,7 +51,7 @@ foreach ($obj->{'images'} as &$image) {
     };
     if (is_null($photo) && $image->category == $category) {
         $photoIdPrevious = $image->_id;
-        $urlPrevious = '/photo.php?photo=' . $photoIdPrevious;
+        $urlPrevious = 'photo.php?photo=' . $photoIdPrevious;
     }
 }
 
