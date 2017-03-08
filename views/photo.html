@@ -17,15 +17,19 @@
 					<div id="openseadragon"></div>
 				</div><!-- .col -->
 			{% else %}
-				<div class="col-xs-1 hidden-xs">
-					<a class="btn btn-link btn-nav" href="{{urlPrevious}}"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
-				</div><!-- .col -->
+				<a href="{{urlPrevious}}" class="col-nav hidden-xs">
+					<div class="col-xs-1">
+						<button class="btn btn-link btn-nav" href="#"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+					</div><!-- .col -->
+				</a>
 				<div class="col-xs-12 col-sm-10 col-photo">
 					<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:100%; height:auto;" />
 				</div><!-- .col -->
-				<div class="col-xs-1 hidden-xs">
-					<a class="btn btn-link btn-nav" href="{{urlNext}}"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-				</div><!-- .col -->
+				<a href="{{urlNext}}" class="col-nav hidden-xs">
+					<div class="col-xs-1">
+						<button class="btn btn-link btn-nav" href="#"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+					</div><!-- .col -->
+				</a>
 			{% endif %}
 		</div><!-- .row -->
 	</div><!-- .container -->
