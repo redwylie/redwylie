@@ -14,11 +14,11 @@ function setProps(){
 
 	var width = $(window).width();
 	width = width - 30;
-  	$('#openseadragon').css({'width' : width})
+  	$('#openseadragon').css({'width' : width});
 
 	var height = $(window).height();
 	height = height - 80;
-	$('#openseadragon').css({'height' : height})
+	$('#openseadragon').css({'height' : height});
 	// END DIGITILER SPECIFIC
 }
 
