@@ -41,6 +41,14 @@
     , "viewOnCategories": false
 },
 
+{"_id": "ashish-1"
+    , "folder": "photos/2017/03-March/2017-03-07/ashish-1"
+    , "title": "Ashish"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
 {"_id": "fiona-1"
     , "folder": "photos/2017/03-March/2017-03-01/fiona-1"
     , "title": "Fiona"
@@ -136,6 +144,14 @@
     , "year": "2017"
     , "category": "Family"
     , "viewOnCategories": true
+},
+
+{"_id": "ben-1"
+    , "folder": "photos/2017/03-March/2017-03-12/ben-1"
+    , "title": "Ben and Andrew"
+    , "year": "2017"
+    , "category": "Family"
+    , "viewOnCategories": false
 },
 
 {"_id": "sarah-1"
