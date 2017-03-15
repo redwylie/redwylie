@@ -5872,7 +5872,7 @@ a.link:hover {
   cursor: pointer;
   background-position: center;
   background-color: #e6e9ed;
-  margin-bottom: 25px;
+  margin-bottom: 0px;
   border: 2px solid #ffffff;
   text-align: center;
   color: #ffffff;
@@ -6040,6 +6040,10 @@ footer p {
 .session h2 {
   margin-top: 30px;
   margin-bottom: 30px; }
+
+.col-card {
+  padding-left: 0px;
+  padding-right: 0px; }
 
 .btn-back {
   font-size: 20px;

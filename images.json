@@ -178,14 +178,6 @@
     , "viewOnCategories": false
 },
 
-{"_id": "steven-2"
-    , "folder": "photos/2017/01-January/2017-01-06/steven-2"
-    , "title": "Steven"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
 {"_id": "steven-3"
     , "folder": "photos/2017/01-January/2017-01-06/steven-3"
     , "title": "Steven"
@@ -202,7 +194,6 @@
     , "viewOnCategories": false
 },
 
-
 {"_id": "david-1"
     , "folder": "photos/2016/12-December/2016-12-31/david-1"
     , "title": "David"
@@ -211,33 +202,9 @@
     , "viewOnCategories": false
 },
 
-  {"_id": "pauline-1"
-    , "folder": "photos/2016/12-December/2016-12-26/pauline-1"
-    , "title": "Pauline"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-{"_id": "pauline-2"
-    , "folder": "photos/2016/12-December/2016-12-26/pauline-2"
-    , "title": "Pauline"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
 {"_id": "emma-1"
     , "folder": "photos/2016/12-December/2016-12-25/emma-1"
     , "title": "Emma"
-    , "year": "2016"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-{"_id": "alice-1"
-    , "folder": "photos/2016/12-December/2016-12-25/alice-1"
-    , "title": "Alice"
     , "year": "2016"
     , "category": "Portraits"
     , "viewOnCategories": false
