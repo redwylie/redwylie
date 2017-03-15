@@ -33,6 +33,22 @@
     , "viewOnCategories": false
 },
 
+{"_id": "neal-1"
+    , "folder": "photos/2017/03-March/2017-03-08/neal-1"
+    , "title": "Neal"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "ashish-1"
+    , "folder": "photos/2017/03-March/2017-03-07/ashish-1"
+    , "title": "Ashish"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
 {"_id": "fiona-1"
     , "folder": "photos/2017/03-March/2017-03-01/fiona-1"
     , "title": "Fiona"
@@ -106,8 +122,8 @@
     , "viewOnCategories": false
 },
 
-{"_id": "john-1"
-    , "folder": "photos/2017/02-February/2017-02-11/john-1"
+{"_id": "john-2"
+    , "folder": "photos/2017/02-February/2017-02-11/john-2"
     , "title": "John"
     , "year": "2017"
     , "category": "Headshots"
@@ -128,6 +144,14 @@
     , "year": "2017"
     , "category": "Family"
     , "viewOnCategories": true
+},
+
+{"_id": "ben-1"
+    , "folder": "photos/2017/03-March/2017-03-12/ben-1"
+    , "title": "Ben and Andrew"
+    , "year": "2017"
+    , "category": "Family"
+    , "viewOnCategories": false
 },
 
 {"_id": "sarah-1"
@@ -307,6 +331,15 @@
 { "_id": "bob-large-format-1"
     , "folder": "photos/2016/11-November/2016-11-09/bob-1"
     , "title": "Bob - 300 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "ross-large-format-1"
+    , "folder": "photos/2016/10-October/2016-10-12/ross"
+    , "title": "Ross - 430 Megapixels"
     , "year": "2016"
     , "category": "Large Format"
     , "digitiler": true
