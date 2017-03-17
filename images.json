@@ -90,6 +90,22 @@
     , "viewOnCategories": false
 },
 
+{"_id": "sarahw-1"
+    , "folder": "photos/2017/03-March/2017-03-13/sarah-1"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "martha-1"
+    , "folder": "photos/2017/03-March/2017-03-13/martha-1"
+    , "title": "Martha"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
 {"_id": "jacy-2"
     , "folder": "photos/2017/01-January/2017-01-22/jacy-2"
     , "title": "Jacy"
@@ -218,6 +234,7 @@
     , "viewOnCategories": false
 },
 
+
 {"_id": "david-1"
     , "folder": "photos/2016/12-December/2016-12-31/david-1"
     , "title": "David"
@@ -225,6 +242,7 @@
     , "category": "Portraits"
     , "viewOnCategories": false
 },
+
 
 {"_id": "emma-1"
     , "folder": "photos/2016/12-December/2016-12-25/emma-1"

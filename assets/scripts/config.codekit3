@@ -9,11 +9,29 @@
 	],
 "creatorBuild": "25704",
 "files": {
+	"\/digitiler\/common-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/digitiler\/common-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/digitiler\/common.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/digitiler\/common-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/fonts\/fonts-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/fonts\/fonts-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -36,11 +54,29 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/jquery\/jquery-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/jquery\/jquery-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/jquery\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/jquery\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/masonry\/masonry.pkgd-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/masonry\/masonry.pkgd-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
