@@ -49,7 +49,6 @@
     , "viewOnCategories": false
 },
 
-
 {"_id": "ashish-1"
     , "folder": "photos/2017/03-March/2017-03-07/ashish-1"
     , "title": "Ashish"
@@ -109,6 +108,14 @@
 
 {"_id": "martha-1"
     , "folder": "photos/2017/03-March/2017-03-13/martha-1"
+    , "title": "Martha"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "martha-2"
+    , "folder": "photos/2017/03-March/2017-03-13/martha-2"
     , "title": "Martha"
     , "year": "2017"
     , "category": "Portraits"
