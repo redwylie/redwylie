@@ -6,8 +6,31 @@
 </head>
 
 <body class="page-photo">
-   <?php include_once("analyticstracking.php") ?>
-   {% include 'common/nav.html'%}
+   	<?php include_once("analyticstracking.php") ?>
+   	{% include 'common/nav.html'%}
+
+   	<nav class="navbar navbar-inverse navbar-breadcrumbs navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+             	<ol class="breadcrumb">
+			  		<li><a href="index.php">Portfolio</a></li>
+			  		<li><a href="{{urlCategory}}">{{category}}</a></li>
+					<li class="active">{{shortTitle}}</a></li>
+				</ol> 
+            </div>
+        </div><!-- ./container -->
+    </nav>
+
+   	<div class="container hide">
+   		<br/>
+		<div class="col-xs-10 col-xs-offset-1">
+			<ol id="breadcrumb">
+			<li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Portfolio</a></li>
+			<li><a href="{{urlCategory}}">{{category}}</a></li>
+			<li><a href="#">{{shortTitle}}</a></li>
+			</ol>
+		</div><!-- .col -->
+	</div><!-- .container -->
 
 	<div class="container-fluid">
 		<div class="row row-photo">

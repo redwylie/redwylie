@@ -9,14 +9,6 @@
     , "viewOnCategories": true
 },
 
-{"_id": "stephanie-2"
-    , "folder": "photos/2017/02-February/2017-02-11/stephanie-2"
-    , "title": "Stephanie"
-    , "year": "2017"
-    , "category": "Headshots"
-    , "viewOnCategories": false
-},
-
 {"_id": "stephanie-3"
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
     , "title": "Stephanie"
@@ -205,14 +197,6 @@
 {"_id": "dorothy-1"
     , "folder": "photos/2017/01-January/2017-01-29/dorothy-1"
     , "title": "Dorothy"
-    , "year": "2017"
-    , "category": "Headshots"
-    , "viewOnCategories": false
-},
-
-{"_id": "mel-1"
-    , "folder": "photos/2017/01-January/2017-01-30/mel-1"
-    , "title": "Melanie"
     , "year": "2017"
     , "category": "Headshots"
     , "viewOnCategories": false

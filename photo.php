@@ -36,6 +36,7 @@ foreach ($obj->{'images'} as &$image) {
     };
 }
 
+$urlCategory = 'category.php?category=' . $category;
 $urlPrevious = 'category.php?category=' . $category;
 $urlNext = 'category.php?category=' . $category;
 
@@ -62,8 +63,10 @@ echo $template->render(array(
 		'photo' => $photo,
 		'id' => $id,
 		'title' => 'Red Wylie Photography - ' .$photoTitle,
+        'shortTitle' => $photoTitle,
         'photoIdPrevious' => $photoIdPrevious,
         'photoIdNext' => $photoIdNext,
+        'urlCategory' => $urlCategory,
         'urlPrevious' => $urlPrevious,
         'urlNext' => $urlNext,
         'category' => $category,
