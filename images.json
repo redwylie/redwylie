@@ -49,6 +49,8 @@
     , "viewOnCategories": false
 },
 
+
+
 {"_id": "fiona-1"
     , "folder": "photos/2017/03-March/2017-03-01/fiona-1"
     , "title": "Fiona"
@@ -73,6 +75,15 @@
     , "category": "Portraits"
     , "viewOnCategories": true
 },
+
+{"_id": "dave-1"
+    , "folder": "photos/2017/03-March/2017-03-19/dave-1"
+    , "title": "Dave"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
 
 {"_id": "julie-1"
     , "folder": "photos/2017/02-February/2017-02-20/julie-1"
