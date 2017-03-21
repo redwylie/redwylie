@@ -40,9 +40,14 @@
 
 		<div class="row">
 
-			{% for image in images %}
-				{% include 'common/card.html' with {'view':'photo'} %}
-			{% endfor %}
+			<div id="basicExample2" class="justified-gallery">
+				{% for image in images %}
+				<a href="photo.php?photo={{image._id}}" class="link">
+					<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+					<div class="caption">{{ image.title }}</div>
+				</a>
+				{% endfor %}
+			</div>
 
 		</div><!-- .row -->
 	</div><!-- .container -->
@@ -52,6 +57,15 @@
 	{% include 'common/footer.html' %}
 	{% include 'common/scripts.html' %}
 	{% include 'common/tracking.html' %}
+
+	<script type="text/javascript">
+		$('#basicExample2').justifiedGallery({
+	    	rowHeight : 270,
+	    	lastRow : 'nojustify',
+	   		margins : 3,
+	   		captions : true
+		});
+	</script>
 
 </body>
 </html>
