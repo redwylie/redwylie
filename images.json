@@ -25,6 +25,14 @@
     , "viewOnCategories": false
 },
 
+{"_id": "dave-2"
+    , "folder": "photos/2017/03-March/2017-03-19/dave-2"
+    , "title": "Dave"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
 {"_id": "neal-1"
     , "folder": "photos/2017/03-March/2017-03-08/neal-1"
     , "title": "Neal"
@@ -695,6 +703,48 @@
     , "category": "Portraits"
     , "viewOnCategories": false
 },
+
+
+
+{ "_id": "210-10feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/210-10-feet"
+    , "title": "Digitiler 210mm at 10 Feet - 450 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "50-10feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/50-10-feet"
+    , "title": "Nikon D810 50mm at 10 Feet - 36 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
+{ "_id": "210-6feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/210-6-feet"
+    , "title": "Digitiler 210mm at 6 Feet - 470 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "50-6feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/50-6-feet"
+    , "title": "Nikon D810 50mm at 6 Feet - 36 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
+
 
 {"_id": "flower_lamp"
     , "folder": "photos/2016/11-November/2016-11-27/flower"
