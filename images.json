@@ -133,6 +133,14 @@
     , "viewOnCategories": false
 },
 
+{"_id": "lynette-1"
+    , "folder": "photos/2017/03-March/2017-03-23/lynette-1"
+    , "title": "Lynette"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
 {"_id": "jacy-2"
     , "folder": "photos/2017/01-January/2017-01-22/jacy-2"
     , "title": "Jacy"
@@ -743,6 +751,61 @@
     , "viewOnCategories": false
 },
 
+
+{ "_id": "Constance-1"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-1"
+    , "title": "Constance - 676 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Constance-2"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-2"
+    , "title": "Constance - 700 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Constance-3"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-3"
+    , "title": "Constance - 787 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Constance-4"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-4"
+    , "title": "Constance - 36 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
+{ "_id": "Thelma-1"
+    , "folder": "photos/2017/03-March/2017-03-28/thelma-1"
+    , "title": "Thelma - 690 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Thelma-2"
+    , "folder": "photos/2017/03-March/2017-03-28/thelma-2"
+    , "title": "Thelma - 690 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
 
 
 
