@@ -808,6 +808,52 @@
 },
 
 
+{ "_id": "India-1"
+    , "folder": "photos/2017/03-March/2017-03-31/India-1"
+    , "title": "India-1"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-2"
+    , "folder": "photos/2017/03-March/2017-03-31/India-2"
+    , "title": "India-2"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-3"
+    , "folder": "photos/2017/03-March/2017-03-31/India-3"
+    , "title": "India-3"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-4"
+    , "folder": "photos/2017/03-March/2017-03-31/India-4"
+    , "title": "India-4"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-5"
+    , "folder": "photos/2017/03-March/2017-03-31/India-5"
+    , "title": "India-5"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
 
 {"_id": "flower_lamp"
     , "folder": "photos/2016/11-November/2016-11-27/flower"
