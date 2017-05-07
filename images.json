@@ -33,6 +33,38 @@
     , "viewOnCategories": false
 },
 
+{"_id": "abigale-1"
+    , "folder": "photos/2017/04-April/2017-04-06/abigale-1"
+    , "title": "Abigale"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "jennifer-1"
+    , "folder": "photos/2017/03-March/2017-03-26/jennifer-1"
+    , "title": "Jennifer"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "jennifer-2"
+    , "folder": "photos/2017/03-March/2017-03-26/jennifer-2"
+    , "title": "Jennifer"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "jennifer-3"
+    , "folder": "photos/2017/03-March/2017-03-26/jennifer-3"
+    , "title": "Jennifer"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
 {"_id": "neal-1"
     , "folder": "photos/2017/03-March/2017-03-08/neal-1"
     , "title": "Neal"
@@ -57,7 +89,13 @@
     , "viewOnCategories": false
 },
 
-
+{"_id": "maureen-1"
+    , "folder": "photos/2017/03-March/2017-03-21/maureen-1"
+    , "title": "Maureen"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
 
 {"_id": "fiona-1"
     , "folder": "photos/2017/03-March/2017-03-01/fiona-1"
@@ -205,6 +243,22 @@
     , "viewOnCategories": false
 },
 
+{"_id": "bodhi-1"
+    , "folder": "photos/2017/03-March/2017-03-25/bodhi-1"
+    , "title": "Bodhi"
+    , "year": "2017"
+    , "category": "Family"
+    , "viewOnCategories": false
+},
+
+{"_id": "bodhi-2"
+    , "folder": "photos/2017/03-March/2017-03-25/bodhi-2"
+    , "title": "Bodhi"
+    , "year": "2017"
+    , "category": "Family"
+    , "viewOnCategories": false
+},
+
 {"_id": "sarah-1"
     , "folder": "photos/2017/02-February/2017-02-02/sarah-1"
     , "title": "Sarah"
@@ -325,7 +379,7 @@
     , "year": "2017"
     , "category": "Large Format"
     , "digitiler": true
-    , "viewOnCategories": true
+    , "viewOnCategories": false
 },
 
 { "_id": "fiona-large-format-2"
@@ -397,7 +451,7 @@
     , "year": "2016"
     , "category": "Large Format"
     , "digitiler": true
-    , "viewOnCategories": false
+    , "viewOnCategories": true
 },
 
 { "_id": "peppercorns-large-format-2"
