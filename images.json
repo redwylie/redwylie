@@ -17,6 +17,23 @@
     , "viewOnCategories": false
 },
 
+{"_id": "alexa-1"
+    , "folder": "photos/2017/05-May/2017-05-03/alexa-1"
+    , "title": "Alexa"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "alicia-1"
+    , "folder": "photos/2017/05-May/2017-05-03/alicia-1"
+    , "title": "Alicia"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+
 {"_id": "zoe-1"
     , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
     , "title": "Zoe and Stanley"
@@ -76,6 +93,15 @@
 {"_id": "neal-2"
     , "folder": "photos/2017/03-March/2017-03-08/neal-2"
     , "title": "Neal"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+
+{"_id": "chantal-1"
+    , "folder": "photos/2017/04-April/2017-04-21/chantal-1"
+    , "title": "Chantal"
     , "year": "2017"
     , "category": "Headshots"
     , "viewOnCategories": false
