@@ -33,6 +33,13 @@
     , "viewOnCategories": false
 },
 
+{"_id": "george-1"
+    , "folder": "photos/2017/05-May/2017-05-10/george-1"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
 
 {"_id": "zoe-1"
     , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
@@ -45,6 +52,14 @@
 {"_id": "dave-2"
     , "folder": "photos/2017/03-March/2017-03-19/dave-2"
     , "title": "Dave"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "amanda-1"
+    , "folder": "photos/2017/05-May/2017-05-17/amanda-1"
+    , "title": "Amanda"
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
@@ -112,6 +127,14 @@
     , "title": "Ashish"
     , "year": "2017"
     , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "bill-1"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-1"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
     , "viewOnCategories": false
 },
 
@@ -916,7 +939,7 @@
 },
 
 { "_id": "India-4"
-    , "folder": "photos/2017/03-March/2017-03-31/India-4"
+    , "folder": "photos/2017/03-March/2017-05-06/lg-1"
     , "title": "India-4"
     , "year": "2017"
     , "category": "Tests"
@@ -930,6 +953,74 @@
     , "year": "2017"
     , "category": "Tests"
     , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "lg-1"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-1"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+
+{ "_id": "lg-2"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-2"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
+    , "viewOnCategories": true
+},
+
+{ "_id": "lg-3"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+
+{ "_id": "lg-4"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-4"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-5"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-5"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-6"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-6"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-7"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-7"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-8"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-8"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "The-Change"
+    , "digitiler": false
     , "viewOnCategories": false
 },
 
