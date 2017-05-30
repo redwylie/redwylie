@@ -9,14 +9,6 @@
     , "viewOnCategories": true
 },
 
-{"_id": "stephanie-3"
-    , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
-    , "title": "Stephanie"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
 {"_id": "alexa-1"
     , "folder": "photos/2017/05-May/2017-05-03/alexa-1"
     , "title": "Alexa"
@@ -46,6 +38,54 @@
     , "title": "Zoe and Stanley"
     , "year": "2017"
     , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "jane-1"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-1"
+    , "title": "Jane"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/lace-1"
+    , "title": "LACE - Grace and Zoe"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": true
+},
+
+{"_id": "lace-2"
+    , "folder": "photos/2017/05-May/2017-05-22/lace-2"
+    , "title": "LACE - Grace and Zoe"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "zoe-lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/zoe-1"
+    , "title": "Zoe - LACE"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "grace-lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/grace-1"
+    , "title": "Grace - LACE"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "Jenny-3"
+    , "folder": "photos/2017/05-May/2017-05-27/Jenny-1"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Family"
     , "viewOnCategories": false
 },
 
@@ -138,6 +178,14 @@
     , "viewOnCategories": false
 },
 
+{"_id": "stephanie-3"
+    , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
+    , "title": "Stephanie"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
 {"_id": "maureen-1"
     , "folder": "photos/2017/03-March/2017-03-21/maureen-1"
     , "title": "Maureen"
@@ -168,7 +216,7 @@
     , "title": "Zoe"
     , "year": "2017"
     , "category": "Portraits"
-    , "viewOnCategories": true
+    , "viewOnCategories": false
 },
 
 {"_id": "dave-1"
