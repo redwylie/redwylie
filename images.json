@@ -1,6 +1,128 @@
 {"images": [
 
 
+
+
+{"_id": "george-1"
+    , "folder": "photos/2017/05-May/2017-05-10/george-1"
+    , "title": "George Summers Jr"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "george-2"
+    , "folder": "photos/2017/05-May/2017-05-10/george-2"
+    , "title": "George Summers Jr"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "george-3"
+    , "folder": "photos/2017/05-May/2017-05-10/george-3"
+    , "title": "George Summers Jr"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "zoe-1"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "jane-1"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-1"
+    , "title": "Jane Feigenson"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "jane-2"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-2"
+    , "title": "Jane Feigenson"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "jane-3"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-3"
+    , "title": "Jane Feigenson"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "jane-4"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-4"
+    , "title": "Jane Feigenson"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "bob-lg-1"
+    , "folder": "photos/2017/05-May/2017-05-06/bob-1"
+    , "title": "Robert Siegelman"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/lace-1"
+    , "title": "LACE - Grace and Zoe"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": true
+},
+
+{"_id": "lace-2"
+    , "folder": "photos/2017/05-May/2017-05-22/lace-2"
+    , "title": "LACE - Grace and Zoe"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "zoe-lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/zoe-1"
+    , "title": "Zoe - LACE"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "grace-lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/grace-1"
+    , "title": "Grace - LACE"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "esther-1"
+    , "folder": "photos/2017/06-June/2017-06-13/esther-1"
+    , "title": "Esther"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "esther-2"
+    , "folder": "photos/2017/06-June/2017-06-13/esther-2"
+    , "title": "Esther"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": true
+},
+
 {"_id": "stephanie-1"
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-1"
     , "title": "Stephanie"
@@ -25,67 +147,11 @@
     , "viewOnCategories": false
 },
 
-{"_id": "george-1"
-    , "folder": "photos/2017/05-May/2017-05-10/george-1"
-    , "title": "George"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-{"_id": "zoe-1"
-    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
-    , "title": "Zoe and Stanley"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-{"_id": "jane-1"
-    , "folder": "photos/2017/05-May/2017-05-19/jane-1"
-    , "title": "Jane"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-{"_id": "lace-1"
-    , "folder": "photos/2017/05-May/2017-05-22/lace-1"
-    , "title": "LACE - Grace and Zoe"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": true
-},
-
-{"_id": "lace-2"
-    , "folder": "photos/2017/05-May/2017-05-22/lace-2"
-    , "title": "LACE - Grace and Zoe"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-{"_id": "zoe-lace-1"
-    , "folder": "photos/2017/05-May/2017-05-22/zoe-1"
-    , "title": "Zoe - LACE"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-{"_id": "grace-lace-1"
-    , "folder": "photos/2017/05-May/2017-05-22/grace-1"
-    , "title": "Grace - LACE"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
 {"_id": "Jenny-3"
-    , "folder": "photos/2017/05-May/2017-05-27/Jenny-1"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-1"
     , "title": "Jenny and Bodhi"
     , "year": "2017"
-    , "category": "Family"
+    , "category": "Portraits"
     , "viewOnCategories": false
 },
 
@@ -97,11 +163,48 @@
     , "viewOnCategories": false
 },
 
+{ "_id": "lg-3"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
+    , "title": "Dave"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+
+
+{"_id": "dave-1"
+    , "folder": "photos/2017/03-March/2017-03-19/dave-1"
+    , "title": "Dave"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+
+
+{"_id": "jan-marie-1"
+    , "folder": "photos/2017/04-April/2017-04-08/jan-marie-1"
+    , "title": "Jan Marie"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "jan-marie-2"
+    , "folder": "photos/2017/04-April/2017-04-08/jan-marie-2"
+    , "title": "Jan Marie"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+
 {"_id": "amanda-1"
     , "folder": "photos/2017/05-May/2017-05-17/amanda-1"
     , "title": "Amanda"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Artists"
     , "viewOnCategories": false
 },
 
@@ -109,31 +212,31 @@
     , "folder": "photos/2017/04-April/2017-04-06/abigale-1"
     , "title": "Abigale"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Artists"
     , "viewOnCategories": false
 },
 
-{"_id": "jennifer-1"
-    , "folder": "photos/2017/03-March/2017-03-26/jennifer-1"
-    , "title": "Jennifer"
+{"_id": "everything"
+    , "folder": "photos/2017/01-January/2017-01-07/flower"
+    , "title": "Everything"
     , "year": "2017"
-    , "category": "Headshots"
-    , "viewOnCategories": false
+    , "category": "Flowers"
+    , "viewOnCategories": true
 },
 
 {"_id": "jennifer-2"
     , "folder": "photos/2017/03-March/2017-03-26/jennifer-2"
-    , "title": "Jennifer"
+    , "title": "Jennifer Mann"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Artists"
     , "viewOnCategories": false
 },
 
 {"_id": "jennifer-3"
     , "folder": "photos/2017/03-March/2017-03-26/jennifer-3"
-    , "title": "Jennifer"
+    , "title": "Jennifer Mann"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Artists"
     , "viewOnCategories": false
 },
 
@@ -153,6 +256,13 @@
     , "viewOnCategories": false
 },
 
+{"_id": "kate-1"
+    , "folder": "photos/2017/05-May/2017-05-20/kate-1"
+    , "title": "Kate"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
 
 {"_id": "chantal-1"
     , "folder": "photos/2017/04-April/2017-04-21/chantal-1"
@@ -219,15 +329,6 @@
     , "viewOnCategories": false
 },
 
-{"_id": "dave-1"
-    , "folder": "photos/2017/03-March/2017-03-19/dave-1"
-    , "title": "Dave"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
-
 {"_id": "julie-1"
     , "folder": "photos/2017/02-February/2017-02-20/julie-1"
     , "title": "Julie"
@@ -276,14 +377,6 @@
     , "viewOnCategories": false
 },
 
-{"_id": "jacy-2"
-    , "folder": "photos/2017/01-January/2017-01-22/jacy-2"
-    , "title": "Jacy"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
-
 {"_id": "saskia-1"
     , "folder": "photos/2017/02-February/2017-02-23/saskia-1"
     , "title": "Saskia"
@@ -320,7 +413,7 @@
     , "folder": "photos/2017/02-February/2017-02-11/annesophia-1"
     , "title": "Anne-Sophia"
     , "year": "2017"
-    , "category": "Family"
+    , "category": "Headshots"
     , "viewOnCategories": false
 },
 
@@ -328,15 +421,15 @@
     , "folder": "photos/2017/02-February/2017-02-11/micah-1"
     , "title": "Micah"
     , "year": "2017"
-    , "category": "Family"
-    , "viewOnCategories": true
+    , "category": "Headshots"
+    , "viewOnCategories": false
 },
 
 {"_id": "ben-1"
     , "folder": "photos/2017/03-March/2017-03-12/ben-1"
     , "title": "Ben and Andrew"
     , "year": "2017"
-    , "category": "Family"
+    , "category": "Portraits"
     , "viewOnCategories": false
 },
 
@@ -344,15 +437,83 @@
     , "folder": "photos/2017/03-March/2017-03-25/bodhi-1"
     , "title": "Bodhi"
     , "year": "2017"
-    , "category": "Family"
-    , "viewOnCategories": false
+    , "category": "Assorted"
+    , "viewOnCategories": true
 },
 
 {"_id": "bodhi-2"
     , "folder": "photos/2017/03-March/2017-03-25/bodhi-2"
     , "title": "Bodhi"
     , "year": "2017"
-    , "category": "Family"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+},
+
+{ "_id": "lg-1"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-1"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+
+{ "_id": "lg-2"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-2"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+
+{ "_id": "lg-3"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+
+{ "_id": "lg-4"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-4"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-5"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-5"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-6"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-6"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-7"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-7"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
+    , "viewOnCategories": false
+},
+{ "_id": "lg-8"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-8"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "digitiler": false
     , "viewOnCategories": false
 },
 
@@ -390,17 +551,17 @@
 
 {"_id": "steven-1"
     , "folder": "photos/2017/01-January/2017-01-06/steven-1"
-    , "title": "Steven"
+    , "title": "Steven Muller"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Artists"
     , "viewOnCategories": false
 },
 
 {"_id": "steven-3"
     , "folder": "photos/2017/01-January/2017-01-06/steven-3"
-    , "title": "Steven"
+    , "title": "Steven Muller"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Artists"
     , "viewOnCategories": false
 },
 
@@ -446,14 +607,6 @@
     , "viewOnCategories": false
 },
 
-{"_id": "everything"
-    , "folder": "photos/2017/01-January/2017-01-07/flower"
-    , "title": "Everything"
-    , "year": "2017"
-    , "category": "Flowers"
-    , "viewOnCategories": true
-},
-
 {"_id": "seven"
     , "folder": "photos/2017/01-January/2017-01-05/flower"
     , "title": "Seven"
@@ -470,18 +623,36 @@
     , "viewOnCategories": false
 },
 
-{ "_id": "fiona-large-format-1"
-    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-1"
-    , "title": "Fiona - 375 Megapixels"
-    , "year": "2017"
+{ "_id": "peppercorns-large-format-1"
+    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-1"
+    , "title": "Peppercorns - 600 Megapixels"
+    , "year": "2016"
     , "category": "Large Format"
     , "digitiler": true
     , "viewOnCategories": false
 },
 
-{ "_id": "fiona-large-format-2"
-    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-2"
-    , "title": "Fiona - 540 Megapixels"
+{ "_id": "peppercorns-large-format-2"
+    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-2"
+    , "title": "Peppercorns - 180 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "bob-large-format-1"
+    , "folder": "photos/2016/11-November/2016-11-09/bob-1"
+    , "title": "Bob - 300 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": true
+},
+
+{ "_id": "fiona-large-format-1"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-1"
+    , "title": "Fiona - 375 Megapixels"
     , "year": "2017"
     , "category": "Large Format"
     , "digitiler": true
@@ -497,65 +668,11 @@
     , "viewOnCategories": false
 },
 
-{ "_id": "sneakers-large-format-1"
-    , "folder": "photos/2017/02-February/2017-02-26/sneakers-1"
-    , "title": "Asics GT-2000 - 300 Megapixels"
-    , "year": "2017"
-    , "category": "Large Format"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
-{ "_id": "sneakers-large-format-2"
-    , "folder": "photos/2017/02-February/2017-02-26/sneakers-2"
-    , "title": "Asics GT-2000 - 370 Megapixels"
-    , "year": "2017"
-    , "category": "Large Format"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
-{ "_id": "sneakers-large-format-3"
-    , "folder": "photos/2017/02-February/2017-02-26/sneakers-3"
-    , "title": "Mizuno Wave Rider - 400 Megapixels"
-    , "year": "2017"
-    , "category": "Large Format"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
-{ "_id": "bob-large-format-1"
-    , "folder": "photos/2016/11-November/2016-11-09/bob-1"
-    , "title": "Bob - 300 Megapixels"
-    , "year": "2016"
-    , "category": "Large Format"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
 { "_id": "ross-large-format-1"
     , "folder": "photos/2016/10-October/2016-10-12/ross"
     , "title": "Ross - 430 Megapixels"
     , "year": "2016"
-    , "category": "Large Format"
-    , "digitiler": true
-    , "viewOnCategories": false
-},
-
-{ "_id": "peppercorns-large-format-1"
-    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-1"
-    , "title": "Peppercorns - 600 Megapixels"
-    , "year": "2016"
-    , "category": "Large Format"
-    , "digitiler": true
-    , "viewOnCategories": true
-},
-
-{ "_id": "peppercorns-large-format-2"
-    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-2"
-    , "title": "Peppercorns - 180 Megapixels"
-    , "year": "2016"
-    , "category": "Large Format"
+    , "category": "hide"
     , "digitiler": true
     , "viewOnCategories": false
 },
@@ -690,7 +807,7 @@
     , "title": "Simple Shell"
     , "year": "2016"
     , "category": "Assorted"
-    , "viewOnCategories": true
+    , "viewOnCategories": false
 },
 
 { "_id": "pencils"
@@ -772,14 +889,6 @@
     , "category": "Assorted"
     , "viewOnCategories": false
 },
-
-{ "_id": "lantern"
-    , "folder": "photos/2009/2009-07-16/lantern-1"
-    , "title": "Lantern Festival"
-    , "year": "2016"
-    , "category": "Assorted"
-    , "viewOnCategories": false
-  },
 
 { "_id": "sunflower_7"
     , "folder": "photos/2016/09-September/2016-09-11/sunflower_2"
@@ -1004,75 +1113,14 @@
     , "viewOnCategories": false
 },
 
-{ "_id": "lg-1"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-1"
-    , "title": "The Loring-Greenough House - The Change"
+{ "_id": "sneakers-large-format-3"
+    , "folder": "photos/2017/02-February/2017-02-26/sneakers-3"
+    , "title": "Mizuno Wave Rider - 400 Megapixels"
     , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
+    , "category": "Large Format"
+    , "digitiler": true
     , "viewOnCategories": false
 },
-
-{ "_id": "lg-2"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-2"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
-    , "viewOnCategories": true
-},
-
-{ "_id": "lg-3"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-
-{ "_id": "lg-4"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-4"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-5"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-5"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-6"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-6"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-7"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-7"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-8"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-8"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "The-Change"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-
-
 
 {"_id": "flower_lamp"
     , "folder": "photos/2016/11-November/2016-11-27/flower"
