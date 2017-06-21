@@ -12,6 +12,8 @@ $twig = new Twig_Environment($loader, array(
 
 $category = null;
 $category = $_GET['category'];
+$set = null;
+$set = $_GET['set'];
 
 $file = file_get_contents('./images.json', true);
 
@@ -27,7 +29,7 @@ $obj = json_decode($json);
 $setImages = array();
 
 foreach ($obj->{'images'} as &$image) {
-    if ($image->set == $category) {
+    if ($image->set == $set) {
         array_push($setImages, $image);
     };
 }
@@ -37,10 +39,11 @@ foreach ($obj->{'images'} as &$image) {
 $template = $twig->loadTemplate('set.html');
 echo $template->render(array(
 		'categoryTitle' => $category,
+		'setTitle' => $set,
 		'images' => $setImages,
 		'id' => $id,
 		'view' => 'Set',
-		'title' => 'Red Wylie Photography - '.$category,
+		'title' => 'Red Wylie Photography - '.$set,
 		'description' => 'Headshots, Portraits, Flowers'
 	));
 

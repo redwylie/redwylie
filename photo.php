@@ -28,10 +28,12 @@ $obj = json_decode($json);
 $photoIdPrevious = null;
 $photoIdNext = null;
 $category = null;
+$set = null;
 
 foreach ($obj->{'images'} as &$image) {
     if ($image->_id == $photoId) {
         $category = $image->category;
+        $set = $image->set;
         break;
     };
 }
@@ -39,6 +41,11 @@ foreach ($obj->{'images'} as &$image) {
 $urlCategory = 'category.php?category=' . $category;
 $urlPrevious = 'category.php?category=' . $category;
 $urlNext = 'category.php?category=' . $category;
+
+$urlSet = null;
+if (!is_null($set)) {
+    $urlSet = 'set.php?category=' . $category . '&set=' .$set;
+}
 
 foreach ($obj->{'images'} as &$image) {
     if (!is_null($photo) && is_null($photoIdNext) && $category == $image->category) {
@@ -70,6 +77,8 @@ echo $template->render(array(
         'urlPrevious' => $urlPrevious,
         'urlNext' => $urlNext,
         'category' => $category,
+        'set' => $set,
+        'urlSet'=> $urlSet,
 	));
 
 ?>

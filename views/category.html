@@ -43,10 +43,22 @@
 
 			<div id="basicExample2" class="justified-gallery">
 				{% for image in images %}
-				<a href="photo.php?photo={{image._id}}" class="link">
-					<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
-					<div class="caption">{{ image.title }}</div>
-				</a>
+					{% if image.partOfSet == false %}
+					<a href="photo.php?photo={{image._id}}" class="link">
+						<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+						<div class="caption">{{ image.title }}</div>
+					</a>
+					{% endif %}
+					{% if image.setCount != null %}
+					<a href="set.php?set={{image.set}}&category={{image.category}}" class="link">
+						<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+						<div class="caption">{{ image.title }}
+							{% if image.setCount != null %}
+						 		- {{ image.setCount }}
+						 	{% endif %}
+						</div>
+					</a>
+					{% endif %}
 				{% endfor %}
 			</div>
 

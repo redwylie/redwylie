@@ -12,6 +12,7 @@ $twig = new Twig_Environment($loader, array(
 
 $category = null;
 $category = $_GET['category'];
+$partOfSet = null;
 
 $file = file_get_contents('./images.json', true);
 
@@ -31,6 +32,7 @@ foreach ($obj->{'images'} as &$image) {
     	//if (($image->viewOnSets == true) || ($image->viewOnSets != false)) {
         	array_push($categoryImages, $image);
     	//}
+        $partOfSet = $image->viewOnSets;
     };
 }
 
@@ -42,6 +44,7 @@ echo $template->render(array(
 		'images' => $categoryImages,
 		'id' => $id,
 		'view' => 'Full',
+		'partOfSet' => $partOfSet,
 		'title' => 'Red Wylie Photography - '.$category,
 		'description' => 'Headshots, Portraits, Flowers'
 	));

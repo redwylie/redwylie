@@ -15,6 +15,9 @@
              	<ol class="breadcrumb">
 			  		<li><a href="index.php">Portfolio</a></li>
 			  		<li><a href="{{urlCategory}}">{{category}}</a></li>
+			  		{% if urlSet != null %}
+			  			<li><a href="{{urlSet}}">{{set}}</a></li>
+			  		{% endif %}
 					<li class="active">{{shortTitle}}</a></li>
 				</ol> 
             </div>

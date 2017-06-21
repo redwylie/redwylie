@@ -10,7 +10,8 @@
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"George Summers Jr"
-    , "viewOnSets": true
+    , "partOfSet": true
+    , "setCount": "3"
 },
 
 {"_id": "george-2"
@@ -20,7 +21,7 @@
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"George Summers Jr"
-    , "viewOnSets": false
+    , "partOfSet": true
 },
 
 {"_id": "george-3"
@@ -30,16 +31,9 @@
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"George Summers Jr"
-    , "viewOnSets": false
+    , "partOfSet": true
 },
 
-{"_id": "zoe-1"
-    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
-    , "title": "Zoe and Stanley"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
 
 {"_id": "jane-1"
     , "folder": "photos/2017/05-May/2017-05-19/jane-1"
@@ -48,7 +42,8 @@
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"JaneFeigenson"
-    , "viewOnSets": true
+    , "partOfSet": true
+    , "setCount": "4"
 },
 
 {"_id": "jane-2"
@@ -58,7 +53,7 @@
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"JaneFeigenson"
-    , "viewOnSets": false
+    , "partOfSet": true
 },
 
 {"_id": "jane-3"
@@ -68,7 +63,7 @@
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"JaneFeigenson"
-    , "viewOnSets": false
+    , "partOfSet": true
 },
 
 {"_id": "jane-4"
@@ -78,7 +73,16 @@
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"JaneFeigenson"
-    , "viewOnSets": false
+    , "partOfSet": true
+},
+
+
+{"_id": "zoe-1"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
 },
 
 {"_id": "bob-lg-1"
@@ -95,6 +99,9 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": true
+    , "set":"LACE"
+    , "partOfSet": true
+    , "setCount": "4"
 },
 
 {"_id": "lace-2"
@@ -103,6 +110,8 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"LACE"
+    , "partOfSet": true
 },
 
 {"_id": "zoe-lace-1"
@@ -111,6 +120,8 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"LACE"
+    , "partOfSet": true
 },
 
 {"_id": "grace-lace-1"
@@ -119,6 +130,8 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"LACE"
+    , "partOfSet": true
 },
 
 {"_id": "esther-1"
@@ -127,6 +140,10 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set":"Esther"
+    , "partOfSet": true
+    , "setCount": "2"
+
 },
 
 {"_id": "esther-2"
@@ -135,6 +152,8 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": true
+    , "set":"Esther"
+    , "partOfSet": true
 },
 
 {"_id": "stephanie-1"
@@ -175,17 +194,10 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+    , "setCount": "10"
 },
-
-{ "_id": "lg-3"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
-    , "title": "Dave"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-
 
 {"_id": "dave-1"
     , "folder": "photos/2017/03-March/2017-03-19/dave-1"
@@ -193,6 +205,84 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-1"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-1"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-2"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-2"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-3"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-4"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-4"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-5"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-5"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-6"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-6"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-7"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-7"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-8"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-8"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
 },
 
 
@@ -203,6 +293,9 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"Jan Marie"
+    , "partOfSet": true
+    , "setCount": "2"
 },
 
 {"_id": "jan-marie-2"
@@ -211,6 +304,8 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"Jan Marie"
+    , "partOfSet": true
 },
 
 
@@ -244,6 +339,9 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"Jennifer Mann"
+    , "partOfSet": true
+    , "setCount": "2"
 },
 
 {"_id": "jennifer-3"
@@ -252,6 +350,8 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"Jennifer Mann"
+    , "partOfSet": true
 },
 
 {"_id": "neal-1"
@@ -324,6 +424,9 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set":"Fiona"
+    , "partOfSet": true
+    , "setCount": "2"
 },
 
 {"_id": "fiona-2"
@@ -332,6 +435,8 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set":"Fiona"
+    , "partOfSet": true
 },
 
 
@@ -373,6 +478,9 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set": "Martha"
+    , "partOfSet": true
+    , "setCount": "2"
 },
 
 {"_id": "martha-2"
@@ -381,6 +489,8 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set": "Martha"
+    , "partOfSet": true
 },
 
 {"_id": "lynette-1"
@@ -463,74 +573,6 @@
     , "viewOnCategories": false
 },
 
-{ "_id": "lg-1"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-1"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-
-{ "_id": "lg-2"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-2"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-
-{ "_id": "lg-3"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-
-{ "_id": "lg-4"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-4"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-5"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-5"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-6"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-6"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-7"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-7"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-{ "_id": "lg-8"
-    , "folder": "photos/2017/05-May/2017-05-06/lg-8"
-    , "title": "The Loring-Greenough House - The Change"
-    , "year": "2017"
-    , "category": "Assorted"
-    , "digitiler": false
-    , "viewOnCategories": false
-},
-
 {"_id": "sarah-1"
     , "folder": "photos/2017/02-February/2017-02-02/sarah-1"
     , "title": "Sarah"
@@ -569,6 +611,9 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"Steven Muller"
+    , "partOfSet": true
+    , "setCount": "2"
 },
 
 {"_id": "steven-3"
@@ -577,6 +622,8 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"Steven Muller"
+    , "partOfSet": true
 },
 
 {"_id": "dan-1"
