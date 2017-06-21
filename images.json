@@ -117,7 +117,42 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+    , "setCount": "4"
 },
+
+{"_id": "zoe-3"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-3"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+{"_id": "zoe-4"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-4"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+{"_id": "zoe-5"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-5"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+
 
 {"_id": "bob-lg-1"
     , "folder": "photos/2017/05-May/2017-05-06/bob-1"
@@ -190,6 +225,14 @@
     , "partOfSet": true
 },
 
+{"_id": "esther-3"
+    , "folder": "photos/2017/06-June/2017-06-13/esther-3"
+    , "title": "Esther"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
 {"_id": "stephanie-1"
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-1"
     , "title": "Stephanie"
@@ -220,6 +263,49 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "Jenny-4"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-2"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+        , "setCount": "5"
+},
+
+{"_id": "Jenny-5"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-3"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "Jenny-6"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-4"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "Jenny-7"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-5"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
 },
 
 {"_id": "dave-2"
@@ -446,7 +532,35 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "viewOnCategories": false
+    , "set": "Neal"
+    , "partOfSet": true
+    , "setCount": "3"
 },
+
+{"_id": "neal-3"
+    , "folder": "photos/2017/03-March/2017-03-08/neal-3"
+    , "title": "Neal"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "viewOnCategories": false
+    , "set": "Neal"
+    , "partOfSet": true
+},
+
+
+{"_id": "neal-4"
+    , "folder": "photos/2017/03-March/2017-03-08/neal-4"
+    , "title": "Neal"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "viewOnCategories": false
+    , "set": "Neal"
+    , "partOfSet": true
+},
+
 
 {"_id": "neal-2"
     , "folder": "photos/2017/03-March/2017-03-08/neal-2"
@@ -525,6 +639,19 @@
     , "year": "2017"
     , "category": "Portraits"
     , "viewOnCategories": false
+    , "set":"Zoe"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "zoe-6"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-6"
+    , "title": "Zoe"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe"
+    , "partOfSet": true
 },
 
 {"_id": "julie-1"
