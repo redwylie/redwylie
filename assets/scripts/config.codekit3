@@ -72,6 +72,15 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/justifiedGallery\/jquery.justifiedGallery.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/justifiedGallery\/jquery.justifiedGallery.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/masonry\/masonry.pkgd-min.js": {
 		"ft": 64,
 		"mi": 1,

@@ -5,18 +5,18 @@
 
 {"_id": "george-1"
     , "folder": "photos/2017/05-May/2017-05-10/george-1"
-    , "title": "George Summers Jr"
+    , "title": "George"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"George Summers Jr"
     , "partOfSet": true
-    , "setCount": "3"
+    , "setCount": "6"
 },
 
 {"_id": "george-2"
     , "folder": "photos/2017/05-May/2017-05-10/george-2"
-    , "title": "George Summers Jr"
+    , "title": "George"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
@@ -24,15 +24,49 @@
     , "partOfSet": true
 },
 
-{"_id": "george-3"
-    , "folder": "photos/2017/05-May/2017-05-10/george-3"
-    , "title": "George Summers Jr"
+
+{"_id": "george-4"
+    , "folder": "photos/2017/05-May/2017-05-10/george-4"
+    , "title": "George"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
     , "set":"George Summers Jr"
     , "partOfSet": true
 },
+
+{"_id": "george-5"
+    , "folder": "photos/2017/05-May/2017-05-10/george-5"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+{"_id": "george-6"
+    , "folder": "photos/2017/05-May/2017-05-10/george-6"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+
+{"_id": "george-3"
+    , "folder": "photos/2017/05-May/2017-05-10/george-3"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+
 
 
 {"_id": "jane-1"
@@ -354,6 +388,58 @@
     , "partOfSet": true
 },
 
+{"_id": "bill-4"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-4"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+    , "setCount": "5"
+},
+
+{"_id": "bill-2"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-2"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+},
+
+{"_id": "bill-3"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-3"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+},
+
+{"_id": "bill-5"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-5"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+},
+
+{"_id": "bill-1"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-1"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+},
+
+
 {"_id": "neal-1"
     , "folder": "photos/2017/03-March/2017-03-08/neal-1"
     , "title": "Neal"
@@ -394,13 +480,6 @@
     , "viewOnCategories": false
 },
 
-{"_id": "bill-1"
-    , "folder": "photos/2017/05-May/2017-05-12/bill-1"
-    , "title": "Bill"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-},
 
 {"_id": "stephanie-3"
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
