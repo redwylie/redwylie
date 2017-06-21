@@ -28,7 +28,9 @@ $categoryImages = array();
 
 foreach ($obj->{'images'} as &$image) {
     if ($image->category == $category) {
-        array_push($categoryImages, $image);
+    	//if (($image->viewOnSets == true) || ($image->viewOnSets != false)) {
+        	array_push($categoryImages, $image);
+    	//}
     };
 }
 
