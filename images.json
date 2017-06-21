@@ -443,6 +443,29 @@
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
+    , "set":"Abigale"
+    , "partOfSet": true
+    , "setCount": "3"
+},
+
+{"_id": "abigale-2"
+    , "folder": "photos/2017/04-April/2017-04-06/abigale-2"
+    , "title": "Abigale"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Abigale"
+    , "partOfSet": true
+},
+
+{"_id": "abigale-3"
+    , "folder": "photos/2017/04-April/2017-04-06/abigale-3"
+    , "title": "Abigale"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Abigale"
+    , "partOfSet": true
 },
 
 {"_id": "everything"
