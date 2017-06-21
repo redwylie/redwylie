@@ -93,3 +93,17 @@
   background-color: #000;
   border-radius: 6px;
 }
+
+.justified-gallery > a > .setCount,
+.justified-gallery > div > .setCount {
+  position: absolute;
+  top: 0;
+  padding: 12px;
+  left: 0;
+  right: 0;
+  margin: 0;
+  color: #ccc;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: right;
+}

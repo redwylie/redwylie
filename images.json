@@ -37,42 +37,42 @@
 
 {"_id": "jane-1"
     , "folder": "photos/2017/05-May/2017-05-19/jane-1"
-    , "title": "Jane Feigenson"
+    , "title": "The Rockstar"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
-    , "set":"JaneFeigenson"
+    , "set":"Jane Feigenson"
     , "partOfSet": true
     , "setCount": "4"
 },
 
 {"_id": "jane-2"
     , "folder": "photos/2017/05-May/2017-05-19/jane-2"
-    , "title": "Jane Feigenson"
+    , "title": "The Inmate"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
-    , "set":"JaneFeigenson"
+    , "set":"Jane Feigenson"
     , "partOfSet": true
 },
 
 {"_id": "jane-3"
     , "folder": "photos/2017/05-May/2017-05-19/jane-3"
-    , "title": "Jane Feigenson"
+    , "title": "The Artist"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
-    , "set":"JaneFeigenson"
+    , "set":"Jane Feigenson"
     , "partOfSet": true
 },
 
 {"_id": "jane-4"
     , "folder": "photos/2017/05-May/2017-05-19/jane-4"
-    , "title": "Jane Feigenson"
+    , "title": "The Fighter"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
-    , "set":"JaneFeigenson"
+    , "set":"Jane Feigenson"
     , "partOfSet": true
 },
 
@@ -95,7 +95,7 @@
 
 {"_id": "lace-1"
     , "folder": "photos/2017/05-May/2017-05-22/lace-1"
-    , "title": "LACE - Grace and Zoe"
+    , "title": "Grace and Zoe"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": true
@@ -106,7 +106,7 @@
 
 {"_id": "lace-2"
     , "folder": "photos/2017/05-May/2017-05-22/lace-2"
-    , "title": "LACE - Grace and Zoe"
+    , "title": "Grace and Zoe"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
@@ -116,7 +116,7 @@
 
 {"_id": "zoe-lace-1"
     , "folder": "photos/2017/05-May/2017-05-22/zoe-1"
-    , "title": "Zoe - LACE"
+    , "title": "Zoe"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
@@ -126,7 +126,7 @@
 
 {"_id": "grace-lace-1"
     , "folder": "photos/2017/05-May/2017-05-22/grace-1"
-    , "title": "Grace - LACE"
+    , "title": "Grace"
     , "year": "2017"
     , "category": "Artists"
     , "viewOnCategories": false
