@@ -468,6 +468,38 @@
     , "partOfSet": true
 },
 
+{"_id": "sarah-3"
+    , "folder": "photos/2017/06-June/2017-06-20/sarah-1"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Sarah"
+    , "partOfSet": true
+    , "setCount": "3"
+},
+
+{"_id": "sarah-4"
+    , "folder": "photos/2017/06-June/2017-06-20/sarah-2"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Sarah"
+    , "partOfSet": true
+},
+
+{"_id": "sarah-5"
+    , "folder": "photos/2017/06-June/2017-06-20/sarah-3"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Sarah"
+    , "partOfSet": true
+},
+
+
 {"_id": "everything"
     , "folder": "photos/2017/01-January/2017-01-07/flower"
     , "title": "Everything"
@@ -505,7 +537,7 @@
     , "viewOnCategories": false
     , "set": "Bill"
     , "partOfSet": true
-    , "setCount": "5"
+    , "setCount": "4"
 },
 
 {"_id": "bill-2"
@@ -546,6 +578,7 @@
     , "viewOnCategories": false
     , "set": "Bill"
     , "partOfSet": true
+    , "hide": true
 },
 
 
@@ -786,12 +819,36 @@
     , "viewOnCategories": false
 },
 
+{"_id": "street-1"
+    , "folder": "photos/2017/06-June/2017-06-22/street-1"
+    , "title": "Mid Morning Rest"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Street Photography"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "catlabs-1"
+    , "folder": "photos/2017/06-June/2017-06-17/catlabs-1"
+    , "title": "Catlabs of JP"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Street Photography"
+    , "partOfSet": true
+},
+
 {"_id": "bodhi-1"
     , "folder": "photos/2017/03-March/2017-03-25/bodhi-1"
     , "title": "Bodhi"
     , "year": "2017"
     , "category": "Assorted"
     , "viewOnCategories": true
+    , "set":"Bodhi"
+    , "partOfSet": true
+        , "setCount": "2"
 },
 
 {"_id": "bodhi-2"
@@ -800,6 +857,8 @@
     , "year": "2017"
     , "category": "Assorted"
     , "viewOnCategories": false
+    , "set":"Bodhi"
+    , "partOfSet": true
 },
 
 {"_id": "sarah-1"
@@ -1009,7 +1068,31 @@
     , "year": "2016"
     , "category": "Assorted"
     , "viewOnCategories": false
+    , "set":"Jamaica Plain"
+    , "partOfSet": true
+    , "setCount": "3"
 },
+
+{ "_id": "Boat_House"
+    , "folder": "photos/2016/08-August/2016-08-08/boathouse"
+    , "title": "Jamaica Pond Boat House"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Jamaica Plain"
+    , "partOfSet": true
+},
+
+{ "_id": "bus"
+    , "folder": "photos/2016/08-August/2016-08-08/bus"
+    , "title": "Bus Stop"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Jamaica Plain"
+    , "partOfSet": true
+},
+
 
 {"_id": "macro_1"
     , "folder": "photos/2016/11-November/2016-11-01/macro_1"
@@ -1098,6 +1181,9 @@
     , "year": "2016"
     , "category": "Assorted"
     , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
+    , "setCount": "5"
 },
 
 { "_id": "pencils"
@@ -1106,6 +1192,8 @@
     , "year": "2016"
     , "category": "Assorted"
     , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
 },
 
 { "_id": "lily_1"
@@ -1164,22 +1252,6 @@
     , "viewOnCategories": false
 },
 
-{ "_id": "Boat_House"
-    , "folder": "photos/2016/08-August/2016-08-08/boathouse"
-    , "title": "Jamaica Pond Boat House"
-    , "year": "2016"
-    , "category": "Assorted"
-    , "viewOnCategories": false
-},
-
-{ "_id": "bus"
-    , "folder": "photos/2016/08-August/2016-08-08/bus"
-    , "title": "Bus Stop"
-    , "year": "2016"
-    , "category": "Assorted"
-    , "viewOnCategories": false
-},
-
 { "_id": "sunflower_7"
     , "folder": "photos/2016/09-September/2016-09-11/sunflower_2"
     , "title": "Sunflower"
@@ -1210,6 +1282,8 @@
     , "year": "2016"
     , "category": "Assorted"
     , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
 },
 
 {"_id": "rose_1"
@@ -1226,8 +1300,9 @@
     , "year": "2016"
     , "category": "Assorted"
     , "type": "Stacked"
-
     , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
 },
 
 { "_id": "chill_flower_2"
@@ -1244,6 +1319,8 @@
     , "year": "2016"
     , "category": "Assorted"
     , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
 },
 
 {"_id": "delicate_1"

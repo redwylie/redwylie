@@ -31,9 +31,10 @@
 
 			{% if categoryTitle == 'Large Format' %}
 			<br/>
-			<div class="col-sm-8">
-				<p>These large format high resolution photos are taken with a Cambo 4x5 view camera with a custom made back in development by <a href="http://www.maxotics.com" target="_blank">Maxotics</a>. The digitiler back allows the capture of up to 49 images (a 7x7 grid across the film plane) with a full frame 35mm digital sensor. The 49 images are stitched together resulting in photographs with a native resoultion of 150-700 megapixels.  A 400 megapixel image could be printed at 90 inches by 50 inches at 300 DPI. The current challenges of this method include: The need for your subject to be still for 60 seconds, sensor dust, raw file sizes in the gigabytes, retouching these large files, and the web zoom viewer creation process modifying the colors somewhat. </p>
-				<br/>
+			<div class="col-sm-12">
+				<div class="well well-default">
+					 <p>These large format high resolution photos are taken with a Cambo 4x5 view camera with a custom made back in development by <a href="http://www.maxotics.com" target="_blank">Maxotics</a>. The digitiler back allows the capture of up to 56 images (a 7x8 grid across the film plane) with a full frame 35mm digital sensor. The 56 images are stitched together resulting in photographs with a native resoultion of 150-700 megapixels.  A 400 megapixel image could be printed at 90 inches by 50 inches at 300 DPI. The current challenges of this method include: The need for your subject to be still for 60 seconds, sensor dust, raw file sizes in the gigabytes, retouching these large files, and the web zoom viewer creation process modifying the colors somewhat. </p>
+				</div><!-- .well -->
 			</div><!-- .col -->
 			{% endif %}
 			
@@ -43,18 +44,20 @@
 
 			<div id="gallery" class="justified-gallery">
 				{% for image in images %}
-					{% if image.partOfSet == false %}
-					<a href="photo.php?photo={{image._id}}" class="link">
-						<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
-						<div class="caption">{{ image.title }}</div>
-					</a>
-					{% endif %}
-					{% if image.setCount != null %}
-					<a href="set.php?set={{image.set}}&category={{image.category}}" class="link">
-						<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
-						<div class="setCount">{{ image.setCount }} <i class="fa fa-picture-o" aria-hidden="true"></i> </div>
-						<div class="caption">{{ image.set }}</div>
-					</a>
+					{% if image.hide != true %}
+						{% if image.partOfSet == false %}
+						<a href="photo.php?photo={{image._id}}" class="link">
+							<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+							<div class="caption">{{ image.title }}</div>
+						</a>
+						{% endif %}
+						{% if image.setCount != null %}
+						<a href="set.php?set={{image.set}}&category={{image.category}}" class="link">
+							<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+							<div class="setCount">{{ image.setCount }} <i class="fa fa-picture-o" aria-hidden="true"></i> </div>
+							<div class="caption">{{ image.set }}</div>
+						</a>
+						{% endif %}
 					{% endif %}
 				{% endfor %}
 			</div>

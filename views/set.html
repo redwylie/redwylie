@@ -25,10 +25,12 @@
 
 			<div id="gallery" class="justified-gallery">
 				{% for image in images %}
-				<a href="photo.php?photo={{image._id}}" class="link">
-					<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
-					<div class="caption">{{ image.title }}</div>
-				</a>
+				{% if image.hide != true %}
+					<a href="photo.php?photo={{image._id}}" class="link">
+						<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+						<div class="caption">{{ image.title }}</div>
+					</a>
+				{% endif %}
 				{% endfor %}
 			</div>
 
