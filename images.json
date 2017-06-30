@@ -819,15 +819,55 @@
     , "viewOnCategories": false
 },
 
-{"_id": "street-1"
-    , "folder": "photos/2017/06-June/2017-06-22/street-1"
-    , "title": "Mid Morning Rest"
+{"_id": "street-5"
+    , "folder": "photos/2017/06-June/2017-06-29/street-1"
+    , "title": "June 29, 2017"
     , "year": "2017"
     , "category": "Assorted"
     , "viewOnCategories": false
-    , "set":"Street Photography"
+    , "set":"The Gentleman"
     , "partOfSet": true
-    , "setCount": "2"
+},
+
+{"_id": "street-4"
+    , "folder": "photos/2017/06-June/2017-06-28/street-1"
+    , "title": "June 28, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-3"
+    , "folder": "photos/2017/06-June/2017-06-27/street-1"
+    , "title": "June 27, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+    , "setCount": "5"
+},
+
+{"_id": "street-2"
+    , "folder": "photos/2017/06-June/2017-06-26/street-1"
+    , "title": "June 26, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-1"
+    , "folder": "photos/2017/06-June/2017-06-22/street-1"
+    , "title": "June 22, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
 },
 
 {"_id": "catlabs-1"
@@ -836,7 +876,7 @@
     , "year": "2017"
     , "category": "Assorted"
     , "viewOnCategories": false
-    , "set":"Street Photography"
+    , "set":"Jamaica Plain"
     , "partOfSet": true
 },
 
@@ -1070,7 +1110,7 @@
     , "viewOnCategories": false
     , "set":"Jamaica Plain"
     , "partOfSet": true
-    , "setCount": "3"
+    , "setCount": "4"
 },
 
 { "_id": "Boat_House"
