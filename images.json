@@ -819,6 +819,27 @@
     , "viewOnCategories": false
 },
 
+{"_id": "street-7"
+    , "folder": "photos/2017/07-July/2017-07-25/street-1"
+    , "title": "July 25, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+
+{"_id": "street-6"
+    , "folder": "photos/2017/07-July/2017-07-24/street-1"
+    , "title": "July 24, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
 {"_id": "street-5"
     , "folder": "photos/2017/06-June/2017-06-29/street-1"
     , "title": "June 29, 2017"
@@ -847,7 +868,7 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
-    , "setCount": "5"
+    , "setCount": "7"
 },
 
 {"_id": "street-2"
