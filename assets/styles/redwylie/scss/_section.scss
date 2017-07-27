@@ -3,11 +3,11 @@
 	padding-bottom: 80px;
 }
 
-.section:nth-child(odd) {
+.section:nth-child(even) {
     background: $white;
 }
 
-.section:nth-child(even) {
+.section:nth-child(odd) {
     background: $gray-one-shadow;
 }
 

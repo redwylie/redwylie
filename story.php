@@ -43,7 +43,7 @@ echo $template->render(array(
 		'images' => $setImages,
 		'id' => $id,
 		'view' => 'Set',
-		'title' => 'Connected Stories - '.$set,
+		'title' => 'Red Wylie Photography - '.$set,
 		'description' => 'Headshots, Portraits, Flowers'
 	));
 
