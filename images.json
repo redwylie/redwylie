@@ -823,7 +823,7 @@
     , "folder": "photos/2017/07-July/2017-07-25/street-1"
     , "title": "July 25, 2017"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
@@ -834,7 +834,7 @@
     , "folder": "photos/2017/07-July/2017-07-24/street-1"
     , "title": "July 24, 2017"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
@@ -844,7 +844,7 @@
     , "folder": "photos/2017/06-June/2017-06-29/street-1"
     , "title": "June 29, 2017"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
@@ -854,7 +854,7 @@
     , "folder": "photos/2017/06-June/2017-06-28/street-1"
     , "title": "June 28, 2017"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
@@ -864,7 +864,7 @@
     , "folder": "photos/2017/06-June/2017-06-27/street-1"
     , "title": "June 27, 2017"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
@@ -875,8 +875,8 @@
     , "folder": "photos/2017/06-June/2017-06-26/street-1"
     , "title": "June 26, 2017"
     , "year": "2017"
-    , "category": "Assorted"
-    , "viewOnCategories": false
+    , "category": "Street Photography"
+    , "viewOnCategories": true
     , "set":"The Gentleman"
     , "partOfSet": true
 },
@@ -885,7 +885,7 @@
     , "folder": "photos/2017/06-June/2017-06-22/street-1"
     , "title": "June 22, 2017"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
@@ -895,7 +895,7 @@
     , "folder": "photos/2017/06-June/2017-06-17/catlabs-1"
     , "title": "Catlabs of JP"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"Jamaica Plain"
     , "partOfSet": true
@@ -905,8 +905,8 @@
     , "folder": "photos/2017/03-March/2017-03-25/bodhi-1"
     , "title": "Bodhi"
     , "year": "2017"
-    , "category": "Assorted"
-    , "viewOnCategories": true
+    , "category": "Portraits"
+    , "viewOnCategories": false
     , "set":"Bodhi"
     , "partOfSet": true
         , "setCount": "2"
@@ -916,7 +916,7 @@
     , "folder": "photos/2017/03-March/2017-03-25/bodhi-2"
     , "title": "Bodhi"
     , "year": "2017"
-    , "category": "Assorted"
+    , "category": "Portraits"
     , "viewOnCategories": false
     , "set":"Bodhi"
     , "partOfSet": true
@@ -1127,7 +1127,7 @@
     , "folder": "photos/2016/08-August/2016-08-08/pond"
     , "title": "Jamaica Pond"
     , "year": "2016"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"Jamaica Plain"
     , "partOfSet": true
@@ -1138,7 +1138,7 @@
     , "folder": "photos/2016/08-August/2016-08-08/boathouse"
     , "title": "Jamaica Pond Boat House"
     , "year": "2016"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"Jamaica Plain"
     , "partOfSet": true
@@ -1148,7 +1148,7 @@
     , "folder": "photos/2016/08-August/2016-08-08/bus"
     , "title": "Bus Stop"
     , "year": "2016"
-    , "category": "Assorted"
+    , "category": "Street Photography"
     , "viewOnCategories": false
     , "set":"Jamaica Plain"
     , "partOfSet": true
