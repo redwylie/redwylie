@@ -56,7 +56,8 @@
         display: none;
     }
 
-    .jumbotron.jumbotron-session {
+    .jumbotron.jumbotron-session,
+    .jumbotron.jumbotron-sets {
         height: 120px;
         padding-top: 10px;
 
@@ -78,7 +79,8 @@
         }
     }
 
-    .jumbotron.jumbotron-session {
+    .jumbotron.jumbotron-session,
+    .jumbotron.jumbotron-sets {
         height: 220px;
         padding-top: 20px;
 
@@ -89,7 +91,8 @@
 }
 
 @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
-    .jumbotron.jumbotron-categories {
+    .jumbotron.jumbotron-categories,
+    .jumbotron.jumbotron-sets {
 
         height: 230px;
 
