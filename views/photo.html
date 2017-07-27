@@ -49,7 +49,12 @@
 					</div><!-- .col -->
 				</a>
 				<div class="col-xs-12 col-sm-10 col-photo">
-					<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:100%; height:auto;" />
+					{% if photo.caption == null %}
+						<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:100%; height:auto;" />
+					{% else %}
+						<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:100%; height:auto;" />
+						<h5 style="color: white; font-weight: 400; line-height: 1.4">{{photo.caption}}</h5>
+					{% endif %}
 				</div><!-- .col -->
 				<a href="{{urlNext}}" class="col-nav hidden-xs">
 					<div class="col-xs-1">
