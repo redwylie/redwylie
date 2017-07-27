@@ -17,6 +17,8 @@ $file = file_get_contents('./images.json', true);
 
 $json = $file;
 
+$story = null;
+
 $images = json_decode($json);
 
 $categories = array();
@@ -24,12 +26,14 @@ $categories = array();
 foreach ($images->{'images'} as &$image) {
     if ($image->viewOnCategories) {
         array_push($categories, $image);
+        $story = $images->story;
     };
 }
 
 $template = $twig->loadTemplate('categories.html');
 echo $template->render(array(
     'categories' => $categories,
+    'story' => $story,
     'title' => 'Red Wylie - Photography Portfolio',
 	'description' => 'Headshots, Portraits, Flowers'
 ));

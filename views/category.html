@@ -52,7 +52,12 @@
 						</a>
 						{% endif %}
 						{% if image.setCount != null %}
-						<a href="set.php?set={{image.set}}&category={{image.category}}" class="link">
+							{% if image.story == null %}
+								<a href="set.php?set={{image.set}}&category={{image.category}}"  class="link category-link">
+							{% else %}
+								<a href="story.php?set={{image.set}}&category={{image.category}}"  class="link category-link">
+							{% endif %}
+						<!-- <a href="set.php?set={{image.set}}&category={{image.category}}" class="link"> -->
 							<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
 							<div class="setCount">{{ image.setCount }} <i class="fa fa-picture-o" aria-hidden="true"></i> </div>
 							<div class="caption">{{ image.set }}</div>
