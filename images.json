@@ -910,6 +910,67 @@
     , "partOfSet": true
 },
 
+
+{"_id": "rain-1"
+    , "folder": "photos/2017/06-June/2017-06-30/street-1"
+    , "title": "The Rain!"
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+},
+
+
+{"_id": "street-self-portrait-1"
+    , "folder": "photos/2017/07-July/2017-07-25/street-2"
+    , "title": "Self Portrait"
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+},
+
+{"_id": "street-reflections-1"
+    , "folder": "photos/2017/07-July/2017-07-25/street-3"
+    , "title": "Colorator"
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+},
+
+{"_id": "honk-1"
+    , "folder": "photos/2017/07-July/2017-07-22/honk-1"
+    , "title": "JP Honk Band"
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+},
+
+{"_id": "honk-2"
+    , "folder": "photos/2017/07-July/2017-07-22/honk-2"
+    , "title": "JP Honk Band"
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+},
+
+
+{"_id": "boat-2"
+    , "folder": "photos/2017/07-July/2017-07-02/boat-2"
+    , "title": "Jamaica Pond at Sunset"
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+},
+
+{"_id": "boat-1"
+    , "folder": "photos/2017/07-July/2017-07-02/boat-1"
+    , "title": "Jamaica Pond at Sunset"
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+},
+
+
+
 {"_id": "catlabs-1"
     , "folder": "photos/2017/06-June/2017-06-17/catlabs-1"
     , "title": "Catlabs of JP"
