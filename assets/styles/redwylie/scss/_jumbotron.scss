@@ -34,6 +34,8 @@
 
     background-color: #222;
     margin-bottom: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 
     h1 {
         color: $white;
@@ -85,6 +87,17 @@
         margin-bottom: 0px;
     }
 
+    .jumbotron.jumbotron-story {
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+        h1 {
+            font-size: 25px;
+        }
+    }
+
+
 }
 
 @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
@@ -105,6 +118,12 @@
             font-size: 65px;
         }
     }
+
+     .jumbotron.jumbotron-story {
+        h1 {
+            font-size: 65px;
+        }
+    }
 }
 
 @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
@@ -115,6 +134,12 @@
 
         h1 {
             font-size: 90px;
+        }
+    }
+
+     .jumbotron.jumbotron-story {
+        h1 {
+            font-size: 65px;
         }
     }
 }
