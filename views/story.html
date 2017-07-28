@@ -20,9 +20,14 @@
         </div>
     </nav>
 
-    <div class="jumbotron jumbotron-sets">
+    <div class="jumbotron jumbotron-story">
 		<div class="container">
 			<h1>{{setTitle}}</h1>
+			{% for image in images %}
+				{% if image.storyIntro != null %}
+					<small>{{image.storyIntro|raw}}</small>
+				{% endif %}
+			{% endfor %}
  		</div><!-- .container -->
 	</div><!-- .jumbotron -->
 	{% for image in images %}
@@ -36,8 +41,10 @@
 						
 						<img src="{{image.folder}}/photo.jpg" class="img-responsive bordered" />
 						<br/>
-						<h5>{{ image.title }}</h5>
-						<p>{{image.caption}}</p>
+						{% if hideSetTitles == false %}
+							<h5>{{image.title}}</h5>
+						{% endif %}
+						{{image.caption|raw}}
 
 					</div><!-- .card -->
 				

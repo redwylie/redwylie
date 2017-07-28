@@ -12,6 +12,8 @@
     , "set":"George Summers Jr"
     , "partOfSet": true
     , "setCount": "6"
+    , "story" : true
+    , "hideTitles" : true
 },
 
 {"_id": "george-2"
@@ -66,9 +68,6 @@
     , "partOfSet": true
 },
 
-
-
-
 {"_id": "jane-1"
     , "folder": "photos/2017/05-May/2017-05-19/jane-1"
     , "title": "The Rockstar"
@@ -78,6 +77,7 @@
     , "set":"Jane Feigenson"
     , "partOfSet": true
     , "setCount": "4"
+    , "story" : true
 },
 
 {"_id": "jane-2"
@@ -120,6 +120,7 @@
     , "set":"Zoe and Stanley"
     , "partOfSet": true
     , "setCount": "4"
+    , "story" : true
 },
 
 {"_id": "zoe-3"
@@ -171,6 +172,7 @@
     , "set":"LACE"
     , "partOfSet": true
     , "setCount": "4"
+    , "story" : true
 },
 
 {"_id": "lace-2"
@@ -275,7 +277,8 @@
     , "viewOnCategories": false
     , "set":"Jenny and Bodhi"
     , "partOfSet": true
-        , "setCount": "5"
+    , "setCount": "5"
+    , "story" : true
 },
 
 {"_id": "Jenny-5"
@@ -317,6 +320,7 @@
     , "set": "Dave Nash"
     , "partOfSet": true
     , "setCount": "10"
+    , "story" : true
 },
 
 {"_id": "dave-1"
@@ -446,6 +450,7 @@
     , "set":"Abigale"
     , "partOfSet": true
     , "setCount": "3"
+    , "story" : true
 },
 
 {"_id": "abigale-2"
@@ -538,6 +543,7 @@
     , "set": "Bill"
     , "partOfSet": true
     , "setCount": "4"
+    , "story" : true
 },
 
 {"_id": "bill-2"
@@ -831,6 +837,7 @@
     , "partOfSet": true
     , "setCount": "9"
     , "story" : true
+    , "storyIntro" : "<p>Leaving the studio with my camera, the controlled space where I have been working almost exclusively for the past year, my daily commute becoming a vehicle for exploration - encountering a stranger.</p><p>The invisible strangers that we pass everyday, for years, decades, as our well worn route takes us past the same places, at the same time, to the same destination, every day.  Seldom paying attention, hardly noticing the changes, the faces, the life.  The things we turn our eyes away from. What would happen if you looked at one place every day, paused for just a few moments. </p>"
 },
 
 
@@ -986,8 +993,6 @@
     , "viewOnCategories": false
 },
 
-
-
 {"_id": "catlabs-1"
     , "folder": "photos/2017/06-June/2017-06-17/catlabs-1"
     , "title": "Catlabs of JP"
@@ -1006,7 +1011,8 @@
     , "viewOnCategories": false
     , "set":"Bodhi"
     , "partOfSet": true
-        , "setCount": "2"
+    , "setCount": "2"
+    , "story" : true
 },
 
 {"_id": "bodhi-2"
