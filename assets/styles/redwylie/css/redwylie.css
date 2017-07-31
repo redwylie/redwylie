@@ -2968,14 +2968,8 @@ footer {
   footer p {
     padding-top: 10px; }
 
-.required-field-indicator {
-  color: #ca424e; }
-
 .pointer {
   cursor: pointer; }
-
-.page-photo {
-  background-color: black; }
 
 blockquote {
   padding: 10px 20px;
@@ -3217,20 +3211,16 @@ a.link:hover {
   .navbar-nav {
     padding-top: 45px; }
   .page-photo .navbar-brand img,
-  .page-category .navbar-brand img,
   .page-set .navbar-brand img {
     max-height: 45px; }
   .page-photo .navbar,
-  .page-category .navbar,
   .page-set .navbar {
     height: 75px;
     min-height: 75px; }
     .page-photo .navbar .navbar-nav,
-    .page-category .navbar .navbar-nav,
     .page-set .navbar .navbar-nav {
       padding-top: 15px; }
   .page-photo .navbar-brand,
-  .page-category .navbar-brand,
   .page-set .navbar-brand {
     height: 75px; } }
 
@@ -3287,7 +3277,8 @@ footer p {
 
 .page-photo {
   width: 100%;
-  height: 100%; }
+  height: 100%;
+  background-color: black; }
 
 .row-photo {
   display: flex;
@@ -3352,10 +3343,10 @@ footer p {
   padding-top: 80px;
   padding-bottom: 80px; }
 
-.section:nth-child(even) {
+.section:nth-child(odd) {
   background: #ffffff; }
 
-.section:nth-child(odd) {
+.section:nth-child(even) {
   background: #e6e9ed; }
 
 .first-section {
