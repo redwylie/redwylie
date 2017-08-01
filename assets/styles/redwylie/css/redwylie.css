@@ -3683,3 +3683,8 @@ a.link:hover {
       font-size: 90px; }
   .jumbotron.jumbotron-story h1 {
     font-size: 65px; } }
+
+h3 {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 300; }
