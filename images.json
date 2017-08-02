@@ -844,7 +844,7 @@
     , "viewOnCategories": true
     , "set":"The Gentleman"
     , "partOfSet": true
-    , "setCount": "9"
+    , "setCount": "11"
     , "story" : true
     , "storyIntro" : "<p>Leaving the studio with my camera, the controlled space where I have been working almost exclusively for the past year, my daily commute becoming a vehicle for exploration - encountering a stranger.</p><p>The invisible strangers that we pass everyday in our cars, the train, on the streets.  Years, decades pass as our well worn route takes us past the same places, at the same time, to the same destination, every day. Seldom paying attention, hardly noticing the changes, the faces, the life. The things we turn our eyes away from. What would happen if you looked at one place every day, paused for just a few moments. </p>"
 },
@@ -894,6 +894,7 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
+    , "copy": "<h3>Vacation and a back injury kept me away from my daily commute and the benches for nearly 4 weeks. I often thought about The Gentleman while I was away.</h3><h3> Upon returning I found some subtle changes.</h3>"
 },
 
 
@@ -936,6 +937,28 @@
     , "folder": "photos/2017/07-July/2017-07-27/street-1"
     , "title": "July 27, 2017"
     , "caption":"Bundled up as the lower temps and rain swing through Boston again, the Gentleman is again resting on the bench today."
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-10"
+    , "folder": "photos/2017/07-July/2017-07-31/street-1"
+    , "title": "July 31, 2017"
+    , "caption":"The carnival that was in town for the weekend is all but packed up. The sun is shining brightly. The woman with the cart is asking for help with a loose wheel. Foam food containers are scattered around the benches. The Gentleman is not present today."
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-11"
+    , "folder": "photos/2017/08-August/2017-08-01/street-1"
+    , "title": "August 1, 2017"
+    , "caption":"Another sun filled day, the heat is returning to the city. Most of the litter from the weekend is still under the benches. A few rides from the carnival are still sitting on the plaza. The sound of a pressure washer fills the area as the cement is being cleaned. The Gentleman is not present today."
     , "year": "2017"
     , "category": "Street Photography"
     , "viewOnCategories": false
