@@ -16,7 +16,14 @@
 			<a href="story.php?set={{category.set}}&category={{category.category}}"  class="link category-link">
 		{% endif %}
 	{% else %}
+		{% if category.category == 'Humans of JP' %}
+			<a href="http://www.humansofjp.com" target="_blank" class="link category-link">
+		{% elseif category.category == 'Connected Stories'%}
+			<a href="http://www.connectedstories.org" target="_blank" class="link category-link">
+		{% else %}
+
 		<a href="category.php?category={{category.category}}"  class="link category-link">
+		{% endif %}
 	{% endif %}
 
 			{% if view == 'photo' %}
@@ -34,7 +41,12 @@
 					{% elseif view == 'sets' %}
 						<h1>{{ category.set }}</h1>
 					{% else %}
-						<h1>{{ category.category }}</h1>
+						<h1>
+							{{ category.category }}
+							{% if (category.category == 'Humans of JP') or (category.category == 'Connected Stories') %}
+								&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i>
+							{% endif %}
+						</h1>
 					{% endif %}
 				</div>
 			</div><!-- .card -->
