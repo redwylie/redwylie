@@ -111,51 +111,6 @@
 },
 
 
-{"_id": "zoe-1"
-    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
-    , "title": "Zoe and Stanley"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-    , "set":"Zoe and Stanley"
-    , "partOfSet": true
-    , "setCount": "4"
-    , "story" : true
-    , "hideTitles" : true
-},
-
-{"_id": "zoe-3"
-    , "folder": "photos/2017/02-February/2017-02-22/zoe-3"
-    , "title": "Zoe and Stanley"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-    , "set":"Zoe and Stanley"
-    , "partOfSet": true
-},
-
-{"_id": "zoe-4"
-    , "folder": "photos/2017/02-February/2017-02-22/zoe-4"
-    , "title": "Zoe and Stanley"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-    , "set":"Zoe and Stanley"
-    , "partOfSet": true
-},
-
-{"_id": "zoe-5"
-    , "folder": "photos/2017/02-February/2017-02-22/zoe-5"
-    , "title": "Zoe and Stanley"
-    , "year": "2017"
-    , "category": "Portraits"
-    , "viewOnCategories": false
-    , "set":"Zoe and Stanley"
-    , "partOfSet": true
-},
-
-
-
 {"_id": "bob-lg-1"
     , "folder": "photos/2017/05-May/2017-05-06/bob-1"
     , "title": "Robert Siegelman"
@@ -264,7 +219,7 @@
     , "folder": "photos/2017/05-May/2017-05-27/jenny-1"
     , "title": "Jenny and Bodhi"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Pets"
     , "viewOnCategories": false
     , "set":"Jenny and Bodhi"
     , "partOfSet": true
@@ -274,7 +229,7 @@
     , "folder": "photos/2017/05-May/2017-05-27/jenny-2"
     , "title": "Jenny and Bodhi"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Pets"
     , "viewOnCategories": false
     , "set":"Jenny and Bodhi"
     , "partOfSet": true
@@ -287,7 +242,7 @@
     , "folder": "photos/2017/05-May/2017-05-27/jenny-3"
     , "title": "Jenny and Bodhi"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Pets"
     , "viewOnCategories": false
     , "set":"Jenny and Bodhi"
     , "partOfSet": true
@@ -297,7 +252,7 @@
     , "folder": "photos/2017/05-May/2017-05-27/jenny-4"
     , "title": "Jenny and Bodhi"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Pets"
     , "viewOnCategories": false
     , "set":"Jenny and Bodhi"
     , "partOfSet": true
@@ -307,7 +262,7 @@
     , "folder": "photos/2017/05-May/2017-05-27/jenny-5"
     , "title": "Jenny and Bodhi"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Pets"
     , "viewOnCategories": false
     , "set":"Jenny and Bodhi"
     , "partOfSet": true
@@ -977,6 +932,50 @@
 },
 
 
+{"_id": "zoe-1"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Pets"
+    , "viewOnCategories": true
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+    , "setCount": "4"
+    , "story" : true
+    , "hideTitles" : true
+},
+
+{"_id": "zoe-3"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-3"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Pets"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+{"_id": "zoe-4"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-4"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Pets"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+{"_id": "zoe-5"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-5"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Pets"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+
 {"_id": "street-self-portrait-1"
     , "folder": "photos/2017/07-July/2017-07-25/street-2"
     , "title": "Self Portrait"
@@ -1040,7 +1039,7 @@
     , "folder": "photos/2017/03-March/2017-03-25/bodhi-1"
     , "title": "Bodhi"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Pets"
     , "viewOnCategories": false
     , "set":"Bodhi"
     , "partOfSet": true
@@ -1053,7 +1052,7 @@
     , "folder": "photos/2017/03-March/2017-03-25/bodhi-2"
     , "title": "Bodhi"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "Pets"
     , "viewOnCategories": false
     , "set":"Bodhi"
     , "partOfSet": true
