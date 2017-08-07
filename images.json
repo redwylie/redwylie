@@ -624,7 +624,7 @@
     , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
     , "title": "Stephanie"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
 },
 
@@ -640,7 +640,7 @@
     , "folder": "photos/2017/03-March/2017-03-01/fiona-1"
     , "title": "Fiona"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
     , "set":"Fiona"
     , "partOfSet": true
@@ -651,7 +651,7 @@
     , "folder": "photos/2017/03-March/2017-03-01/fiona-2"
     , "title": "Fiona"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
     , "set":"Fiona"
     , "partOfSet": true
@@ -1115,7 +1115,7 @@
     , "folder": "photos/2017/01-January/2017-01-14/dan-1"
     , "title": "Dan"
     , "year": "2017"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
 },
 
@@ -1124,7 +1124,7 @@
     , "folder": "photos/2016/12-December/2016-12-31/david-1"
     , "title": "David"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
 },
 
@@ -1133,7 +1133,7 @@
     , "folder": "photos/2016/12-December/2016-12-25/emma-1"
     , "title": "Emma"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
 },
 
@@ -1352,7 +1352,7 @@
     , "folder": "photos/2016/11-November/2016-11-21/kinney"
     , "title": "Kinney"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
 },
 
@@ -1532,7 +1532,7 @@
     , "folder": "photos/2016/12-December/2016-12-21/kevin-1"
     , "title": "Kevin"
     , "year": "2016"
-    , "category": "Portraits"
+    , "category": "hide"
     , "viewOnCategories": false
 },
 
